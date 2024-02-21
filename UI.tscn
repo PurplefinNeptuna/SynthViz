@@ -1,0 +1,227 @@
+[gd_scene load_steps=3 format=3 uid="uid://bw5dfxah3va8y"]
+
+[ext_resource type="Script" path="res://UI.gd" id="1_wlqc6"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_n40rj"]
+font_size = 24
+
+[node name="UI" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_wlqc6")
+metadata/_edit_use_anchors_ = true
+
+[node name="Vsplit" type="VSplitContainer" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+split_offset = -235
+dragger_visibility = 2
+metadata/_edit_use_anchors_ = true
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Vsplit"]
+layout_mode = 2
+size_flags_vertical = 3
+metadata/_edit_use_anchors_ = true
+
+[node name="MarginContainer" type="MarginContainer" parent="Vsplit/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 80
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 80
+theme_override_constants/margin_bottom = 20
+
+[node name="VSplitContainer" type="VSplitContainer" parent="Vsplit/HBoxContainer/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+split_offset = -10
+dragger_visibility = 1
+
+[node name="Label" type="Label" parent="Vsplit/HBoxContainer/MarginContainer/VSplitContainer"]
+layout_mode = 2
+text = "Starting Item"
+label_settings = SubResource("LabelSettings_n40rj")
+horizontal_alignment = 1
+vertical_alignment = 1
+text_direction = 1
+
+[node name="StartingSelect" type="OptionButton" parent="Vsplit/HBoxContainer/MarginContainer/VSplitContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="MarginContainer2" type="MarginContainer" parent="Vsplit/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 80
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 80
+theme_override_constants/margin_bottom = 20
+
+[node name="VSplitContainer2" type="VSplitContainer" parent="Vsplit/HBoxContainer/MarginContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+split_offset = -10
+dragger_visibility = 1
+
+[node name="Label" type="Label" parent="Vsplit/HBoxContainer/MarginContainer2/VSplitContainer2"]
+layout_mode = 2
+text = "Target Item"
+label_settings = SubResource("LabelSettings_n40rj")
+horizontal_alignment = 1
+vertical_alignment = 1
+text_direction = 1
+
+[node name="TargetSelect" type="OptionButton" parent="Vsplit/HBoxContainer/MarginContainer2/VSplitContainer2"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Vsplit2" type="VSplitContainer" parent="Vsplit"]
+layout_mode = 2
+size_flags_vertical = 3
+split_offset = -205
+dragger_visibility = 2
+
+[node name="HSplitContainer" type="HSplitContainer" parent="Vsplit/Vsplit2"]
+layout_mode = 2
+size_flags_vertical = 3
+dragger_visibility = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="Vsplit/Vsplit2/HSplitContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 75
+theme_override_constants/margin_bottom = 10
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="FailCheck" type="CheckBox" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 3
+text = "Use Failures"
+expand_icon = true
+
+[node name="EffectCheck" type="CheckBox" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 3
+text = "Use Category Effects"
+expand_icon = true
+
+[node name="MarginContainer" type="MarginContainer" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 40
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 85
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer/HBoxContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="LvText" type="Label" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer/HBoxContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 8
+theme_override_font_sizes/font_size = 20
+text = "Alchemy Level: 1"
+horizontal_alignment = 1
+vertical_alignment = 2
+
+[node name="LvSlider" type="HSlider" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer/HBoxContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 2
+min_value = 1.0
+max_value = 50.0
+value = 1.0
+
+[node name="MarginContainer2" type="MarginContainer" parent="Vsplit/Vsplit2/HSplitContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 80
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 300
+theme_override_constants/margin_bottom = 15
+
+[node name="Start" type="Button" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer2"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_font_sizes/font_size = 20
+text = "Search"
+
+[node name="ColorRect" type="ColorRect" parent="Vsplit/Vsplit2"]
+layout_mode = 2
+size_flags_vertical = 3
+color = Color(1, 1, 1, 0)
+
+[node name="MarginContainer" type="MarginContainer" parent="Vsplit/Vsplit2/ColorRect"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 50
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 50
+theme_override_constants/margin_bottom = 5
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer"]
+layout_mode = 2
+metadata/_edit_use_anchors_ = true
+
+[node name="Item1" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Item3" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Item2" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Item4" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Item5" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Item6" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Item7" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Item8" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3

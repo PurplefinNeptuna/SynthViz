@@ -1,0 +1,8835 @@
+{
+	"Abyss Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Absolute Truth: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Pendelook",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Hidden Spell Page",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Bugs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Adventurer's Clothing": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "ATK +3: 3",
+				"Effect 3": "ATK +5: 6",
+				"Effect 4": "ATK +8: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "ACC +8%: -3",
+				"Effect 2": "ACC +5%: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "DEF +3: 3",
+				"Effect 5": "DEF +5: 5",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Muffcot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Armor Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Aerven Staff of Light": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Shining Destiny Light S: 7",
+				"Effect 3": "Shining Destiny Light M: 12",
+				"Effect 4": "Shining Destiny Light L: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Enhance Skills +15%: -10",
+				"Effect 2": "Enhance Skills +12%: -7",
+				"Effect 3": "Enhance Skills +8%: -3",
+				"Effect 4": "Enhance Items +8%: 0",
+				"Effect 5": "Enhance Items +12%: 5",
+				"Effect 6": "Enhance Items +15%: 10",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Creation Tree's Twig",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Alchemy Activator": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "ITEM_EFF_AROUSAL_EQUIP_UNIQUE_1: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Clear Grass",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Alchemy Candy": {
+		"Effects": [
+			{
+				"Effect 1": "Ice Resistance Up+: -8",
+				"Effect 2": "Ice Resistance Up: -1",
+				"Effect 3": "Pollutant: 0",
+				"Effect 4": "Fire Resistance Up: 1",
+				"Effect 5": "Fire Resistance Up+: 7",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Earth Resistance Up+: -7",
+				"Effect 2": "Earth Resistance Up: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Lightning Resistance Up: 1",
+				"Effect 5": "Lightning Resistance Up+: 7",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Puni Fluid",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Honey",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Medicinal)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Spices)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "2"
+	},
+	"Alchemy Cane": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Dexterous Technique S: 2",
+				"Effect 3": "Dexterous Technique M: 4",
+				"Effect 4": "Dexterous Technique L: 6",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Weaken Items +8%: -4",
+				"Effect 2": "Weaken Items +5%: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Enhance Items +5%: 2",
+				"Effect 5": "Enhance Items +8%: 4",
+				"Effect 6": "Enhance Items +12%: 6",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Alchemy Coal": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Ore): 10",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Eiche",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Fuel Dirt",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Alchemy Coat": {
+		"Effects": [
+			{
+				"Effect 1": "Mastery (Medicine): -10",
+				"Effect 2": "Mastery (Food): -5",
+				"Effect 3": "None: 0",
+				"Effect 4": "Mastery (Bombs): 5",
+				"Effect 5": "Mastery (Magic Tools): 10",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Weaken Items +12%: -10",
+				"Effect 2": "Weaken Items +8%: -7",
+				"Effect 3": "None: 0",
+				"Effect 4": "Add Magic Resistance: 6",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Himmel Linen",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rainbow Supplement",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Armor Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Medicines)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Alchemy Yeast": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Puniballs): 15",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Dizzy Cap Spore",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mushrooms)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Medicinal)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Ancient Memory": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Ancestral Recall S: 4",
+				"Effect 3": "Ancestral Recall M: 7",
+				"Effect 4": "Ancestral Recall L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "ACC +12%: -5",
+				"Effect 2": "ACC +8%: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Enhance Stun +5%: 4",
+				"Effect 5": "Enhance Stun +8%: 6",
+				"Effect 6": "Enhance Stun +12%: 8",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Star Piece",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Angel Charm": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Angel's Protection S: 0",
+				"Effect 3": "Angel's Protection M: 13",
+				"Effect 4": "Angel's Protection L: 16",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Pendelook",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Blessed Stone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Apprentice Alchemist's Staff": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Training Staff S: 2",
+				"Effect 3": "Training Staff M: 4",
+				"Effect 4": "Training Staff L: 6",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "DEF +5: -3",
+				"Effect 2": "DEF +3: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "ATK +3: 1",
+				"Effect 5": "ATK +5: 3",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Arland Crystal": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Metals): 14",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Komet",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Artisan's Key": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Opens Locks: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Original Gem",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Barrel": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Empty Barrel: 0",
+				"Effect 3": "Water Barrel: 13",
+				"Effect 4": "Liquor Barrel: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Critical+ M: -6",
+				"Effect 2": "Critical+ S: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Restricts Movement S: 5",
+				"Effect 5": "Restricts Movement M: 7",
+				"Effect 6": "Restricts Movement L: 9",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Eiche",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "4"
+	},
+	"Barrel Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Gunpowder Barrel: 0",
+				"Effect 3": "Exploding Barrel: 9",
+				"Effect 4": "Blastpowder Barrel: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Critical+ L: -4",
+				"Effect 2": "Critical+ M: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Engulfing Flames S: 2",
+				"Effect 5": "Engulfing Flames M: 4",
+				"Effect 6": "Engulfing Flames L: 6",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Pure Oil",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "3"
+	},
+	"Battle Scarf": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Zealous Soul S: 10",
+				"Effect 3": "Zealous Soul M: 14",
+				"Effect 4": "Zealous Soul L: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Beast Fur",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Magic Paint",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Cloth)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Beast Armor": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Stun Resistance +20: 7",
+				"Effect 3": "Stun Resistance +30: 10",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Evasion +5%: -4",
+				"Effect 2": "Evasion +3%: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "SPD +3: 2",
+				"Effect 5": "SPD +5: 4",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Beast Fur",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Armor Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Black Mist Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Abyssal Aura: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Black Runestone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Black Steel": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "First Blade S: 2",
+				"Effect 3": "First Blade M: 4",
+				"Effect 4": "First Blade L: 6",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "ATK +5: -5",
+				"Effect 2": "ATK +3: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Max HP +5: 2",
+				"Effect 5": "Max HP +10: 5",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Blinding Radiance": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Scintillating Insight S: 3",
+				"Effect 3": "Scintillating Insight M: 6",
+				"Effect 4": "Scintillating Insight L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "ACC +16%: -4",
+				"Effect 2": "ACC +12%: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Evasion +5%: 5",
+				"Effect 5": "Evasion +8%: 8",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Blitzstrom": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Thunder King's Ambition S: 5",
+				"Effect 3": "Thunder King's Ambition M: 8",
+				"Effect 4": "Thunder King's Ambition L: 12",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "DEF +12: -10",
+				"Effect 2": "DEF +8: -8",
+				"Effect 3": "None: 0",
+				"Effect 4": "Critical Rate Up +8%: 1",
+				"Effect 5": "Critical Rate Up +12%: 5",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sylph Breath",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Blue Beam Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Water Spirit Glow: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Crystal Piece",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Fire DMG XS: 0",
+				"Effect 3": "Fire DMG S: 6",
+				"Effect 4": "Fire DMG M: 10",
+				"Effect 5": "Fire DMG L: 16",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Undying Flame L: -5",
+				"Effect 2": "Undying Flame S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Defenses Down S: 3",
+				"Effect 5": "Defenses Down M: 6",
+				"Effect 6": "Defenses Down L: 8",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Phlogiston",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "4"
+	},
+	"Bomb Curry": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "Mild Spice: 0",
+				"Effect 3": "Spicy: 7",
+				"Effect 4": "Extra Spicy: 10",
+				"Effect 5": "Flaming Hot: 15",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "MP Healing M: -4",
+				"Effect 2": "MP Healing S: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "HP Healing XS: 4",
+				"Effect 5": "HP Healing S: 6",
+				"Effect 6": "HP Healing M: 8",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Nostalgic Spice",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Spices)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Meat)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vegetables)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Brave Sigil": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Mark of the Hero S: 10",
+				"Effect 3": "Mark of the Hero M: 13",
+				"Effect 4": "Mark of the Hero L: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Archfiend Claw",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Wicked Fang",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Bugs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Bug Catcher Net": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Catches Bugs: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Chainweb",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Threads)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Lumber)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Captain's Long Sword": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Guardian Stance S: 2",
+				"Effect 3": "Guardian Stance M: 4",
+				"Effect 4": "Guardian Stance L: 6",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "DEF +12: -4",
+				"Effect 2": "DEF +8: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "ATK +8: 4",
+				"Effect 5": "ATK +12: 7",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Chain of Karma": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Bind Fate S: 0",
+				"Effect 3": "Bind Fate M: 9",
+				"Effect 4": "Bind Fate L: 13",
+				"Effect 5": "Bind Fate XL: 17",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Physical Resistance Down+: -8",
+				"Effect 2": "Physical Resistance Down: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Magical Resistance Down: 6",
+				"Effect 5": "Magical Resistance Down+: 10",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Rota Fortunae",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Clavaal's Halo": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Lightblade Locus S: 7",
+				"Effect 3": "Lightblade Locus M: 11",
+				"Effect 4": "Lightblade Locus L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Max MP +25: -10",
+				"Effect 2": "Max MP +20: -8",
+				"Effect 3": "Max MP +15: -5",
+				"Effect 4": "None: 0",
+				"Effect 5": "Evasion +10%: 1",
+				"Effect 6": "Evasion +12%: 5",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Gold Puniball",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Elixirs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Cloth": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: DEF +1: 6",
+				"Effect 4": "Equipment Creation: DEF +3: 8",
+				"Effect 5": "Equipment Creation: DEF +5: 10",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "(Threads)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Craft": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Physical DMG XS: 0",
+				"Effect 3": "Physical DMG S: 4",
+				"Effect 4": "Physical DMG M: 6",
+				"Effect 5": "Physical DMG L: 8",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Drowsiness M: -4",
+				"Effect 2": "Drowsiness S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Strength Down S: 3",
+				"Effect 5": "Strength Down M: 5",
+				"Effect 6": "Strength Down L: 7",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Nuse",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Ore)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "6"
+	},
+	"Crossment Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Force of Conflict: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Phlogiston",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Snow Stone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Crystal Ball": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Ore): 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "2",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Crystal Piece",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Danish": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "HP Part. Recovery XS: 0",
+				"Effect 3": "HP Part. Recovery S: 10",
+				"Effect 4": "HP Part. Recovery M: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Cures Seal: -6",
+				"Effect 2": "Cures Burns: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Cures Blindness: 2",
+				"Effect 5": "Cures Sleep: 4",
+				"Effect 6": "Cures Slowness: 6",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Flour",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Alchemy Yeast",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Spices)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Dark Water": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "Inflicts Impurity L: 0",
+				"Effect 3": "Inflicts Despair S: 4",
+				"Effect 4": "Inflicts Despair M: 8",
+				"Effect 5": "Inflicts Despair L: 11",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Invitation to the Hell L: -4",
+				"Effect 2": "Invitation to the Hell S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Cell Erosion S: 3",
+				"Effect 5": "Cell Erosion M: 5",
+				"Effect 6": "Cell Erosion L: 7",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Pure Poison",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Night Lady",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Bugs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mushrooms)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "3"
+	},
+	"Death Tarot": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Arcana of the Reaper: 18",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Convert Damage 10%: -8",
+				"Effect 2": "Convert Damage 7%: -4",
+				"Effect 3": "Convert Damage 5%: -2",
+				"Effect 4": "None: 0",
+				"Effect 5": "Critical Power Up +12%: 4",
+				"Effect 6": "Critical Power Up +15%: 6",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Hidden Spell Page",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Delicious Fishing Bait": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Food): 8",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Hard Potato",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Bugs)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vegetables)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Demon Canon": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Magic DMG XS: 0",
+				"Effect 3": "Magic DMG S: 7",
+				"Effect 4": "Magic DMG M: 11",
+				"Effect 5": "Magic DMG L: 15",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Consume HP S: -5",
+				"Effect 2": "Consume HP M: -3",
+				"Effect 3": "Consume HP L: -1",
+				"Effect 4": "Consume MP L: 0",
+				"Effect 5": "Consume MP M: 5",
+				"Effect 6": "Consume MP S: 8",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Crystal Piece",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Alchemy Coal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Magic Tool)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "3"
+	},
+	"Direct Illusion": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Silent Blade S: 3",
+				"Effect 3": "Silent Blade M: 6",
+				"Effect 4": "Silent Blade L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "SPD +15: -5",
+				"Effect 2": "SPD +12: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Critical Rate Up +8%: 7",
+				"Effect 5": "Critical Rate Up +12%: 10",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Black Runestone",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Distilled Water": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Medicinal): 11",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Clean Water",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Cotton Flower",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Divine Auric Plate Armor": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Knightly Vow S: 9",
+				"Effect 3": "Knightly Vow M: 13",
+				"Effect 4": "Knightly Vow L: 18",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Ailments Resistance +15%: -5",
+				"Effect 2": "Ailments Resistance +10%: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Avoid KO 15%: 5",
+				"Effect 5": "Avoid KO 20%: 7",
+				"Effect 6": "Avoid KO 25%: 10",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Himmel Linen",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rainbow Supplement",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Armor Materials)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Divinity's Edge": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Meteoric Speed S: 5",
+				"Effect 3": "Meteoric Speed M: 8",
+				"Effect 4": "Meteoric Speed L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "DEF +5: -5",
+				"Effect 2": "DEF +3: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "SPD +3: 5",
+				"Effect 5": "SPD +5: 8",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Drachen Elixir": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "Physical Reinforcement S: 0",
+				"Effect 3": "Physical Reinforcement M: 6",
+				"Effect 4": "Physical Reinforcement L: 10",
+				"Effect 5": "Physical Reinforcement XL: 14",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Blocks Strong Strikes L: -5",
+				"Effect 2": "Blocks Strong Strikes S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Level Up S: 6",
+				"Effect 5": "Level Up M: 8",
+				"Effect 6": "Level Up L: 10",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Medicine Base",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Mandrake Elixir",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Elixirs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Dragon Gun Gargantua": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Dragon King's Awakening S: 10",
+				"Effect 3": "Dragon King's Awakening M: 15",
+				"Effect 4": "Dragon King's Awakening L: 20",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Enhance Skills +15%: -10",
+				"Effect 2": "Enhance Skills +12%: -7",
+				"Effect 3": "Enhance Skills +8%: -3",
+				"Effect 4": "Max HP +15: 0",
+				"Effect 5": "Max HP +20: 5",
+				"Effect 6": "Max HP +25: 10",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Dragon Piece",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Dragon Plate Armor": {
+		"Effects": [
+			{
+				"Effect 1": "Earth Dragon Scale: -6",
+				"Effect 2": "None: 0",
+				"Effect 3": "Fire Dragon Scale: 4",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Lightning Dragon Scale: -5",
+				"Effect 2": "None: 0",
+				"Effect 3": "Ice Dragon Scale: 9",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Scale Cloth",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Dragon Scale",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Armor Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Dragoon Coat": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Dragon's Vitality S: 3",
+				"Effect 3": "Dragon's Vitality M: 6",
+				"Effect 4": "Dragon's Vitality L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Enhance Skills +12%: -6",
+				"Effect 2": "Enhance Skills +8%: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Damage Cut 5%: 2",
+				"Effect 5": "Damage Cut 8%: 5",
+				"Effect 6": "Damage Cut 10%: 8",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Scale Cloth",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Dragon Horn",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Armor Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Dragoon Lore": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Dragon's Roar S: 9",
+				"Effect 3": "Dragon's Roar M: 13",
+				"Effect 4": "Dragon's Roar L: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Critical Rate Up +12%: -8",
+				"Effect 2": "Critical Rate Up +8%: -6",
+				"Effect 3": "Critical Rate Up +5%: -3",
+				"Effect 4": "None: 0",
+				"Effect 5": "Enhance Stun +12%: 4",
+				"Effect 6": "Enhance Stun +15%: 8",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Dragon Horn",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Dream Anchor Indigonia": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Dreamchaser Bonds S: 5",
+				"Effect 3": "Dreamchaser Bonds M: 10",
+				"Effect 4": "Dreamchaser Bonds L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Enhance Skills +15%: -10",
+				"Effect 2": "Enhance Skills +12%: -5",
+				"Effect 3": "None: 0",
+				"Effect 4": "DEF +12: 5",
+				"Effect 5": "DEF +15: 10",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Dream Vision": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Distorts Vision: 0",
+				"Effect 3": "Distorts Perception: 10",
+				"Effect 4": "Distorts World: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Sonic Move L: -10",
+				"Effect 2": "Sonic Move S: -5",
+				"Effect 3": "None: 0",
+				"Effect 4": "Action Cut S: 4",
+				"Effect 5": "Action Cut M: 7",
+				"Effect 6": "Action Cut L: 10",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Elemental Breath": {
+		"Effects": [
+			{
+				"Effect 1": "Earth Spirit Chaser: -5",
+				"Effect 2": "None: 0",
+				"Effect 3": "Fire Spirit Chaser: 6",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Lightning Spirit Chaser: -5",
+				"Effect 2": "None: 0",
+				"Effect 3": "Ice Spirit Chaser: 5",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Elemental Fragment",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Elemental Canon": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "All-Element DMG S: 0",
+				"Effect 3": "All-Element DMG M: 10",
+				"Effect 4": "All-Element DMG L: 16",
+				"Effect 5": "All Energy Unlocked: 17",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Negate Buffs: -4",
+				"Effect 2": "None: 0",
+				"Effect 3": "Inflicts Impurity XS: 5",
+				"Effect 4": "Inflicts Impurity S: 8",
+				"Effect 5": "Inflicts Impurity M: 12",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Demon Canon",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Jar of Four Spirits",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "2"
+	},
+	"Elixir": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "HP Recovery M: 0",
+				"Effect 3": "HP Recovery L: 13",
+				"Effect 4": "HP Recovery XL: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Removes Ailments: -6",
+				"Effect 2": "None: 0",
+				"Effect 3": "Cleanses Impurity S: 4",
+				"Effect 4": "Cleanses Impurity M: 7",
+				"Effect 5": "Cleanses Impurity L: 10",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sage Herb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Nectar",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Water)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Elixirs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Ether Ink": {
+		"Effects": [
+			{
+				"Effect 1": "Ice Resistance Down+: -7",
+				"Effect 2": "Ice Resistance Down: -1",
+				"Effect 3": "Pollutant: 0",
+				"Effect 4": "Fire Resistance Down: 1",
+				"Effect 5": "Fire Resistance Down+: 7",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Earth Resistance Down+: -7",
+				"Effect 2": "Earth Resistance Down: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Lightning Resistance Down: 1",
+				"Effect 5": "Lightning Resistance Down+: 7",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Magic Paint",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Jar of Four Spirits",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Exorcism Incense": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Fuel): 16",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Medicine Base",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Hay",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Fairy Sack": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Portable Whirlwind: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Balloon Fruit",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Cloth)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "5"
+	},
+	"Falling Star Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Glittering Rainbow Stars: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Jar of Four Spirits",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rainbow Fragment",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Fate Talisman": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Great Learner S: 0",
+				"Effect 3": "Great Learner M: 9",
+				"Effect 4": "Great Learner L: 12",
+				"Effect 5": "Great Learner XL: 15",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Hidden Spell Page",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Magic Paint",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "1"
+	},
+	"Feather Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "White Feather Dance: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Audra's Tail",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rabbit Fur",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Fessellmeer": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Ocean Pressure S: 4",
+				"Effect 3": "Ocean Pressure M: 6",
+				"Effect 4": "Ocean Pressure L: 8",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Enhance Skills +8%: -6",
+				"Effect 2": "Enhance Skills +5%: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Enhance Stun +5%: 2",
+				"Effect 5": "Enhance Stun +8%: 5",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Crystal Piece",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Seafood)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Fire Spirit Crystal Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Red Wall: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Fuel Dirt",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Ore)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Fire Spirit Ring": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Add Fire Resistance S: 0",
+				"Effect 3": "Add Fire Resistance L: 8",
+				"Effect 4": "Fire Spirit Clan: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Magic Paint",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Fish Sauce": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Meat): 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "2",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Small Sardine",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Butterfly Fish",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Fishing Rod": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Catches Fish: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Delicious Fishing Bait",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Green Bamboo",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rabbit Fur",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Flash Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Roaring Lightning: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Quake Crystal",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Komet",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Clay)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Flawless Principle": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Strength of Purity S: 6",
+				"Effect 3": "Strength of Purity M: 9",
+				"Effect 4": "Strength of Purity L: 12",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Max MP +20: -4",
+				"Effect 2": "Max MP +15: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Critical Power Up +8%: 7",
+				"Effect 5": "Critical Power Up +12%: 10",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Undying Wind",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Flour": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Gunpowder): 8",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Wheat",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Scrap Paper",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Flower Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Scattered Petals: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Balloon Fruit",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Clear Grass",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Plants)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vegetables)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Fortune's Light": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Beginner's Luck S: 6",
+				"Effect 3": "Beginner's Luck M: 9",
+				"Effect 4": "Beginner's Luck L: 12",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Convert Damage 5%: -7",
+				"Effect 2": "Convert Damage 3%: -4",
+				"Effect 3": "None: 0",
+				"Effect 4": "ACC +5%: 4",
+				"Effect 5": "ACC +8%: 7",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Gaia Earth Ring": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Add Earth Resistance S: 0",
+				"Effect 3": "Add Earth Resistance L: 10",
+				"Effect 4": "Gaia Earth Clan: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Magic Paint",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Clay)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Ghostly Long Sword": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Hurricane Blade S: 5",
+				"Effect 3": "Hurricane Blade M: 8",
+				"Effect 4": "Hurricane Blade L: 12",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "ACC +20%: -9",
+				"Effect 2": "ACC +16%: -5",
+				"Effect 3": "ACC +12%: -1",
+				"Effect 4": "None: 0",
+				"Effect 5": "Critical Power Up +12%: 6",
+				"Effect 6": "Critical Power Up +15%: 10",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "ITEM_RESERVE_KEY_ITEM_015",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Glacier Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Gleaming Hoarfrost: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Distilled Water",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Globe": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Earth DMG S: 0",
+				"Effect 3": "Earth DMG M: 6",
+				"Effect 4": "Earth DMG L: 10",
+				"Effect 5": "Earth DMG XL: 14",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Unbalancing Impact M: -6",
+				"Effect 2": "Unbalancing Impact S: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Ignores Luck S: 4",
+				"Effect 5": "Ignores Luck M: 7",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Globe Sphere",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "4"
+	},
+	"Gnardi Ring": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Power Rune S: 0",
+				"Effect 3": "Power Rune M: 6",
+				"Effect 4": "Power Rune L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Mountain Pearl",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"God Speed Boots": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Lightens the Body S: 0",
+				"Effect 3": "Lightens the Body M: 12",
+				"Effect 4": "Lightens the Body L: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sylph Breath",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sacred Bird Wing",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Cloth)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Golden Lion Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Pride of the Lion King: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Beast Fur",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Meat)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Clay)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Grand Impact": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Excavator S: 3",
+				"Effect 3": "Excavator M: 6",
+				"Effect 4": "Excavator L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "DEF +12: -4",
+				"Effect 2": "DEF +8: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Add Stun +5: 4",
+				"Effect 5": "Add Stun +10: 6",
+				"Effect 6": "Add Stun +15: 8",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tanned Leather",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Clay)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Grand Lightning Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Lightning DMG L: 0",
+				"Effect 3": "Lightning DMG XL: 10",
+				"Effect 4": "Bolt Damage: 14",
+				"Effect 5": "Thunder God's Judgment: 17",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Induce Split M: -4",
+				"Effect 2": "Induce Split S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Convergent Thunderbolt: 8",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Lightning Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sylph Breath",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Green Glow Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Wind Spirit Glow: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Mountain Pearl",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Plants)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Guardian Liquor": {
+		"Effects": [
+			{
+				"Effect 1": "",
+				"Effect 2": "",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": ""
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Guardian Slice",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sea Puddle",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Distilled Water",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Hailsfyre": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Poseidon's Blessing S: 4",
+				"Effect 3": "Poseidon's Blessing M: 8",
+				"Effect 4": "Poseidon's Blessing L: 12",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Enhance Items +12%: -4",
+				"Effect 2": "Enhance Items +8%: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Critical Power Up +8%: 5",
+				"Effect 5": "Critical Power Up +12%: 8",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Wispstone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Handmade Basket": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Holds a Lot: 0",
+				"Effect 3": "Holds an Awful Lot: 15",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Hay",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Threads)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Harvest Gloves": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Gather a Lot S: 0",
+				"Effect 3": "Gather a Lot M: 10",
+				"Effect 4": "Gather a Lot L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Muffcot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tanned Leather",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Threads)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Hay": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Fuel): 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "(Plants)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Healing Bell": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "HP Recovery XS: 0",
+				"Effect 3": "HP Recovery S: 6",
+				"Effect 4": "HP Recovery M: 12",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Cleanses Impurity L: -5",
+				"Effect 2": "Cleanses Impurity M: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Recovery Up XS: 3",
+				"Effect 5": "Recovery Up S: 5",
+				"Effect 6": "Recovery Up M: 7",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Elixirs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Healing Incense": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "KO Recovery XS: 0",
+				"Effect 3": "KO Recovery S: 10",
+				"Effect 4": "KO Recovery M: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "MP Healing M: -7",
+				"Effect 2": "MP Healing S: -4",
+				"Effect 3": "None: 0",
+				"Effect 4": "HP Healing M: 6",
+				"Effect 5": "HP Healing L: 9",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Undying Wind",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Pure Oil",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Plants)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Clay)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Healing Salve": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "HP Recovery XS: 0",
+				"Effect 3": "HP Recovery S: 6",
+				"Effect 4": "HP Recovery M: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "HP Healing S: -4",
+				"Effect 2": "HP Healing XS: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Recovery Up XS: 2",
+				"Effect 5": "Recovery Up S: 4",
+				"Effect 6": "Recovery Up M: 6",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Magic Grass",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Medicinal)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "4"
+	},
+	"Heart Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Shining Heart: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Quake Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Heart of Wisdom": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Philosopher's Knowledge S: 8",
+				"Effect 3": "Philosopher's Knowledge M: 11",
+				"Effect 4": "Philosopher's Knowledge L: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "SPD +15: -9",
+				"Effect 2": "SPD +12: -5",
+				"Effect 3": "None: 0",
+				"Effect 4": "ATK +12: 3",
+				"Effect 5": "ATK +15: 7",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sage Herb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Herculean Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Youthful Zeal: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Gold Puniball",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Himmel Linen": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: DEF & SPD +5: 8",
+				"Effect 4": "Equipment Creation: DEF & SPD +7: 12",
+				"Effect 5": "Equipment Creation: DEF & SPD +10: 17",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Azure Wing",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Glittery Water",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Himmelstein": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "Physical DMG XL: 0",
+				"Effect 3": "Biological Decay: 12",
+				"Effect 4": "Molecular Decay: 16",
+				"Effect 5": "Quantum Decay: 17",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Cell Erosion M: -6",
+				"Effect 2": "Cell Erosion S: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Inflicts Impurity M: 6",
+				"Effect 5": "Physical Resistance Down: 10",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Meteor",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Pure Poison",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Honey": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Gemstones): 6",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Beehive",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Hyper Particle": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "ITEM_EFF_AROUSAL_EQUIP_UNIQUE_4: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Thunder Water",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Ore)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Ice Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Ice DMG XS: 0",
+				"Effect 3": "Ice DMG S: 8",
+				"Effect 4": "Ice DMG M: 11",
+				"Effect 5": "Ice DMG L: 15",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Icebind L: -5",
+				"Effect 2": "Icebind S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Speed Down S: 2",
+				"Effect 5": "Speed Down M: 5",
+				"Effect 6": "Speed Down L: 8",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Snow Stone",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "4"
+	},
+	"Ingot": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: ATK +1: 3",
+				"Effect 4": "Equipment Creation: ATK +3: 5",
+				"Effect 5": "Equipment Creation: ATK +5: 7",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Fest",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Ore)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Jar of Four Spirits": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Vapors): 10",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "2",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Elemental Fragment",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rainbow Fragment",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Judgement Tarot": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Arcana of Judgment S: 5",
+				"Effect 3": "Arcana of Judgment M: 8",
+				"Effect 4": "Arcana of Judgment L: 11",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Critical Power Up +8%: -6",
+				"Effect 2": "Critical Power Up +5%: -4",
+				"Effect 3": "None: 0",
+				"Effect 4": "Enhance Stun +5%: 5",
+				"Effect 5": "Enhance Stun +8%: 8",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Zettel",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"King of Thunder Ring": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Add Lightning Resistance S: 0",
+				"Effect 3": "Add Lightning Resistance L: 7",
+				"Effect 4": "Thunder King Clan: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Magic Paint",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Komet": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Elixirs): 14",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "2",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Isle Amber",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Blessed Stone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Light Bug Catcher Net": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Catches Any Bug: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Bug Catcher Net",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sylph Breath",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Threads)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Lightning Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Lightning DMG XS: 0",
+				"Effect 3": "Lightning DMG S: 7",
+				"Effect 4": "Lightning DMG M: 10",
+				"Effect 5": "Lightning DMG L: 14",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Fast Interrupt M: -5",
+				"Effect 2": "Fast Interrupt S: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Intuition Down S: 2",
+				"Effect 5": "Intuition Down M: 4",
+				"Effect 6": "Intuition Down L: 6",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Quake Crystal",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Vapors)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "4"
+	},
+	"Living Rope": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Bugs): 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Hay",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Threads)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Locket of Friendship": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Power of Fellowship S: 0",
+				"Effect 3": "Power of Fellowship M: 9",
+				"Effect 4": "Power of Fellowship L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Komet",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Lululu Curry": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "HP Part. Recovery M: 0",
+				"Effect 3": "HP Part. Recovery L: 9",
+				"Effect 4": "HP Part. Recovery XL: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "MP Healing L: -5",
+				"Effect 2": "MP Healing M: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "HP Healing XS: 6",
+				"Effect 5": "HP Healing S: 8",
+				"Effect 6": "HP Healing M: 10",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Elixir",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Meat)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Vegetables)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mushrooms)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Luminous Lance": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Lance of Light: 0",
+				"Effect 3": "Bursting Light Lance: 11",
+				"Effect 4": "Piercing Light Lance: 15",
+				"Effect 5": "Stormlight Lance: 16",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Light Steal L: -4",
+				"Effect 2": "Light Steal S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Level Down XS: 5",
+				"Effect 5": "Level Down S: 7",
+				"Effect 6": "Level Down M: 10",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Magic Tool)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Machina Gear Mechanism": {
+		"Effects": [
+			{
+				"Effect 1": "",
+				"Effect 2": "",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": ""
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Windslice Tail Feather",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rota Fortunae",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Magic Paint": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Fuel): 7",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Crystal Piece",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tar Fruit",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Magic Sword": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Magic Sword Strike: 0",
+				"Effect 3": "Magic Sword Flash Attack: 10",
+				"Effect 4": "Magic Sword Blink Edge: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Absorb MP M: -5",
+				"Effect 2": "Absorb MP S: -3",
+				"Effect 3": "Absorb MP XS: -1",
+				"Effect 4": "None: 0",
+				"Effect 5": "Induce Split S: 6",
+				"Effect 6": "Induce Split M: 10",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Magma Launcher": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Heat Enhance S: 10",
+				"Effect 3": "Heat Enhance M: 14",
+				"Effect 4": "Heat Enhance L: 18",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Critical Power Up +8%: -5",
+				"Effect 2": "Critical Power Up +5%: -3",
+				"Effect 3": "Critical Power Up +3%: -1",
+				"Effect 4": "None: 0",
+				"Effect 5": "SPD +8: 2",
+				"Effect 6": "SPD +12: 4",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Magma Stone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Medicine Base": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Gunpowder): 13",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Med Tree Root",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Medicinal)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Meister Tarte": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "HP Part. Recovery XS: 0",
+				"Effect 3": "HP Part. Recovery S: 7",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "HP Healing M: -4",
+				"Effect 2": "HP Healing S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Cures Poison: 2",
+				"Effect 5": "Cures Burns: 4",
+				"Effect 6": "Cures Curse: 6",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Flour",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Honey",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Spices)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "4"
+	},
+	"Mercurius's Eye": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "All-Seeing Eye S: 0",
+				"Effect 3": "All-Seeing Eye M: 8",
+				"Effect 4": "All-Seeing Eye L: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Crystal Piece",
+				"Qty": "4"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Meteor": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Drops Puni: 0",
+				"Effect 3": "Drops Stars: 11",
+				"Effect 4": "Drops Stars: 14",
+				"Effect 5": "Drops ???: 17",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Giant Strike: -4",
+				"Effect 2": "Heavy Strike: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Induce Split M: 6",
+				"Effect 5": "Induce Split L: 10",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Star Piece",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Crystal Ball",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Migraine Syrup": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "MP Recovery XS: 0",
+				"Effect 3": "MP Recovery S: 9",
+				"Effect 4": "MP Recovery M: 13",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "MP Healing S: -4",
+				"Effect 2": "MP Healing XS: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Recovery Up XS: 2",
+				"Effect 5": "Recovery Up S: 4",
+				"Effect 6": "Recovery Up M: 6",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Clear Grass",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Med Tree Root",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "4"
+	},
+	"Mind Water": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "MP Recovery S: 0",
+				"Effect 3": "MP Recovery M: 10",
+				"Effect 4": "MP Recovery L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "MP Healing M: -8",
+				"Effect 2": "MP Healing S: -4",
+				"Effect 3": "None: 0",
+				"Effect 4": "Recovery Up S: 3",
+				"Effect 5": "Recovery Up M: 6",
+				"Effect 6": "Recovery Up L: 9",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Water Tree Fruit",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Medicinal)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Bugs)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "3"
+	},
+	"Mining Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Destructive Gathering: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Fuel Dirt",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "5"
+	},
+	"Mont Blanc": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "HP Part. Recovery S: 0",
+				"Effect 3": "HP Part. Recovery M: 11",
+				"Effect 4": "HP Part. Recovery L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Removes Ailments: -5",
+				"Effect 2": "Cures Slowness: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Cures Burns: 4",
+				"Effect 5": "Cures Seal: 7",
+				"Effect 6": "Cures Curse: 9",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Uni",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Chariot Milk",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Spices)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Food)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "3"
+	},
+	"Moonbeam Veil": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Lunar Ward S: 6",
+				"Effect 3": "Lunar Ward M: 11",
+				"Effect 4": "Lunar Ward L: 16",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Weaken Items +15%: -10",
+				"Effect 2": "Weaken Items +12%: -7",
+				"Effect 3": "None: 0",
+				"Effect 4": "Critical Rate Up +8%: 4",
+				"Effect 5": "Critical Rate Up +12%: 7",
+				"Effect 6": "Critical Rate Up +15%: 10",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Spirit Tears",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Muffcot": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: DEF +3: 9",
+				"Effect 4": "Equipment Creation: DEF +5: 12",
+				"Effect 5": "Equipment Creation: DEF +7: 15",
+				"Effect 6": "Equipment Creation: DEF +10: 17",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Cotton Flower",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rabbit Fur",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Music Note Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Melody of the World: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Rota Fortunae",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Crystal Ball",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Clay)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Mysterious Spice": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Gunpowder): 14",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Nostalgic Spice",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Spices)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mushrooms)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Seafood)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Mystical Ankh": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Faint Recovery M: 0",
+				"Effect 3": "Faint Recovery L: 10",
+				"Effect 4": "Faint Recovery XL: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Banishes Disease Demons: -7",
+				"Effect 2": "Cures Slowness: -4",
+				"Effect 3": "None: 0",
+				"Effect 4": "Cures Curse: 6",
+				"Effect 5": "Cleanses Evil: 9",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Original Gem",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Crystal Piece",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Ore)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Mythical Ring": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Curse of Conversion S: 0",
+				"Effect 3": "Curse of Conversion L: 14",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Blessed Stone",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Jar of Four Spirits",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Elixirs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"N/A": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "10,000 Explosions: 0",
+				"Effect 3": "100 Million Explosions: 8",
+				"Effect 4": "1 Trillion Explosions: 12",
+				"Effect 5": "Infinite Explosions: 15",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Mega Pressure: -5",
+				"Effect 2": "Destroyer's Intimidation: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Level Down S: 7",
+				"Effect 5": "Level Down M: 10",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tera Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rocket Ice Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Grand Lightning Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Bombs)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "2"
+	},
+	"N/A Alpha": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "HP Recovery L: 0",
+				"Effect 3": "HP Recovery XL: 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Consume HP XL: -7",
+				"Effect 2": "Consume HP & MP XL: 0",
+				"Effect 3": "Consume MP XL: 7",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "N/A",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Nectar",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Elixirs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"N/A Beta": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "10,000 Explosions: 0",
+				"Effect 3": "100 Million Explosions: 10",
+				"Effect 4": "1 Trillion Explosions: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Light of Purity: -5",
+				"Effect 2": "Removes Ailments: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Negate Buffs: 5",
+				"Effect 5": "Light of Purity: 8",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "N/A",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Witch Salve",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Bugs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"N/A Gamma": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Indiscriminate Blast S: 0",
+				"Effect 3": "Indiscriminate Blast M: 9",
+				"Effect 4": "Indiscriminate Blast L: 13",
+				"Effect 5": "Indiscriminate Blast XL: 16",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Ice Resistance Down+: -9",
+				"Effect 2": "Ice Resistance Down: -4",
+				"Effect 3": "None: 0",
+				"Effect 4": "Fire Resistance Down: 5",
+				"Effect 5": "Fire Resistance Down+: 10",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "N/A",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rainbow Supplement",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Bombs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"N/A Omega": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "1 Trillion Explosions: 0",
+				"Effect 3": "Infinite Explosions: 12",
+				"Effect 4": "Planet-Shattering Explosion: 16",
+				"Effect 5": "Antimatter Annihilation: 17",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Giga Pressure: -5",
+				"Effect 2": "Avatar of Destruction: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Level Down M: 4",
+				"Effect 5": "Level Down L: 6",
+				"Effect 6": "Light of Purity: 8",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "N/A Alpha",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "N/A Beta",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "N/A Gamma",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "1"
+	},
+	"Nectar": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "KO Recovery S: 0",
+				"Effect 3": "KO Recovery M: 6",
+				"Effect 4": "KO Recovery L: 10",
+				"Effect 5": "KO Recovery XL: 14",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Recycle L: -5",
+				"Effect 2": "Recycle S: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Lucky Interrupt S: 6",
+				"Effect 5": "Lucky Interrupt M: 8",
+				"Effect 6": "Lucky Interrupt L: 10",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Pendelook",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Forgotten Bone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Medicinal)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Nightshade": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Shadowlurk S: 3",
+				"Effect 3": "Shadowlurk M: 6",
+				"Effect 4": "Shadowlurk L: 9",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "SPD +5: -4",
+				"Effect 2": "SPD +3: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Evasion +3%: 3",
+				"Effect 5": "Evasion +5%: 5",
+				"Effect 6": "Evasion +8%: 7",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Nylonfeather",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Armor Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Nobel Buster": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Acute Perception S: 5",
+				"Effect 3": "Acute Perception M: 8",
+				"Effect 4": "Acute Perception L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Max MP +10: -3",
+				"Effect 2": "Max MP +5: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Max HP +5: 1",
+				"Effect 5": "Max HP +10: 3",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Nostalgic Curry": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "HP Part. Recovery XS: 0",
+				"Effect 3": "HP Part. Recovery S: 8",
+				"Effect 4": "HP Part. Recovery M: 12",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Nostalgic Spice",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Seafood)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Meat)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vegetables)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "3"
+	},
+	"Nylonfeather": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: DEF & SPD +1: 8",
+				"Effect 4": "Equipment Creation: DEF & SPD +3: 11",
+				"Effect 5": "Equipment Creation: DEF & SPD +5: 15",
+				"Effect 6": "Equipment Creation: DEF & SPD +7: 17",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Audra's Tail",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tar Fruit",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Olgenrium": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: ATK & DEF +5: 11",
+				"Effect 4": "Equipment Creation: ATK & DEF +7: 14",
+				"Effect 5": "Equipment Creation: ATK & DEF +10: 17",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Divine Iron Piece",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Eternity Flame",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Ore)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Omega Craft": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Physical DMG L: 0",
+				"Effect 3": "Physical DMG XL: 10",
+				"Effect 4": "High Impact Damage: 13",
+				"Effect 5": "Demon Strike: 16",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Unbalancing Impact L: -4",
+				"Effect 2": "Unbalancing Impact M: -2",
+				"Effect 3": "Unbalancing Impact S: 0",
+				"Effect 4": "Drowsiness S: 3",
+				"Effect 5": "Drowsiness M: 6",
+				"Effect 6": "Drowsiness L: 9",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Craft",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Fuel)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Plants)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "4"
+	},
+	"Personal Key": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Gemstones): 13",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Crystal Ball",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Wispstone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Magic Tool)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Phantom Ice Ring": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Add Ice Resistance S: 0",
+				"Effect 3": "Add Ice Resistance L: 7",
+				"Effect 4": "Ice Phantom Clan: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Magic Paint",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Philosopher's Necklace": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Alchemy Master S: 0",
+				"Effect 3": "Alchemy Master M: 10",
+				"Effect 4": "Alchemy Master L: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Philosopher's Stone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Philosopher's Pie": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Mushrooms): 13",
+				"Effect 4": "Add (Seafood): 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Flour",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Philosopher's Stone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vegetables)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Spices)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Philosopher's Stone": {
+		"Effects": [
+			{
+				"Effect 1": "Attribute: Lightning +5: -10",
+				"Effect 2": "Attribute: Lightning +3: -1",
+				"Effect 3": "Broken Item: 0",
+				"Effect 4": "Attribute: Fire +3: 1",
+				"Effect 5": "Attribute: Fire +5: 10",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Attribute: Earth +5: -10",
+				"Effect 2": "Attribute: Earth +3: -1",
+				"Effect 3": "Broken Item: 0",
+				"Effect 4": "Attribute: Ice +3: 1",
+				"Effect 5": "Attribute: Ice +5: 10",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ashes of Failure",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Pollutant",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Original Gem",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Elixirs)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "1"
+	},
+	"Pickaxe": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Destructive Gathering Infinity: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Polish Powder": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Supplements): 5",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "5",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Fest",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Ore)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Professional Fishing Rod": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Catches a Lot of Fish: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Fishing Rod",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Delicious Fishing Bait",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Seafood)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Bugs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Pseudo-sonne": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Poisons): 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Uni",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Forest Dew",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Flour",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Seafood)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "1"
+	},
+	"Pure Oil": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Medicinal): 10",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tar Fruit",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Plants)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Pure Poison": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Vapors): 10",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Wicked Fang",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Boa Venom Gland",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Poison Dragonfly",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Rainbow Supplement": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Mystery): 17",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Spirit Tears",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rainbow Puniball",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Elixirs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Red Ray Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Fire Spirit Glow: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Fuel Dirt",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Researcher's Key": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Opens Any Lock: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Glow Sand",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Gold Puniball",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Rocket Ice Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Ice DMG L: 0",
+				"Effect 3": "Ice DMG XL: 9",
+				"Effect 4": "Freeze Damage: 12",
+				"Effect 5": "Permafrost: 15",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Negate Buffs: -6",
+				"Effect 2": "None: 0",
+				"Effect 3": "Ice Cage S: 2",
+				"Effect 4": "Ice Cage M: 4",
+				"Effect 5": "Ice Cage L: 6",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ice Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Distilled Water",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Rota Fortunae": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Gemstones): 9",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "2",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Black Runestone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Wispstone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Runeblade": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Crest Rage S: 8",
+				"Effect 3": "Crest Rage M: 12",
+				"Effect 4": "Crest Rage L: 16",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Convert Damage 10%: -4",
+				"Effect 2": "Convert Damage 7%: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Enhance Stun +8%: 4",
+				"Effect 5": "Enhance Stun +12%: 6",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Black Runestone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Runestone": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Barrier Rune S: 8",
+				"Effect 3": "Barrier Rune M: 12",
+				"Effect 4": "Barrier Rune L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Mountain Pearl",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Polish Powder",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Sack of the Wind God": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Portable Waterspout: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Fairy Sack",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sylph Breath",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Cloth)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "4"
+	},
+	"Scale Cloth": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: DEF & SPD +3: 6",
+				"Effect 4": "Equipment Creation: DEF & SPD +5: 9",
+				"Effect 5": "Equipment Creation: DEF & SPD +7: 12",
+				"Effect 6": "Equipment Creation: DEF & SPD +10: 15",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Chainweb",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Ore)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Scarlet Anchor": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Guiding Light S: 6",
+				"Effect 3": "Guiding Light M: 8",
+				"Effect 4": "Guiding Light L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "ACC +16%: -5",
+				"Effect 2": "ACC +12%: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Enhance Skills +8%: 5",
+				"Effect 5": "Enhance Skills +12%: 9",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Sunlite",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tanned Leather",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Secret Bag": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Send to Container: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Living Rope",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Cloth)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Magic Tool)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "2"
+	},
+	"Secret Remedy": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "HP & MP Recovery S: 0",
+				"Effect 3": "HP & MP Recovery M: 10",
+				"Effect 4": "HP & MP Recovery L: 13",
+				"Effect 5": "HP & MP Recovery XL: 16",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "HP & MP Healing L: -6",
+				"Effect 2": "HP & MP Healing S: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Fast Interrupt S: 3",
+				"Effect 5": "Fast Interrupt M: 6",
+				"Effect 6": "Fast Interrupt L: 9",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Medicine Base",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Alchemy Yeast",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Medicinal)",
+				"Qty": "3"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Shaky Pickaxe": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Destructive Gathering Infinity: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Pickaxe",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Lightning Bomb",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Sharp Ice Sword": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Ice Sword Strike: 0",
+				"Effect 3": "Ice Sword Frost Tusk: 10",
+				"Effect 4": "Ice Sword Gale Edge: 13",
+				"Effect 5": "War God's Ice Blade: 14",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Absorb HP & MP L: -4",
+				"Effect 2": "Absorb HP & MP S: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Freezing Air S: 5",
+				"Effect 5": "Freezing Air M: 8",
+				"Effect 6": "Freezing Air L: 10",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Magic Sword",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Ice Bomb",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "2"
+	},
+	"Shellper Horn": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Add Ailments Resistance XS: 0",
+				"Effect 3": "Add Ailments Resistance S: 6",
+				"Effect 4": "Add Ailments Resistance M: 9",
+				"Effect 5": "Add Ailments Resistance L: 12",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Creates Barrier L: -6",
+				"Effect 2": "Creates Barrier S: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Faint Recovery XS: 4",
+				"Effect 5": "Faint Recovery S: 6",
+				"Effect 6": "Faint Recovery M: 8",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Swirly Shell",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Seafood)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Soul Absorbing Gourd": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Absorb HP S: 0",
+				"Effect 3": "Absorb HP M: 10",
+				"Effect 4": "Absorb HP L: 14",
+				"Effect 5": "Absorb HP XL: 17",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Dark Dew",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Ghost Orb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Special Meat": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "HP Recovery S: 0",
+				"Effect 3": "HP Recovery M: 9",
+				"Effect 4": "HP Recovery L: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Faint Recovery S: -6",
+				"Effect 2": "Faint Recovery XS: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Burst of Strength S: 3",
+				"Effect 5": "Burst of Strength M: 5",
+				"Effect 6": "Burst of Strength L: 7",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Fresh Meat",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Spices)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "2"
+	},
+	"Special Plate": {
+		"Effects": [
+			{
+				"Effect 1": "Stinky Trash: -2",
+				"Effect 2": "HP Part. Recovery S: 0",
+				"Effect 3": "HP Part. Recovery M: 10",
+				"Effect 4": "HP Part. Recovery L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Stun Recovery: -4",
+				"Effect 2": "None: 0",
+				"Effect 3": "Faint Recovery XS: 4",
+				"Effect 4": "Faint Recovery S: 6",
+				"Effect 5": "Faint Recovery M: 8",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Dragon Meat",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Fish Sauce",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Vegetables)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Food)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "2"
+	},
+	"Spirit Necklace": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Fire Bolt Protection S: 0",
+				"Effect 3": "Fire Bolt Protection L: 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Jar of Four Spirits",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Spirit Tears",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Metals)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Spirit Robe": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Max MP +5: 6",
+				"Effect 3": "Max MP +10: 9",
+				"Effect 4": "Max MP +15: 12",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Stun Resistance +20: -5",
+				"Effect 2": "Stun Resistance +10: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Damage Cut 3%: 2",
+				"Effect 5": "Damage Cut 5%: 4",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Nylonfeather",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Elemental Fragment",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Armor Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Spirit Tears": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Gemstones): 13",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Attribute: Earth +3: -5",
+				"Effect 2": "Attribute: Earth +2: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Attribute: Fire +2: 4",
+				"Effect 5": "Attribute: Fire +3: 6",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "2",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Distilled Water",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "World Spirit",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Star Soul Staff": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Lux Ursa Major S: 6",
+				"Effect 3": "Lux Ursa Major M: 11",
+				"Effect 4": "Lux Ursa Major L: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Weaken Items +15%: -10",
+				"Effect 2": "Weaken Items +12%: -6",
+				"Effect 3": "Weaken Items +8%: -2",
+				"Effect 4": "Enhance Items +8%: 0",
+				"Effect 5": "Enhance Items +12%: 7",
+				"Effect 6": "Enhance Items +15%: 10",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Arland Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gemstones)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Ster Metal": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: ATK & DEF +1: 7",
+				"Effect 4": "Equipment Creation: ATK & DEF +3: 10",
+				"Effect 5": "Equipment Creation: ATK & DEF +5: 13",
+				"Effect 6": "Equipment Creation: ATK & DEF +7: 16",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Stim Stone",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Metal Ore",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Ore)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Sticky Resin": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "ITEM_EFF_AROUSAL_EQUIP_UNIQUE_5: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Natural Fertilizer",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Clay)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Stim Leather Mail": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Max HP +15: 4",
+				"Effect 3": "Max HP +20: 6",
+				"Effect 4": "Max HP +25: 8",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Add Physical Resistance: -7",
+				"Effect 2": "None: 0",
+				"Effect 3": "Stun Resistance +20: 1",
+				"Effect 4": "Stun Resistance +30: 3",
+				"Effect 5": "Stun Resistance +40: 5",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tanned Leather",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Stim Stone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Armor Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Strength Tarot": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Arcana of Might S: 5",
+				"Effect 3": "Arcana of Might M: 7",
+				"Effect 4": "Arcana of Might L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "SPD +5: -5",
+				"Effect 2": "SPD +3: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Max MP +5: 2",
+				"Effect 5": "Max MP +10: 5",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Scrap Paper",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Styrom Board": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Plants): 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Attribute: Lightning +3: -5",
+				"Effect 2": "Attribute: Lightning +2: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Attribute: Ice +2: 6",
+				"Effect 5": "Attribute: Ice +3: 10",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Eiche",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Green Bamboo",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Clay)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Sulfite": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "ITEM_EFF_AROUSAL_EQUIP_UNIQUE_2: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tar Fruit",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Sun Cloak": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Sun's Grace S: 5",
+				"Effect 3": "Sun's Grace M: 9",
+				"Effect 4": "Sun's Grace L: 13",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Avoid KO 10%: -7",
+				"Effect 2": "Avoid KO 5%: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Ailments Resistance +10%: 3",
+				"Effect 5": "Ailments Resistance +15%: 7",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Scale Cloth",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sunny Crystal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Armor Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Sun Flare": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Red Star: 0",
+				"Effect 3": "Expanding Star: 6",
+				"Effect 4": "Blazing Star: 11",
+				"Effect 5": "Falling Sun: 12",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Solar Flare L: -6",
+				"Effect 2": "Solar Flare M: -3",
+				"Effect 3": "Solar Flare S: -1",
+				"Effect 4": "None: 0",
+				"Effect 5": "Level Down XS: 3",
+				"Effect 6": "Level Down S: 6",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Globe",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Alchemy Coal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Magma Stone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "3"
+	},
+	"Sunburst Staff": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Sunlit Affection S: 8",
+				"Effect 3": "Sunlit Affection M: 11",
+				"Effect 4": "Sunlit Affection L: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Convert Damage 5%: -4",
+				"Effect 2": "Convert Damage 3%: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "Max MP +5: 5",
+				"Effect 5": "Max MP +10: 7",
+				"Effect 6": "Max MP +15: 9",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Sunny Crystal",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Sunlite": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: ATK & DEF +3: 9",
+				"Effect 4": "Equipment Creation: ATK & DEF +5: 11",
+				"Effect 5": "Equipment Creation: ATK & DEF +7: 14",
+				"Effect 6": "Equipment Creation: ATK & DEF +10: 17",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Black Ore",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Star Piece",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Ore)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Super Cooling Agent": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "ITEM_EFF_AROUSAL_EQUIP_UNIQUE_3: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Foamy Water",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Water)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Super Helix Rod": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Catches Any Fish: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Professional Fishing Rod",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Delicious Fishing Bait",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Styrom Board",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Bugs)",
+				"Qty": "3"
+			}
+		],
+		"Uses": "1"
+	},
+	"Super Mining Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Destructive Gathering: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Mining Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Pure Oil",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Vapors)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "4"
+	},
+	"Superb Supplement Black": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Poisons): 15",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Distilled Water",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Dark Dew",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Superb Supplement White": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Medicinal): 15",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Distilled Water",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Wispstone",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Supplement Blue": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Attribute: Ice +1: 8",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "5",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "(Seafood)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Supplement Purple": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Attribute: Lightning +1: 6",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "5",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "(Bugs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Supplement Red": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Attribute: Fire +1: 8",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "5",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Supplement Yellow": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Attribute: Earth +1: 8",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "5",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "(Clay)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Sylph Breath": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Bugs): 13",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "2",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Undying Wind",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Elemental Fragment",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Tanned Leather": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Meat): 13",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Beast Fur",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tanning Liquid",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Tanning Liquid": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Elixirs): 15",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "4",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Plants)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Tar Liquid": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Poisons): 12",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tar Fruit",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Lumber)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Tempest Gear": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Stormbringer S: 7",
+				"Effect 3": "Stormbringer M: 11",
+				"Effect 4": "Stormbringer L: 15",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Add Stun +10: -3",
+				"Effect 2": "Add Stun +5: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "DEF +5: 4",
+				"Effect 5": "DEF +8: 7",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Gunpowder)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Tera Bomb": {
+		"Effects": [
+			{
+				"Effect 1": "Ashes of Failure: -2",
+				"Effect 2": "Fire DMG L: 0",
+				"Effect 3": "Fire DMG XL: 9",
+				"Effect 4": "Explosion Damage: 12",
+				"Effect 5": "World-Engulfing Fire: 15",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Overkill Explosion L: -4",
+				"Effect 2": "Overkill Explosion M: -2",
+				"Effect 3": "Overkill Explosion S: 0",
+				"Effect 4": "Mindscouring Fire S: 2",
+				"Effect 5": "Mindscouring Fire M: 4",
+				"Effect 6": "Mindscouring Fire L: 6",
+				"L Elem": "Elec",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Bomb",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tar Liquid",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"The World Tarot": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Arcana of the World S: 6",
+				"Effect 3": "Arcana of the World M: 12",
+				"Effect 4": "Arcana of the World L: 18",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Evasion +12%: -10",
+				"Effect 2": "Evasion +10%: -6",
+				"Effect 3": "Evasion +8%: -3",
+				"Effect 4": "Critical Rate Up +8%: 0",
+				"Effect 5": "Critical Rate Up +12%: 5",
+				"Effect 6": "Critical Rate Up +15%: 9",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "World Spirit",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Tinc": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Equipment Creation: ATK +3: 9",
+				"Effect 4": "Equipment Creation: ATK +5: 11",
+				"Effect 5": "Equipment Creation: ATK +7: 13",
+				"Effect 6": "Equipment Creation: ATK +10: 16",
+				"L Elem": "Ice",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Stim Stone",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Fuel Dirt",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Ore)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Fuel)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Tonic": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Turn into good materials?: 0",
+				"Effect 3": "Turn into great materials?: 15",
+				"Effect 4": "Turn into superb materials?: 16",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Water Tree Fruit",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Plants)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Water)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "3"
+	},
+	"Torrent Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Bursting Bubbles: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Original Gem",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Isle Amber",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Traveler Shoes": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Movement Speed Up S: 0",
+				"Effect 3": "Movement Speed Up M: 12",
+				"Effect 4": "Movement Speed Up L: 13",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tanned Leather",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Living Rope",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Traveler's Attire": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Max HP +5: 3",
+				"Effect 3": "Max HP +10: 5",
+				"Effect 4": "Max HP +15: 7",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "SPD +5: -3",
+				"Effect 2": "SPD +3: -1",
+				"Effect 3": "None: 0",
+				"Effect 4": "DEF +3: 1",
+				"Effect 5": "DEF +5: 3",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Cloth",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Armor Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Threads)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Twin Anchor": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Seaman's Pride S: 4",
+				"Effect 3": "Seaman's Pride M: 7",
+				"Effect 4": "Seaman's Pride L: 10",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Max HP +10: -6",
+				"Effect 2": "Max HP +5: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Critical Power Up +3%: 3",
+				"Effect 5": "Critical Power Up +5%: 6",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Seafood)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Twin Memoir": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Gladiator's Might S: 10",
+				"Effect 3": "Gladiator's Might M: 14",
+				"Effect 4": "Gladiator's Might L: 18",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Add Stun +10: -6",
+				"Effect 2": "Add Stun +5: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "ACC +8%: 2",
+				"Effect 5": "ACC +12%: 4",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Tanned Leather",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Animal Products)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Valkyrie Mail": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "War Goddess's Might S: 10",
+				"Effect 3": "War Goddess's Might M: 14",
+				"Effect 4": "War Goddess's Might L: 18",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Block Curse: -5",
+				"Effect 2": "None: 0",
+				"Effect 3": "Block Seal: 7",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Himmel Linen",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "World Spirit",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Armor Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Metals)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Valkyrie's Oath": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "War God's Awakening S: 6",
+				"Effect 3": "War God's Awakening M: 11",
+				"Effect 4": "War God's Awakening L: 17",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Elec"
+			},
+			{
+				"Effect 1": "Enhance Stun +15%: -10",
+				"Effect 2": "Enhance Stun +12%: -7",
+				"Effect 3": "Enhance Stun +8%: -3",
+				"Effect 4": "Add Stun +10: 0",
+				"Effect 5": "Add Stun +15: 5",
+				"Effect 6": "Add Stun +20: 10",
+				"L Elem": "Fire",
+				"R Elem": "Earth"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Olgenrium",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Rota Fortunae",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Dragon)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Warp Gate": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Return to Town: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Azure Wing",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Mystery)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "5"
+	},
+	"Wheel of Fortune Tarot": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Arcana of Luck S: 5",
+				"Effect 3": "Arcana of Luck M: 7",
+				"Effect 4": "Arcana of Luck L: 9",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Fire"
+			},
+			{
+				"Effect 1": "Critical Rate Up +5%: -7",
+				"Effect 2": "Critical Rate Up +3%: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "Evasion +3%: 3",
+				"Effect 5": "Evasion +5%: 5",
+				"Effect 6": "Evasion +8%: 8",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Zettel",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Medicinal)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Wheel of Isyos": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Prayer for Harvest S: 4",
+				"Effect 3": "Prayer for Harvest M: 6",
+				"Effect 4": "Prayer for Harvest L: 8",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Weaken Items +8%: -5",
+				"Effect 2": "Weaken Items +5%: -2",
+				"Effect 3": "None: 0",
+				"Effect 4": "Enhance Items +5%: 2",
+				"Effect 5": "Enhance Items +8%: 5",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Tinc",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Crystal Piece",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Mystery)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"White Haze Symbol": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "Rainbow Mirage: 0",
+				"Effect 3": "",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Ice",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Dark Firefly",
+				"Qty": "2"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Ster Metal",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Puniballs)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Clay)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	},
+	"Winged Chakram": {
+		"Effects": [
+			{
+				"Effect 1": "None: 0",
+				"Effect 2": "Wingbeat Blade S: 2",
+				"Effect 3": "Wingbeat Blade M: 4",
+				"Effect 4": "Wingbeat Blade L: 6",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "",
+				"R Elem": "Earth"
+			},
+			{
+				"Effect 1": "Critical Rate Up +5%: -6",
+				"Effect 2": "Critical Rate Up +3%: -3",
+				"Effect 3": "None: 0",
+				"Effect 4": "ACC +5%: 3",
+				"Effect 5": "ACC +8%: 6",
+				"Effect 6": "",
+				"L Elem": "Elec",
+				"R Elem": "Fire"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Ingot",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Audra's Tail",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Weapon Materials)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Vapors)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "1"
+	},
+	"Witch Salve": {
+		"Effects": [
+			{
+				"Effect 1": "Pollutant: -2",
+				"Effect 2": "Level Down M: 0",
+				"Effect 3": "Level Down L: 8",
+				"Effect 4": "Level Down XL: 14",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			},
+			{
+				"Effect 1": "Negate Buffs: -7",
+				"Effect 2": "None: 0",
+				"Effect 3": "Restricts Movement S: 4",
+				"Effect 4": "Restricts Movement M: 7",
+				"Effect 5": "Restricts Movement L: 10",
+				"Effect 6": "",
+				"L Elem": "Fire",
+				"R Elem": "Elec"
+			}
+		],
+		"Make #": "1",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Pure Poison",
+				"Qty": "1"
+			},
+			{
+				"Awake": "NO",
+				"Name": "Medicine Base",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Poisons)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Seafood)",
+				"Qty": "2"
+			}
+		],
+		"Uses": "3"
+	},
+	"Zettel": {
+		"Effects": [
+			{
+				"Effect 1": "Broken Item: -2",
+				"Effect 2": "None: 0",
+				"Effect 3": "Add (Mystery): 11",
+				"Effect 4": "",
+				"Effect 5": "",
+				"Effect 6": "",
+				"L Elem": "Earth",
+				"R Elem": "Ice"
+			}
+		],
+		"Make #": "3",
+		"Mats": [
+			{
+				"Awake": "NO",
+				"Name": "Scrap Paper",
+				"Qty": "3"
+			},
+			{
+				"Awake": "NO",
+				"Name": "(Plants)",
+				"Qty": "1"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Water)",
+				"Qty": "2"
+			},
+			{
+				"Awake": "YES",
+				"Name": "(Supplements)",
+				"Qty": "1"
+			}
+		],
+		"Uses": "1"
+	}
+}
