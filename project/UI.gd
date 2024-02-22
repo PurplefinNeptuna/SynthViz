@@ -12,9 +12,8 @@
 
 extends Control
 
-@onready
-var recipeJson := FileAccess.open("res://project/recipe.json", FileAccess.READ).get_as_text()
-@onready var itemJson := FileAccess.open("res://project/items.json", FileAccess.READ).get_as_text()
+@onready var recipeJson := FileAccess.open("res://recipe.json", FileAccess.READ).get_as_text()
+@onready var itemJson := FileAccess.open("res://items.json", FileAccess.READ).get_as_text()
 var recipes: Dictionary = {}
 var items: Dictionary = {}
 var categories: Dictionary = {}
@@ -135,6 +134,20 @@ func plusCategoryFinder() -> void:
 	print("Plus category recipes collected")
 
 
+# Check item if it's not in recipe or it's level is less than maxLv)
+func checkItem(item: String, maxLv: int) -> bool:
+	if item not in items.keys():
+		return false
+	if item in recipes.keys():
+		if items[item]["Level"].to_int() <= maxLv:
+			return true
+		else:
+			return false
+	else:
+		return true
+
+
+# Returns the materials needed to craft the given item.
 func getMaterials(
 	item: Array[String],
 	result: Array[Array],
@@ -159,9 +172,9 @@ func getMaterials(
 				continue
 			if matName in failItems and useFailure:
 				for failRecipe: String in failRecipes[matName]:
-					if items[failRecipe]["Level"].to_int() <= maxLv:
+					if checkItem(failRecipe, maxLv):
 						materials.append([matName, failRecipe])
-			elif items[matName]["Level"].to_int() <= maxLv:
+			elif checkItem(matName, maxLv):
 				materials.append([matName, matName])
 		else:
 			if matName in categories.keys():
@@ -170,15 +183,15 @@ func getMaterials(
 						continue
 					if itemCat in failItems and useFailure:
 						for failRecipe: String in failRecipes[itemCat]:
-							if items[failRecipe]["Level"].to_int() <= maxLv:
+							if checkItem(failRecipe, maxLv):
 								materials.append([itemCat, failRecipe])
-					elif items[itemCat]["Level"].to_int() <= maxLv:
+					elif checkItem(itemCat, maxLv):
 						materials.append([itemCat, itemCat])
 			if matName in plusCategories.keys() and useAddCategory:
 				for plusRecipe: String in plusCategories[matName]:
 					if plusCategoryRecipes[plusRecipe] in memo.keys():
 						continue
-					elif items[plusCategoryRecipes[plusRecipe]]["Level"].to_int() <= maxLv:
+					elif checkItem(plusCategoryRecipes[plusRecipe], maxLv):
 						materials.append([plusCategoryRecipes[plusRecipe], plusRecipe])
 
 	result.append_array(materials)
