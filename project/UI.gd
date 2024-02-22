@@ -15,6 +15,7 @@ extends Control
 @onready var recipeJson := FileAccess.open("res://recipe.json", FileAccess.READ).get_as_text()
 @onready var itemJson := FileAccess.open("res://items.json", FileAccess.READ).get_as_text()
 var recipes: Dictionary = {}
+var allMaterials: Dictionary = {}
 var items: Dictionary = {}
 var categories: Dictionary = {}
 static var failItems: Array[String] = [
@@ -58,6 +59,20 @@ func readJson() -> void:
 			recipes[recipeKey] = recipeData
 
 
+# list all materials used in all recipes
+func materialScan() -> void:
+	for recipeKey: String in recipes.keys():
+		var recipeData := recipes.get(recipeKey) as Dictionary
+		var materialData := recipeData.get("Mats") as Array
+		for mat: Dictionary in materialData:
+			var matName := mat.get("Name") as String
+			if matName in allMaterials.keys():
+				allMaterials[matName] += 1
+			else:
+				allMaterials[matName] = 1
+	print("Material scan completed")
+
+
 func categorize() -> void:
 	var orderedItemKeys := items.keys()
 	orderedItemKeys.sort_custom(
@@ -74,6 +89,16 @@ func categorize() -> void:
 				else:
 					categories[category] = [item]
 	print("Categories dict created")
+
+
+# check if item or it's category is in allMaterial
+func isCraftable(item: String) -> bool:
+	if item in allMaterials.keys():
+		return true
+	for key: String in categories.keys():
+		if item in categories[key] and key in allMaterials.keys():
+			return true
+	return false
 
 
 func failCollection() -> void:
@@ -171,7 +196,7 @@ func getMaterials(
 		if matName in items.keys():
 			if matName in memo.keys():
 				continue
-			if matName in failItems and useFailure:
+			if matName in failItems and useFailure and matName != target:
 				for failRecipe: String in failRecipes[matName]:
 					if checkItem(failRecipe, maxLv) and failRecipe != target:
 						materials.append([matName, failRecipe])
@@ -182,7 +207,7 @@ func getMaterials(
 				for itemCat: String in categories[matName]:
 					if itemCat in memo.keys():
 						continue
-					if itemCat in failItems and useFailure:
+					if itemCat in failItems and useFailure and itemCat != target:
 						for failRecipe: String in failRecipes[itemCat]:
 							if checkItem(failRecipe, maxLv) and failRecipe != target:
 								materials.append([itemCat, failRecipe])
@@ -292,15 +317,19 @@ func dfs(
 ]
 @onready var lvSlider := get_node("%LvSlider") as Slider
 @onready var lvLabel := get_node("%LvText") as Label
+@onready var resultText := get_node("%ResultText") as Label
 
 
 func _ready():
 	readJson()
 	categorize()
+	materialScan()
 	failCollection()
 	plusCategoryFinder()
 
 	var orderedItemKeys := items.keys()
+	#filter out items that are not craftable
+	orderedItemKeys = orderedItemKeys.filter(isCraftable)
 	orderedItemKeys.sort()
 	for item: String in orderedItemKeys:
 		startItem.add_item(item)
@@ -342,6 +371,11 @@ func onStartSearchPressed():
 	var lv: int = round(lvSlider.value)
 	var paths := findAllPaths(target, start, depth, useFailure, useAddCategory, lv)
 	print("Paths: %d" % paths.size())
+	if paths.size() == 0:
+		resultText.text = "No recipe found!"
+		return
+	else:
+		resultText.text = "Found: %d" % paths.size()
 
 	for path: int in min(paths.size(), 8):
 		var currentPath := paths[path]
