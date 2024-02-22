@@ -150,6 +150,7 @@ func checkItem(item: String, maxLv: int) -> bool:
 # Returns the materials needed to craft the given item.
 func getMaterials(
 	item: Array[String],
+	target: String,
 	result: Array[Array],
 	memo: Dictionary,
 	useFailure: bool,
@@ -172,7 +173,7 @@ func getMaterials(
 				continue
 			if matName in failItems and useFailure:
 				for failRecipe: String in failRecipes[matName]:
-					if checkItem(failRecipe, maxLv):
+					if checkItem(failRecipe, maxLv) and failRecipe != target:
 						materials.append([matName, failRecipe])
 			elif checkItem(matName, maxLv):
 				materials.append([matName, matName])
@@ -183,13 +184,16 @@ func getMaterials(
 						continue
 					if itemCat in failItems and useFailure:
 						for failRecipe: String in failRecipes[itemCat]:
-							if checkItem(failRecipe, maxLv):
+							if checkItem(failRecipe, maxLv) and failRecipe != target:
 								materials.append([itemCat, failRecipe])
 					elif checkItem(itemCat, maxLv):
 						materials.append([itemCat, itemCat])
 			if matName in plusCategories.keys() and useAddCategory:
 				for plusRecipe: String in plusCategories[matName]:
-					if plusCategoryRecipes[plusRecipe] in memo.keys():
+					if (
+						plusCategoryRecipes[plusRecipe] in memo.keys()
+						or plusCategoryRecipes[plusRecipe] == target
+					):
 						continue
 					elif checkItem(plusCategoryRecipes[plusRecipe], maxLv):
 						materials.append([plusCategoryRecipes[plusRecipe], plusRecipe])
@@ -244,7 +248,7 @@ func dfs(
 	var allPaths: Array[Array] = []
 
 	var nextMats: Array[Array] = []
-	if getMaterials([start, source], nextMats, memo, useFailure, useAddCategory, maxLv):
+	if getMaterials([start, source], target, nextMats, memo, useFailure, useAddCategory, maxLv):
 		for neighbor in nextMats:
 			#print("Neighbor: ", neighbor)
 			var subPath: Array = dfs(
