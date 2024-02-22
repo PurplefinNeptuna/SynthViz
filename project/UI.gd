@@ -12,8 +12,9 @@
 
 extends Control
 
-@onready var recipeJson := FileAccess.open("res://recipe.json", FileAccess.READ).get_as_text()
-@onready var itemJson := FileAccess.open("res://items.json", FileAccess.READ).get_as_text()
+@onready
+var recipeJson := FileAccess.open("res://project/recipe.json", FileAccess.READ).get_as_text()
+@onready var itemJson := FileAccess.open("res://project/items.json", FileAccess.READ).get_as_text()
 var recipes: Dictionary = {}
 var items: Dictionary = {}
 var categories: Dictionary = {}
