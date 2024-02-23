@@ -264,8 +264,6 @@ func dfs(
 		return [[[start, source]]]
 	if current_depth >= depth_limit:
 		return []
-	if visited.has(start):
-		return []
 	if memo.has(start):
 		return memo[start]
 
@@ -275,6 +273,8 @@ func dfs(
 	var nextMats: Array[Array] = []
 	if getMaterials([start, source], target, nextMats, memo, useFailure, useAddCategory, maxLv):
 		for neighbor in nextMats:
+			if neighbor[0] in visited:
+				continue
 			#print("Neighbor: ", neighbor)
 			var subPath: Array = dfs(
 				neighbor[0],
@@ -288,6 +288,8 @@ func dfs(
 				useAddCategory,
 				maxLv
 			)
+			if subPath == []:
+				continue
 			for path: Array in subPath:
 				var subRes: Array = [[start, source]] + path
 				if subRes not in allPaths:
@@ -296,7 +298,6 @@ func dfs(
 	visited.erase(start)
 	if allPaths.size() > 0:
 		memo[start] = allPaths
-	#memo[start] = allPaths
 	return allPaths
 
 
