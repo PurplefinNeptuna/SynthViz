@@ -194,7 +194,7 @@ func getMaterials(
 	for mat: Dictionary in materialData:
 		var matName := mat.get("Name") as String
 		if matName in items.keys():
-			if matName in memo.keys():
+			if [matName, matName] in memo.keys():
 				continue
 			if matName in failItems and useFailure and matName != target:
 				for failRecipe: String in failRecipes[matName]:
@@ -205,7 +205,7 @@ func getMaterials(
 		else:
 			if matName in categories.keys():
 				for itemCat: String in categories[matName]:
-					if itemCat in memo.keys():
+					if [itemCat, itemCat] in memo.keys():
 						continue
 					if itemCat in failItems and useFailure and itemCat != target:
 						for failRecipe: String in failRecipes[itemCat]:
@@ -216,12 +216,13 @@ func getMaterials(
 			if matName in plusCategories.keys() and useAddCategory:
 				for plusRecipe: String in plusCategories[matName]:
 					if (
-						plusCategoryRecipes[plusRecipe] in memo.keys()
+						[plusCategoryRecipes[plusRecipe], plusRecipe] in memo.keys()
 						or plusCategoryRecipes[plusRecipe] == target
 					):
 						continue
 					elif checkItem(plusCategoryRecipes[plusRecipe], maxLv):
 						materials.append([plusCategoryRecipes[plusRecipe], plusRecipe])
+						#materials.append([plusRecipe, plusCategoryRecipes[plusRecipe]])
 
 	result.append_array(materials)
 	return true
@@ -259,13 +260,12 @@ func dfs(
 	maxLv: int
 ) -> Array[Array]:
 	# debug print
-	# print("DFS: %s -> %s, Memo: " % [start, target], memo)
 	if start == target and current_depth > 0:
 		return [[[start, source]]]
 	if current_depth >= depth_limit:
 		return []
-	if memo.has(start):
-		return memo[start]
+	if memo.has([start, source]):
+		return memo[[start, source]]
 
 	visited.append(start)
 	var allPaths: Array[Array] = []
@@ -297,7 +297,7 @@ func dfs(
 
 	visited.erase(start)
 	if allPaths.size() > 0:
-		memo[start] = allPaths
+		memo[[start, source]] = allPaths
 	return allPaths
 
 
@@ -383,6 +383,7 @@ func onStartSearchPressed():
 		for subPath: int in currentPath.size():
 			#add new label node to the resultbox
 			var label := Label.new()
+			#label.text = ", ".join(currentPath[subPath])
 			if currentPath[subPath][0] == currentPath[subPath][1]:
 				label.text = currentPath[subPath][0]
 			else:
