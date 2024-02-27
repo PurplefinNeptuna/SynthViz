@@ -1,14 +1,20 @@
-# FILEPATH: /E:/Gamedev/Godot4Project/SynthViz/UI.gd
-# Here's the plan:
-# 1. Read recipes and items from JSON files
-# 2. Create a dictionary of list of items per category
-# 3. Add new recipes by failing
-# 4. Read starting items and desired result item
-# 5. Find all unique recipes paths without common subpaths
-# 6. Display the paths in a tree view
-
-# TODO:
-# 1. Consider a recipe that add category to the item by awakening effects
+# This file is part of SyntViz.
+#
+# SyntViz - Visualize Syntax
+# Copyright (c) 2024 Ilham AJ (purplefin)
+#
+# SyntViz is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# SyntViz is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with SyntViz. If not, see <https://www.gnu.org/licenses/>.
 
 extends Control
 
@@ -18,45 +24,63 @@ var recipes: Dictionary = {}
 var allMaterials: Dictionary = {}
 var items: Dictionary = {}
 var categories: Dictionary = {}
-static var failItems: Array[String] = [
-	"Pollutant", "Broken Item", "Ashes of Failure", "Stinky Trash"
-]
-static var failItemMatch: Array[String] = [
+static var failItems: Array = ["Pollutant", "Broken Item", "Ashes of Failure", "Stinky Trash"]
+static var failItemMatch: Array = [
 	"Pollutant*", "Broken Item*", "Ashes of Failure*", "Stinky Trash*"
 ]
 var failRecipes: Dictionary = {
 	"Pollutant": [], "Broken Item": [], "Ashes of Failure": [], "Stinky Trash": []
 }
 
-var plusCategoryRecipes: Dictionary = {}
 static var plusCategoryMatch: String = "Add (*"
-var plusCategories: Dictionary = {}
 
 
 # Reads and parses JSON data for recipes and items.
 func readJson() -> void:
+	# Read item and repair keys
 	var json := JSON.new()
-	var error := json.parse(recipeJson)
-	if error != OK:
-		print("Error parsing JSON")
-	else:
-		print("Recipe JSON parsed successfully")
-		recipes = json.data as Dictionary
-
-	json = JSON.new()
-	error = json.parse(itemJson)
+	var error := json.parse(itemJson)
 	if error != OK:
 		print("Error parsing JSON")
 	else:
 		print("Item JSON parsed successfully")
 		items = json.data as Dictionary
 
+	for item in items.keys():
+		var itemData := items.get(item) as Dictionary
+		var cat_col: Array = []
+		for key: String in itemData.keys():
+			if key.match("Cat*"):
+				var category := itemData[key] as String
+				cat_col.append(category)
+
+				# old way of adding category
+				if categories.has(category):
+					categories[category].append(item)
+				else:
+					categories[category] = [item]
+		itemData["Categories"] = cat_col
+
+	for cat_key in categories.keys():
+		categories[cat_key].sort_custom(
+			func(a, b): return items[a]["Level"].to_int() < items[b]["Level"].to_int()
+		)
+
+	# Read recipe and repair keys
+	json = JSON.new()
+	error = json.parse(recipeJson)
+	if error != OK:
+		print("Error parsing JSON")
+	else:
+		print("Recipe JSON parsed successfully")
+		recipes = json.data as Dictionary
+
 	for recipeKey: String in recipes.keys():
 		var recipeData := recipes.get(recipeKey) as Dictionary
 		var itemData := items.get(recipeKey) as Dictionary
 		if itemData != null:
 			recipeData["Level"] = itemData["Level"]
-			recipes[recipeKey] = recipeData
+			recipeData["Categories"] = itemData["Categories"]
 
 
 # list all materials used in all recipes
@@ -71,24 +95,6 @@ func materialScan() -> void:
 			else:
 				allMaterials[matName] = 1
 	print("Material scan completed")
-
-
-func categorize() -> void:
-	var orderedItemKeys := items.keys()
-	orderedItemKeys.sort_custom(
-		func(a, b): return items[a]["Level"].to_int() < items[b]["Level"].to_int()
-	)
-
-	for item in orderedItemKeys:
-		var itemData := items.get(item) as Dictionary
-		for key: String in itemData.keys():
-			if key.match("Cat*"):
-				var category := itemData[key] as String
-				if categories.has(category):
-					categories[category].append(item)
-				else:
-					categories[category] = [item]
-	print("Categories dict created")
 
 
 # check if item or it's category is in allMaterial
@@ -115,13 +121,17 @@ func failCollection() -> void:
 
 		#print("Checking recipes %s" % recipeKey)
 		#print("Effects: %s" % effects)
+		var fail_items: Array = []
 		for effect: Dictionary in effects:
 			for subEffect: String in effect:
 				for failIndex: int in failItems.size():
 					if effect[subEffect].match(failItemMatch[failIndex]):
 						#print("Matched %s" % failItems[failIndex])
 						failRecipes[failItems[failIndex]].append(recipeKey)
-
+						fail_items.append(
+							failItems[failIndex].substr(0, failItems[failIndex].length() - 2)
+						)
+		recipeData["FailItems"] = fail_items
 	print("Fail recipes collected")
 
 
@@ -142,163 +152,17 @@ func plusCategoryFinder() -> void:
 
 		#print("Checking recipes %s" % recipeKey)
 		#print("Effects: %s" % effects)
+		var add_category: Array = []
 		for effect: Dictionary in effects:
 			for subEffect: String in effect:
 				var subEffectStr := effect[subEffect] as String
 				if subEffectStr.match(plusCategoryMatch):
 					var category := regex.search(subEffectStr).get_string()
-					var recipeName := recipeKey + " (Add " + category + ")"
 					category = "(" + category + ")"
-					#print("Matched %s" % recipeName)
-					if plusCategories.has(category):
-						plusCategories[category].append(recipeName)
-					else:
-						plusCategories[category] = [recipeName]
-					plusCategoryRecipes[recipeName] = recipeKey
+					add_category.append(category)
 
+		recipeData["AddCategory"] = add_category
 	print("Plus category recipes collected")
-
-
-# Check item if it's not in recipe or it's level is less than maxLv)
-func checkItem(item: String, maxLv: int) -> bool:
-	if item not in items.keys():
-		return false
-	if item in recipes.keys():
-		if items[item]["Level"].to_int() <= maxLv:
-			return true
-		else:
-			return false
-	else:
-		return true
-
-
-# Returns the materials needed to craft the given item.
-func getMaterials(
-	item: Array[String],
-	target: String,
-	result: Array[Array],
-	memo: Dictionary,
-	useFailure: bool,
-	useAddCategory: bool,
-	maxLv: int
-) -> bool:
-	var recipeData = null
-	if item[0] in failItems:
-		recipeData = recipes.get(item[1])
-	else:
-		recipeData = recipes.get(item[0])
-	if recipeData == null:
-		return false
-	var materialData := recipeData.get("Mats") as Array
-	var materials: Array[Array] = []
-	for mat: Dictionary in materialData:
-		var matName := mat.get("Name") as String
-		if matName in items.keys():
-			if [matName, matName] in memo.keys():
-				continue
-			if matName in failItems and useFailure and matName != target:
-				for failRecipe: String in failRecipes[matName]:
-					if checkItem(failRecipe, maxLv) and failRecipe != target:
-						materials.append([matName, failRecipe])
-			elif checkItem(matName, maxLv):
-				materials.append([matName, matName])
-		else:
-			if matName in categories.keys():
-				for itemCat: String in categories[matName]:
-					if [itemCat, itemCat] in memo.keys():
-						continue
-					if itemCat in failItems and useFailure and itemCat != target:
-						for failRecipe: String in failRecipes[itemCat]:
-							if checkItem(failRecipe, maxLv) and failRecipe != target:
-								materials.append([itemCat, failRecipe])
-					elif checkItem(itemCat, maxLv):
-						materials.append([itemCat, itemCat])
-			if matName in plusCategories.keys() and useAddCategory:
-				for plusRecipe: String in plusCategories[matName]:
-					if (
-						[plusCategoryRecipes[plusRecipe], plusRecipe] in memo.keys()
-						or plusCategoryRecipes[plusRecipe] == target
-					):
-						continue
-					elif checkItem(plusCategoryRecipes[plusRecipe], maxLv):
-						materials.append([plusCategoryRecipes[plusRecipe], plusRecipe])
-						#materials.append([plusRecipe, plusCategoryRecipes[plusRecipe]])
-
-	result.append_array(materials)
-	return true
-
-
-func findAllPaths(
-	start: String,
-	target: String,
-	depth_limit: int,
-	useFailure: bool,
-	useAddCategory: bool,
-	maxLv: int
-) -> Array[Array]:
-	var visited: Array[String] = []
-	var memo: Dictionary = {}
-	var result := dfs(
-		start, start, target, depth_limit, 0, visited, memo, useFailure, useAddCategory, maxLv
-	)
-	result.sort_custom(func(a, b): return a.size() < b.size())
-	for path in result:
-		path.reverse()
-	return result
-
-
-func dfs(
-	start: String,
-	source: String,
-	target: String,
-	depth_limit: int,
-	current_depth: int,
-	visited: Array[String],
-	memo: Dictionary,
-	useFailure: bool,
-	useAddCategory: bool,
-	maxLv: int
-) -> Array[Array]:
-	# debug print
-	if start == target and current_depth > 0:
-		return [[[start, source]]]
-	if current_depth >= depth_limit:
-		return []
-	if memo.has([start, source]):
-		return memo[[start, source]]
-
-	visited.append(start)
-	var allPaths: Array[Array] = []
-
-	var nextMats: Array[Array] = []
-	if getMaterials([start, source], target, nextMats, memo, useFailure, useAddCategory, maxLv):
-		for neighbor in nextMats:
-			if neighbor[0] in visited:
-				continue
-			#print("Neighbor: ", neighbor)
-			var subPath: Array = dfs(
-				neighbor[0],
-				neighbor[1],
-				target,
-				depth_limit,
-				current_depth + 1,
-				visited,
-				memo,
-				useFailure,
-				useAddCategory,
-				maxLv
-			)
-			if subPath == []:
-				continue
-			for path: Array in subPath:
-				var subRes: Array = [[start, source]] + path
-				if subRes not in allPaths:
-					allPaths.append(subRes)
-
-	visited.erase(start)
-	if allPaths.size() > 0:
-		memo[[start, source]] = allPaths
-	return allPaths
 
 
 @onready var startItem := get_node("%StartingSelect") as OptionButton
@@ -306,29 +170,34 @@ func dfs(
 @onready var failureCheck := get_node("%FailCheck") as CheckBox
 @onready var effectCheck := get_node("%EffectCheck") as CheckBox
 @onready var startSearch := get_node("%Start") as Button
-@onready var resultbox: Array[HBoxContainer] = [
-	get_node("%Item1") as HBoxContainer,
-	get_node("%Item2") as HBoxContainer,
-	get_node("%Item3") as HBoxContainer,
-	get_node("%Item4") as HBoxContainer,
-	get_node("%Item5") as HBoxContainer,
-	get_node("%Item6") as HBoxContainer,
-	get_node("%Item7") as HBoxContainer,
-	get_node("%Item8") as HBoxContainer
-]
+@onready var resultbox := get_node("%Item") as HBoxContainer
+@onready var result_container := get_node("%ItemContainer") as VBoxContainer
+#get_node("%Item2") as HBoxContainer,
+#get_node("%Item3") as HBoxContainer,
+#get_node("%Item4") as HBoxContainer,
+#get_node("%Item5") as HBoxContainer,
+#get_node("%Item6") as HBoxContainer,
+#get_node("%Item7") as HBoxContainer,
+#get_node("%Item8") as HBoxContainer
+#]
 @onready var lvSlider := get_node("%LvSlider") as Slider
 @onready var lvLabel := get_node("%LvText") as Label
 @onready var resultText := get_node("%ResultText") as Label
+var recipe_book: AtelierRecipeBook = null
+var resultbox_copy: HBoxContainer = null
 
 
 func _ready():
 	readJson()
-	categorize()
 	materialScan()
 	failCollection()
 	plusCategoryFinder()
 
+	resultbox_copy = resultbox.duplicate()
+	recipe_book = AtelierRecipeBook.new(recipes, items, failItems, failRecipes)
+
 	var orderedItemKeys := items.keys()
+	orderedItemKeys += categories.keys()
 	#filter out items that are not craftable
 	orderedItemKeys = orderedItemKeys.filter(isCraftable)
 	orderedItemKeys.sort()
@@ -357,9 +226,8 @@ func onLvSliderChanged(value: float):
 
 
 func onStartSearchPressed():
-	for box: HBoxContainer in resultbox:
-		for child in box.get_children():
-			box.remove_child(child)
+	for child in result_container.get_children():
+		result_container.remove_child(child)
 
 	if startItem.get_selected_id() == -1 or targetItem.get_selected_id() == -1:
 		return
@@ -367,32 +235,35 @@ func onStartSearchPressed():
 	var start := startItem.get_item_text(startItem.get_selected_id())
 	var target := targetItem.get_item_text(targetItem.get_selected_id())
 	var depth := 5
-	var useFailure := failureCheck.is_pressed()
-	var useAddCategory := effectCheck.is_pressed()
-	var lv: int = round(lvSlider.value)
-	var paths := findAllPaths(target, start, depth, useFailure, useAddCategory, lv)
-	print("Paths: %d" % paths.size())
+	#var useFailure := failureCheck.is_pressed()
+	#var useAddCategory := effectCheck.is_pressed()
+	#var lv: int = round(lvSlider.value)
+
+	var search_test := recipe_book.find_recipe_graph(start, target, depth)
+	var total_path: int = 0
+	var paths := []
+	print("Search test:")
+	for recipe: AtelierRecipe in search_test:
+		var chain := recipe.extract_chains()
+		print("\t%s has %d path(s)" % [recipe.material.name, chain.size()])
+		total_path += chain.size()
+		paths += chain
+	print("Total path: %d" % total_path)
+	paths.sort_custom(func(a, b): return a.size() < b.size())
+	#var paths := findAllPaths(target, start, depth, useFailure, useAddCategory, lv)
 	if paths.size() == 0:
 		resultText.text = "No recipe found!"
 		return
 	else:
 		resultText.text = "Found: %d" % paths.size()
 
-	for path: int in min(paths.size(), 8):
-		var currentPath := paths[path]
-		for subPath: int in currentPath.size():
-			#add new label node to the resultbox
-			var label := Label.new()
-			#label.text = ", ".join(currentPath[subPath])
-			if currentPath[subPath][0] == currentPath[subPath][1]:
-				label.text = currentPath[subPath][0]
-			else:
-				if failItems.has(currentPath[subPath][0]):
-					label.text = currentPath[subPath][1] + " (Fail)"
-				else:
-					label.text = currentPath[subPath][1]
-			resultbox[path].add_child(label)
-			if subPath < currentPath.size() - 1:
-				var arrow := Label.new()
-				arrow.text = " -> "
-				resultbox[path].add_child(arrow)
+	for path: int in paths.size():
+		var pathbox := resultbox_copy.duplicate()
+		var currentPath = paths[path]
+		#print("Path %d: %s" % [path + 1, currentPath])
+		for i: int in currentPath.size():
+			var item = currentPath[i]
+			var itemLabel := Label.new()
+			itemLabel.text = item if i % 2 == 0 else "(Fail) ->" if item.match("Fail*") else "->"
+			pathbox.add_child(itemLabel)
+		result_container.add_child(pathbox)

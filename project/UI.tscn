@@ -21,14 +21,14 @@ anchors_preset = -1
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
-grow_vertical = 2
 split_offset = -235
 dragger_visibility = 2
 metadata/_edit_use_anchors_ = true
 
 [node name="HBoxContainer" type="HBoxContainer" parent="Vsplit"]
+custom_minimum_size = Vector2(0, 130)
 layout_mode = 2
-size_flags_vertical = 3
+size_flags_vertical = 0
 metadata/_edit_use_anchors_ = true
 
 [node name="MarginContainer" type="MarginContainer" parent="Vsplit/HBoxContainer"]
@@ -92,8 +92,8 @@ split_offset = -205
 dragger_visibility = 2
 
 [node name="HSplitContainer" type="HSplitContainer" parent="Vsplit/Vsplit2"]
+custom_minimum_size = Vector2(0, 90)
 layout_mode = 2
-size_flags_vertical = 3
 dragger_visibility = 2
 
 [node name="MarginContainer" type="MarginContainer" parent="Vsplit/Vsplit2/HSplitContainer"]
@@ -103,6 +103,7 @@ theme_override_constants/margin_left = 75
 theme_override_constants/margin_bottom = 10
 
 [node name="HBoxContainer" type="HBoxContainer" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer"]
+visible = false
 layout_mode = 2
 
 [node name="VBoxContainer" type="VBoxContainer" parent="Vsplit/Vsplit2/HSplitContainer/MarginContainer/HBoxContainer"]
@@ -196,48 +197,19 @@ grow_vertical = 2
 theme_override_constants/margin_left = 50
 theme_override_constants/margin_top = 5
 theme_override_constants/margin_right = 50
-theme_override_constants/margin_bottom = 5
+theme_override_constants/margin_bottom = 20
 
-[node name="VBoxContainer" type="VBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer"]
+[node name="ScrollContainer" type="ScrollContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer"]
+layout_mode = 2
+horizontal_scroll_mode = 0
+
+[node name="ItemContainer" type="VBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/ScrollContainer"]
+unique_name_in_owner = true
 layout_mode = 2
 metadata/_edit_use_anchors_ = true
 
-[node name="Item1" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
+[node name="Item" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/ScrollContainer/ItemContainer"]
 unique_name_in_owner = true
-layout_mode = 2
-size_flags_vertical = 3
-
-[node name="Item2" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
-unique_name_in_owner = true
-layout_mode = 2
-size_flags_vertical = 3
-
-[node name="Item3" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
-unique_name_in_owner = true
-layout_mode = 2
-size_flags_vertical = 3
-
-[node name="Item4" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
-unique_name_in_owner = true
-layout_mode = 2
-size_flags_vertical = 3
-
-[node name="Item5" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
-unique_name_in_owner = true
-layout_mode = 2
-size_flags_vertical = 3
-
-[node name="Item6" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
-unique_name_in_owner = true
-layout_mode = 2
-size_flags_vertical = 3
-
-[node name="Item7" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
-unique_name_in_owner = true
-layout_mode = 2
-size_flags_vertical = 3
-
-[node name="Item8" type="HBoxContainer" parent="Vsplit/Vsplit2/ColorRect/MarginContainer/VBoxContainer"]
-unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 40)
 layout_mode = 2
 size_flags_vertical = 3
