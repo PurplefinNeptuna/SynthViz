@@ -1,0 +1,449 @@
+Name,WT,Stun,Range,Level,Fire,Ice,Elec,Earth,Awakened Material,Awakened Attack (Bombs),Awakened Recovery,Awakened Equipment,Cat 1,Cat 2,Cat 3,Cat 4,Location,Monster,Acqusition
+Uni,100,35,Single,3,1,0,0,1,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,(Plants),(Vegetables),,,"Morning Dew Forest, Fellsgalaxen, Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Nearby Forest, Guiding Light Forest, Golden Plains, Quelei Forest, Neumont Forest, Izuko Beach, Holy Slumbering Tree, Rolling Hill, Fellsgalaxen: Another",,
+Lightning Bomb,200,50,Single,8,0,0,2,0,Awakened: Lightning +1,Lightning DMG+ Lvl 1,Cures Blindness,SPD Up Lvl 1,(Bombs),,,,,,[Alchemyriddle] Regarding Bombs (Advanced) [Chapter of Impetus]
+Magic Sword,200,60,Single,19,1,0,3,0,Awakened: Lightning +2,Inflict Curse Lvl 3,Cures Curse,Skill Up Lvl 3,(Magic Tool),,,,,,[Alchemyriddle] Quiet Smile of the Enchanted Sword [Chapter of Advice]
+Healing Salve,200,0,Single,4,0,2,0,1,Awakened: Ice +2,Temp ATK Debuff Lvl 1,Temp SPD Up Lvl 1,Add Ailments Resistance XS,(Medicines),,,,Hart Outpost,,Event STR_LIBRARY_BUILD_025
+Nostalgic Curry,200,0,Single,5,2,0,0,0,Awakened: Fire +2,Fire DMG+ Lvl 1,Temp ATK Up Lvl 2,ATK Up Lvl 2,(Food),,,,,,[Alchemyriddle] Stimulation and Fond Memories [Chapter of Impetus]
+Bomb,250,35,Narrow Range,5,2,0,0,0,Awakened: Fire +1,Fire DMG+ Lvl 1,Cures Burns,ATK Up Lvl 1,(Bombs),,,,,,[Alchemyriddle] Regarding Bombs (Basic) [Chapter of Impetus]
+Ice Bomb,250,50,Narrow Range,6,0,2,0,0,Awakened: Ice +1,Ice DMG+ Lvl 1,Cures Sleep,DEF Up Lvl 1,(Bombs),,,,,,[Alchemyriddle] Regarding Bombs (Advanced) [Chapter of Impetus]
+Craft,250,60,Normal Range,3,1,0,0,1,Awakened Quality Up +10,Faint Value Up Lvl 1,Temp ATK Up Lvl 1,ACC Up Lvl 1,(Bombs),,,,Hart Outpost,,Event STR_LIBRARY_BUILD_004
+Sharp Ice Sword,250,60,Single,36,0,4,2,0,Awakened TP Increase +7,Ice DMG+ Lvl 5,Temp ACC Up Lvl 4,Ignores Luck L,(Magic Tool),,,,,,[Alchemyriddle] Mighty Magic Sword of Ice [Chapter of Decisions]
+Migraine Syrup,250,0,Single,6,0,2,1,0,Awakened: Earth +1,Inflict Sleep Lvl 1,Damage Reducer Lvl 1,Evasion Up Lvl 1,(Medicines),,,,,,[Alchemyriddle] When You're Feeling Down [Chapter of Impetus]
+Meister Tarte,250,0,Single,6,0,2,0,1,Awakened Quality Up +10,Inflict Burns Lvl 1,HP Recovery XS,Weaken Item Lvl 1,(Food),,,,,,Book 'My First Recipes'
+Danish,250,0,Single,11,1,0,2,0,Awakened: Fire +2,Earth DMG+ Lvl 1,Add MP Recovery Lvl 2,Weaken Item Lvl 1,(Food),,,,,,Book 'Alchemy of Materials'
+Mont Blanc,250,0,Single,21,0,3,0,2,Awakened Quality Up +30,Temp Critical Debuff Lvl 3,Temp Critical Power Up Lvl 3,Temp Stamina Buff L,(Food),,,,,,Book 'You Can Do This'
+Bomb Curry,250,0,Single,13,3,0,1,0,Awakened: Fire & Light. +1,Inflict Burns Lvl 2,Temp ATK Up Lvl 2,ATK Up Lvl 2,(Food),,,,,,[Alchemyriddle] An Acquired Taste [Chapter of Destiny]
+Soul Absorbing Gourd,250,0,Single,23,2,1,2,0,Awakened: Lightning +3,Temp ATK Debuff Lvl 4,Temp EXP Up Lvl 3,Avoid KO Lvl 4,(Magic Tool),,,,,,[Alchemyriddle] Soul-Devouring Gourd [Chapter of Truth]
+Healing Bell,300,0,All,17,1,0,0,2,Awakened: Fire & Earth +1,Inflict Curse Lvl 1,Cures Sleep,Avoid KO Lvl 2,(Magic Tool),,,,,,[Alchemyriddle] Shelf Full of Medicines [Chapter of Advice]
+Omega Craft,300,60,Normal Range,22,3,0,0,3,Awakened Quality Up +30,Temp ATK Debuff Lvl 3,Damage Reducer Lvl 3,ACC Up Lvl 3,(Bombs),,,,,,[Alchemyriddle] Powered-Up Spike Bomb [Chapter of Reunion]
+Barrel,300,75,Single,10,0,2,0,2,Awakened Quality Up +20,Inflict Slowness Lvl 2,Cures Slowness,Enhance Items Lvl 2,(Bombs),,,,,,[Alchemyriddle] Barrel! [Chapter of Impetus]
+Special Meat,300,0,Single,24,3,0,1,0,Awakened (Meat),Inflict Burns Lvl 3,Awakened (Meat),Skill Up Lvl 3,(Food),,,,,,[Alchemyriddle] Wild Meat Dish [Chapter of Reunion]
+Secret Remedy,300,0,Single,17,2,0,3,0,Awakened TP Increase +5,Temp Critical Debuff Lvl 2,Temp EXP Up Lvl 2,Max MP Up Lvl 2,(Medicines),,,,,,[Alchemyriddle] Shelf Full of Medicines [Chapter of Advice]
+Lululu Curry,300,0,Single,35,4,0,2,0,Awakened: Fire & Light. +2,Faint Value Up Lvl 4,HP Recovery L,Max HP Up Lvl 4,(Food),,,,,,Event STR_LIBRARY_BUILD_020
+Alchemy Candy,300,0,Single,36,1,1,1,1,Awakened TP Increase +7,Inflict Sleep Lvl 3,Temp EXP Up Lvl 3,Ignores Luck L,(Medicines),,,,,,[Alchemyriddle] Alchemical Candy Making [Chapter of Truth]
+Dark Water,300,0,Single,19,1,2,0,3,Awakened TP Increase +10,Inflict Curse Lvl 2,Temp Critical Power Up Lvl 3,Avoid KO Lvl 3,(Medicines),,,,,,[Alchemyriddle] Poison among Poisons [Chapter of Advice]
+Witch Salve,300,0,Single,33,2,2,0,3,Awakened: Fire & Earth +3,Temp DEF Debuff Lvl 5,Temp SPD Up Lvl 3,Enhance Items Lvl 4,(Medicines),,,,,,Clear Alchemyriddle Chapter of Bonds
+Rocket Ice Bomb,350,75,All,26,0,4,0,0,Awakened: Ice +3,Ice DMG+ Lvl 3,Temp ACC Up Lvl 3,DEF Up Lvl 3,(Bombs),,,,,,[Alchemyriddle] The Ultimate Ice and Electric Bombs [Chapter of Bonds]
+Shellper Horn,350,0,All,12,2,0,0,1,Awakened: Fire & Earth +1,Inflict Sleep Lvl 3,Cleanses Impurity S,Temp Stamina Buff L,(Magic Tool),,,,,,[Alchemyriddle] Shell Melody [Chapter of Succession]
+Tera Bomb,350,35,Large Range,33,4,0,0,0,Awakened: Fire +3,Fire DMG+ Lvl 3,Temp Critical Power Up Lvl 3,ATK Up Lvl 3,(Bombs),,,,,,[Alchemyriddle] Powerful Bomb of Light and Flames [Chapter of Answers]
+Mind Water,350,0,Single,26,0,3,0,0,Awakened: Ice +3,Inflict Sleep Lvl 3,Add MP Recovery Lvl 3,Max MP Up Lvl 3,(Medicines),,,,,,[Alchemyriddle] Healing Heart [Chapter of Bonds]
+Special Plate,350,0,Single,31,4,0,0,2,Awakened (Food),Temp ATK Debuff Lvl 5,Add MP Recovery Lvl 5,Max MP Up Lvl 5,(Food),,,,,,Book 'Wild's Wild Recipe'
+Ultimate Lululu Curry,350,0,Single,45,5,0,3,1,Awakened: Fire & Light. +3,Faint Value Up Lvl 5,HP Recovery XL,Max HP Up Lvl 5,(Food),,,,,,Event STR_LIBRARY_BUILD_024
+Dream Vision,350,0,Single,34,2,2,2,0,Awakened (Magic Tool),Temp Critical Debuff Lvl 5,Temp ACC Up Lvl 5,Evasion Up Lvl 5,(Magic Tool),,,,,,[Alchemyriddle] Alchemic Clones [Chapter of Answers]
+Ether Ink,350,0,Single,40,0,2,2,2,Awakened Quality Up +40,Temp Critical Debuff Lvl 5,Cleanses Impurity S,ACC Up Lvl 3,(Magic Tool),,,,,,[Alchemyriddle] Magical Curative Agent [Chapter of Blank Pages]
+Mystical Ankh,400,0,All,21,0,1,2,2,Awakened: Ice & Earth +1,Inflict Curse Lvl 3,Cures Seal,DEF Up Lvl 3,(Magic Tool),,,,,,[Alchemyriddle] Object Imbued with Divine Power [Chapter of Reunion]
+Luminous Lance,400,50,Normal Range,30,0,3,3,0,Awakened (Mystery),Temp ATK Debuff Lvl 5,Temp ACC Up Lvl 5,ACC Up Lvl 4,(Magic Tool),,,,,,"[Alchemyriddle] Lance of Light, Bane of Evil [Chapter of Bonds]"
+Drachen Elixir,400,0,Single,36,3,0,2,0,Awakened: Earth +3,Earth DMG+ Lvl 2,Temp ACC Up Lvl 3,ACC Up Lvl 3,(Medicines),,,,,,[Alchemyriddle] Dragon Power Imbued Medicine [Chapter of Decisions]
+Meteor,450,50,All,43,2,0,0,4,Awakened: Fire & Light. +2,Earth DMG+ Lvl 5,Temp ATK Up Lvl 3,ATK Up Lvl 4,(Magic Tool),,,,,,"[Alchemyriddle] Strength of Stars, Gift from Heavens [Chapter of Blank Pages]"
+Grand Lightning Bomb,450,60,Narrow Range,27,0,0,4,0,Awakened: Lightning +3,Lightning DMG+ Lvl 3,Temp Evasion Up Lvl 3,SPD Up Lvl 3,(Bombs),,,,,,[Alchemyriddle] The Ultimate Ice and Electric Bombs [Chapter of Bonds]
+Chain of Karma,450,0,Single,38,0,3,0,3,Awakened: Earth +3,Temp SPD Debuff Lvl 5,Temp ATK Up Lvl 5,SPD Up Lvl 5,(Magic Tool),,,,,,"[Alchemyriddle] Karma in Chains, Chained to Karma [Chapter of Decisions]"
+Barrel Bomb,500,80,Normal Range,16,3,0,0,1,Awakened: Fire & Light. +1,Fire DMG+ Lvl 2,Temp Critical Rate Up Lvl 2,Ignores Luck M,(Bombs),,,,,,[Alchemyriddle] Explosive Textbook [Chapter of Destiny]
+Globe,500,100,Single,9,0,0,0,2,Awakened: Earth +1,Earth DMG+ Lvl 1,Cures Poison,Temp Stamina Buff S,(Magic Tool),,,,,,[Alchemyriddle] A Perfect Sphere [Chapter of Impetus]
+Sun Flare,500,60,Single,36,2,0,0,4,Awakened: Earth +3,Earth DMG+ Lvl 3,Temp Critical Rate Up Lvl 3,Temp Stamina Buff L,(Magic Tool),,,,,,[Alchemyriddle] Using the Strength of the Sun [Chapter of Truth]
+Demon Canon,500,35,Single,20,1,0,0,3,Awakened: Ice +3,Temp DEF Debuff Lvl 3,Temp ACC Up Lvl 2,ACC Up Lvl 2,(Magic Tool),,,,,,[Alchemyriddle] Sky-Rending Blast [Chapter of Advice]
+Himmelstein,500,150,Single,45,0,4,0,4,Awakened (Poisons),Lightning DMG+ Lvl 5,Temp Critical Power Up Lvl 5,Weaken Item Lvl 5,(Bombs),,,,,,[Alchemyriddle] Pinnacle of All Poisons [Chapter of Blank Pages]
+Nectar,500,0,Single,12,0,3,2,0,Awakened TP Increase +7,Inflict Curse Lvl 4,Removes Ailments,Add Ailments Resistance M,(Medicines),,,,,,Clear Alchemyriddle Chapter of Impetus
+Elemental Canon,550,50,Line,37,2,2,2,2,Awakened (Mushrooms),Inflict Sleep Lvl 5,Temp ACC Up Lvl 3,Faint Value Up Lvl 4,(Magic Tool),,,,,,[Alchemyriddle] Cannon Designed for Magical Use [Chapter of Decisions]
+N/A Alpha,600,0,Single,42,0,3,3,0,Awakened TP Increase +15,Awakened TP Increase +15,Awakened TP Increase +15,Awakened TP Increase +15,(Bombs),,,,,,[Alchemyriddle] Forbidden Bomb Prototype Alpha [[Post-Game Secret Chapter]]
+Healing Incense,650,0,All,32,2,0,0,2,Awakened: Earth +3,Inflict Sleep Lvl 4,HP Recovery L,Weaken Item Lvl 4,(Magic Tool),,,,,,[Alchemyriddle] The Allure of a Healing Aroma [Chapter of Answers]
+Elixir,800,0,All,37,0,3,0,3,Awakened (Medicines),Awakened (Medicines),Awakened (Medicines),Awakened (Medicines),(Medicines),,,,,,[Alchemyriddle] Ultimate Panacea [Chapter of Truth]
+N/A Beta,1000,200,All,43,3,0,3,0,Awakened TP Increase +15,Awakened TP Increase +15,Awakened TP Increase +15,Awakened TP Increase +15,(Bombs),,,,,,[Alchemyriddle] Forbidden Bomb Prototype Beta [[Post-Game Secret Chapter]]
+N/A,1000,200,Narrow Range,41,3,0,3,0,Awakened (Bombs),Fire DMG+ Lvl 5,Temp Critical Rate Up Lvl 5,Enhance Items Lvl 5,(Bombs),,,,,,[Alchemyriddle] Bomb of Ultimate Destruction [Chapter of Blank Pages]
+N/A Gamma,1000,200,Single,44,0,0,3,3,Awakened (Bombs),Awakened (Bombs),Awakened (Bombs),Awakened (Bombs),(Bombs),,,,,,[Alchemyriddle] Forbidden Bomb Prototype Gamma [[Post-Game Secret Chapter]]
+N/A Omega,1500,200,Single,50,5,0,5,0,Awakened TP Increase +15,Awakened TP Increase +15,Awakened TP Increase +15,Awakened TP Increase +15,(Bombs),,,,,,[Alchemyriddle] Final Ruin Bringer [[Post-Game Secret Chapter]]
+Plain Grass,,,,1,0,0,0,1,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,(Plants),,,,"Morning Dew Forest, Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Old Kingdom Checkpoint, Trombe Plateau, Old Empire Border: Merulia Gate, Guiding Light Forest, Modis Ruins, Quelei Forest, Stein Hill, Dusty Nail Canyon, Rolling Hill",,
+Nuse,,,,2,1,1,0,0,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,(Plants),,,,"Morning Dew Forest, Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Nearby Forest, Guiding Light Forest, Golden Plains, Quelei Forest, Neumont Forest, Izuko Beach, Holy Slumbering Tree, Rolling Hill",Roamingshroom,
+Clear Grass,,,,4,0,2,0,1,Awakened: Ice +1,Awakened: Ice +1,Add MP Recovery Lvl 1,Max MP Up Lvl 1,(Plants),(Medicinal),,,"Morning Dew Forest, Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Guiding Light Forest, Dusty Nail Canyon, Large Conifer Forest",,
+Med Tree Root,,,,11,0,3,0,2,Awakened Quality Up +20,Awakened Quality Up +20,Cures Poison,DEF Up Lvl 1,(Plants),(Medicinal),,,"Eternal Spring, Nearby Forest, Guiding Light Forest, Golden Plains, Modis Ruins, Foggy Forest, Quelei Forest, Forgotten Village, Scorched Wasteland, Neumont Forest, Izuko Beach, Stein Hill, Night's Domain, Rolling Hill",,
+Glow Grass,,,,17,3,0,2,0,Awakened: Fire +2,Inflict Deadly Poison Lvl 1,Damage Reducer Lvl 2,Ignores Luck M,(Plants),(Poisons),,,"Fellsgalaxen, Modis Ruins, Quelei Forest, Handel Farm, Izuko Beach, Stein Hill, Large Conifer Forest, Rolling Hill, Fellsgalaxen: Another",,
+Water Tree Fruit,,,,16,0,3,1,1,Awakened: Ice +2,Inflict Blindness Lvl 2,Awakened Quality Up +30,Temp Stamina Buff M,(Plants),(Spices),(Water),,"Modis Ruins, Quelei Forest, Handel Farm, Izuko Beach, Stein Hill, Large Conifer Forest, Rolling Hill",,
+Living Cactus,,,,30,2,0,2,3,Awakened: Earth +2,Temp DEF Debuff Lvl 2,Awakened Quality Up +30,Weaken Item Lvl 2,(Plants),(Poisons),,,"Fellsgalaxen, Scorched Wasteland, Fellsgalaxen: Another",Toxishroom,
+Hiding Cloud,,,,25,0,2,0,3,Awakened (Bugs),Awakened (Bugs),Awakened (Bugs),Awakened (Bugs),(Plants),(Mystery),,,"Ster Highlands, Night's Domain, Holy Slumbering Tree",,
+Lotus,,,,19,0,5,0,5,Awakened (Poisons),Awakened (Poisons),Awakened (Poisons),Awakened (Poisons),(Plants),(Elixirs),,,Quelei Forest,,
+Gomphrena,,,,38,0,0,5,5,Awakened (Threads),Awakened (Threads),Awakened (Threads),Awakened (Threads),(Plants),,,,"Fellsgalaxen, Rolling Hill, Fellsgalaxen: Another",Mellowshroom,
+Clean Water,,,,2,0,2,0,0,Awakened: Ice +1,Awakened: Ice +1,Awakened: Ice +1,Awakened: Ice +1,(Water),,,,"Summer Breeze Road, Empty Neighborhood, Eternal Spring, Modis Ruins, Rolling Winds Cavern, Ancient Monastery, Forgotten Village, Handel Farm",Blue Puni,
+Foamy Water,,,,14,2,0,0,2,Awakened: Ice +2,Inflict Sleep Lvl 2,Add MP Recovery Lvl 2,Enhance Items Lvl 2,(Water),(Vapors),,,"Modis Ruins, Rolling Winds Cavern, Ancient Monastery, Forgotten Village, Handel Farm, Izuko Beach",,
+Thunder Water,,,,15,0,3,2,0,Awakened: Lightning +2,Inflict Blindness Lvl 2,HP Recovery S,Weaken Item Lvl 2,(Water),,,,"Orthogalaxen, Modis Ruins, Rolling Winds Cavern, Ancient Monastery, Forgotten Village, Large Conifer Forest",,
+Glittery Water,,,,29,0,4,0,3,Awakened Quality Up +30,Lightning DMG+ Lvl 3,Temp Evasion Up Lvl 2,Weaken Item Lvl 3,(Water),(Clay),,,"Fellsgalaxen, Izuko Beach, Large Conifer Forest, Fellsgalaxen: Another",,
+Dark Dew,,,,28,3,0,2,0,Awakened TP Increase +7,Inflict Poison Lvl 5,Temp DEF Up Lvl 3,Add Ailments Resistance L,(Water),(Poisons),,,"Fellsgalaxen, Ancient Monastery, Forgotten Village, Night's Domain, Fellsgalaxen: Another",Pulse Wind,
+Ointment Water,,,,15,0,1,0,2,Awakened Quality Up +20,Awakened Quality Up +10,Temp EXP Up Lvl 1,Skill Up Lvl 1,(Water),(Medicinal),(Elixirs),,Eternal Spring,,
+Forest Dew,,,,35,0,5,0,0,Awakened: Ice & Earth +2,Temp Critical Debuff Lvl 4,Cures Curse,Max MP Up Lvl 3,(Water),(Elixirs),,,"Guiding Light Forest, Orthogalaxen, Large Conifer Forest",Machina of God,
+Fest,,,,1,1,0,0,1,Awakened: Earth +1,Awakened: Earth +1,Awakened: Earth +1,Awakened: Earth +1,(Ore),,,,"Morning Dew Forest, Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Old Kingdom Checkpoint, Hart Outpost, Trombe Plateau, Old Empire Border: Merulia Gate, Stalhang Castle, Arls National Mine, Stone Coliseum, Scorched Wasteland, Mt. Velus, Izuko Beach, Runestone Nest, Stein Hill, Dusty Nail Canyon","Rock Punk, Fang Flyer",
+Snow Stone,,,,8,0,2,0,1,Awakened: Ice +2,Awakened: Ice +2,Awakened: Ice +2,Awakened: Ice +2,(Ore),,,,"Fellsgalaxen, Empty Neighborhood, Eternal Spring, Old Kingdom Checkpoint, Stalhang Castle, Arls National Mine, Stone Coliseum, Ster Highlands, Izuko Beach, Runestone Nest, Night's Domain, Fellsgalaxen: Another",Snow Heart,
+Quake Crystal,,,,9,0,0,2,1,Awakened: Lightning +2,Awakened: Lightning +2,Awakened: Lightning +2,Awakened: Lightning +2,(Ore),,,,"Fellsgalaxen, Summer Breeze Road, Settler's Road, Old Kingdom Checkpoint, Hart Outpost, Trombe Plateau, Old Empire Border: Merulia Gate, Stalhang Castle, Arls National Mine, Old Blocked Mining Tunnel, Stone Coliseum, Rolling Winds Cavern, Forgotten Village, Ster Highlands, Scorched Wasteland, Mt. Velus, Runestone Nest, Stein Hill, Fire's Domain, Rolling Hill, Fellsgalaxen: Another","Taker, Ghost",
+Stim Stone,,,,8,0,0,1,2,Awakened: Light. & Earth +1,Awakened: Light. & Earth +1,Awakened: Light. & Earth +1,Awakened: Light. & Earth +1,(Ore),,,,"Summer Breeze Road, Settler's Road, Hart Outpost, Trombe Plateau, Stalhang Castle, Arls National Mine, Orthogalaxen, Old Blocked Mining Tunnel, Stone Coliseum, Forgotten Village, Ster Highlands, Scorched Wasteland, Neumont Forest, Mt. Velus, Stein Hill, Night's Domain, Fire's Domain",Rock Punk,
+Sunny Crystal,,,,20,2,0,2,0,Awakened: Fire & Light. +1,Fire DMG+ Lvl 1,Temp ATK Up Lvl 2,Skill Up Lvl 2,(Ore),(Gemstones),,,"Stone Coliseum, Rolling Winds Cavern, Scorched Wasteland, Neumont Forest, Mt. Velus, Runestone Nest, Night's Domain, Fire's Domain",Gold Puni,
+Metal Ore,,,,19,0,2,0,3,Awakened: Lightning +2,Temp SPD Debuff Lvl 3,Temp ACC Up Lvl 3,Temp Stamina Buff L,(Ore),,,,"Arls National Mine, Old Blocked Mining Tunnel, Rolling Winds Cavern, Forgotten Village, Ster Highlands, Scorched Wasteland, Mt. Velus, Runestone Nest, Stein Hill, Night's Domain, Dusty Nail Canyon, Fire's Domain, Rolling Hill",Rock Punk,
+Star Piece,,,,29,2,0,0,3,Awakened: Light. & Earth +1,Inflict Poison Lvl 3,Temp ATK Up Lvl 3,ATK Up Lvl 3,(Ore),(Mystery),,,"Ster Highlands, Mt. Velus, Dusty Nail Canyon, Fire's Domain, Rolling Hill","Black Puni, Puni Black, Pulse Wind",
+Black Ore,,,,31,0,0,3,3,Awakened: Fire & Earth +1,Temp SPD Debuff Lvl 3,Temp Critical Power Up Lvl 3,Evasion Up Lvl 3,(Ore),(Gemstones),,,"Fellsgalaxen, Scorched Wasteland, Mt. Velus, Runestone Nest, Night's Domain, Fire's Domain, Fellsgalaxen: Another",Puni?,
+Divine Iron Piece,,,,36,3,0,3,0,Awakened (Metals),Awakened (Metals),Awakened (Metals),Awakened (Metals),(Ore),,,,"Fellsgalaxen, Fire's Domain, Fellsgalaxen: Another","Machina of God, Sky Ruler Edra",
+Audra's Tail,,,,9,0,0,2,0,Awakened: Lightning +1,Inflict Blindness Lvl 1,Temp Evasion Up Lvl 1,SPD Up Lvl 1,(Animal Products),(Threads),,,"Trombe Plateau, Holy Slumbering Tree","Audra, Vulture, Garuda, White Hunter",
+Rabbit Fur,,,,4,1,0,2,0,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,(Threads),,,,"Old Kingdom Checkpoint, Old Empire Border: Merulia Gate","Alumi Rabbit, Crystal Horn, Furball Rabbit, Snow Heart, Shadow Arch, Magi Mirage, Piercing Unicorn",
+Winding Grass,,,,15,0,1,0,3,Awakened: Earth +2,Faint Value Up Lvl 1,Temp Critical Rate Up Lvl 1,Add Ailments Resistance XS,(Threads),(Plants),,,"Golden Plains, Modis Ruins, Foggy Forest, Forgotten Village, Scorched Wasteland, Izuko Beach, Stein Hill, Night's Domain, Rolling Hill",,
+Cotton Flower,,,,11,0,0,2,2,Awakened TP Increase +3,Inflict Sleep Lvl 1,Temp DEF Up Lvl 1,Avoid KO Lvl 1,(Threads),(Plants),,,"Trombe Plateau, Golden Plains, Ster Highlands, Neumont Forest, Izuko Beach, Stein Hill, Holy Slumbering Tree, Rolling Hill",Furball Rabbit,
+Chainweb,,,,7,1,0,1,0,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,(Threads),(Gunpowder),,,"Fellsgalaxen, Eternal Spring, Old Kingdom Checkpoint, Old Empire Border: Merulia Gate, Stalhang Castle, Orthogalaxen, Old Blocked Mining Tunnel, Modis Ruins, Rolling Winds Cavern, Stein Hill, Large Conifer Forest, Fellsgalaxen: Another",,
+Phlogiston,,,,6,2,0,0,1,Awakened: Fire +2,Awakened: Fire +2,Awakened: Fire +2,Awakened: Fire +2,(Gunpowder),(Ore),,,"Morning Dew Forest, Fellsgalaxen, Summer Breeze Road, Settler's Road, Old Kingdom Checkpoint, Hart Outpost, Trombe Plateau, Old Empire Border: Merulia Gate, Stalhang Castle, Arls National Mine, Old Blocked Mining Tunnel, Stone Coliseum, Rolling Winds Cavern, Forgotten Village, Scorched Wasteland, Mt. Velus, Runestone Nest, Stein Hill, Dusty Nail Canyon, Fire's Domain, Fellsgalaxen: Another",Red Puni,
+Magma Stone,,,,33,4,0,0,3,Awakened (Fuel),Awakened (Fuel),Awakened (Fuel),Awakened (Fuel),(Gunpowder),(Ore),,,"Orthogalaxen, Scorched Wasteland, Mt. Velus, Fire's Domain",Sky Ruler Edra,
+Scrap Paper,,,,1,1,0,1,0,Awakened: Fire +1,Awakened: Fire +1,Awakened: Fire +1,Awakened: Fire +1,(Fuel),,,,"Fellsgalaxen, Old Kingdom Checkpoint, Hart Outpost, Old Empire Border: Merulia Gate, Ancient Monastery, Forgotten Village, Dusty Nail Canyon, Fellsgalaxen: Another",,
+Fertile Soil,,,,12,1,0,0,2,Awakened: Fire & Earth +1,Awakened: Fire & Earth +1,Awakened: Fire & Earth +1,Awakened: Fire & Earth +1,(Fuel),(Clay),,,"Settler's Road, Trombe Plateau",,
+Some Egg,,,,11,2,0,2,0,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,(Fuel),(Meat),,,"Eternal Spring, Trombe Plateau, Nearby Forest, Guiding Light Forest, Holy Slumbering Tree, Rolling Hill",,
+Fuel Dirt,,,,13,3,0,0,2,Awakened: Fire & Earth +1,Inflict Burns Lvl 2,Cures Burns,Add Ailments Resistance S,(Fuel),(Clay),,,"Stalhang Castle, Arls National Mine, Orthogalaxen, Old Blocked Mining Tunnel, Rolling Winds Cavern, Scorched Wasteland, Stein Hill, Dusty Nail Canyon, Fire's Domain",,
+Tar Fruit,,,,16,3,0,1,0,Awakened TP Increase +5,Faint Value Up Lvl 2,Cures Seal,Skill Up Lvl 2,(Fuel),(Plants),,,"Orthogalaxen, Golden Plains, Ancient Monastery, Neumont Forest, Holy Slumbering Tree",,
+Bear Oil,,,,22,0,2,2,0,Awakened Quality Up +30,Fire DMG+ Lvl 2,ATK Up Lvl 3,Temp Stamina Buff M,(Fuel),,,,,"Ginger Bear, Blue Hands, Yellowsein, Wailing Ursidae",
+Sea Puddle,,,,29,3,1,0,0,Awakened (Clay),Awakened (Clay),Awakened (Clay),Awakened (Clay),(Fuel),(Gunpowder),,,"Fellsgalaxen, Foggy Forest, Mt. Velus, Dusty Nail Canyon, Rolling Hill, Fellsgalaxen: Another",,
+Eternity Flame,,,,35,5,0,0,0,Awakened (Vapors),Awakened (Vapors),Awakened (Vapors),Awakened (Vapors),(Fuel),(Mystery),,,"Fellsgalaxen, Fire's Domain, Fellsgalaxen: Another","Wailing Ursidae, Celestial Emperor Adralda",
+Original Gem,,,,7,0,1,0,1,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,(Gemstones),,,,"Summer Breeze Road, Settler's Road, Hart Outpost, Trombe Plateau, Stalhang Castle, Arls National Mine, Old Blocked Mining Tunnel, Stone Coliseum, Forgotten Village, Stein Hill, Dusty Nail Canyon, Fire's Domain","Vulture, Aphostol, Ice Pixie",
+Isle Amber,,,,14,0,2,0,3,Awakened: Ice & Earth +1,Earth DMG+ Lvl 1,Cures Slowness,Avoid KO Lvl 2,(Gemstones),(Medicinal),,,,"Isle Fish, Giant Isle Fish, Striped Isle Fish, Huge Isle Fish",
+Glow Sand,,,,21,0,2,3,0,Awakened: Lightning +2,Lightning DMG+ Lvl 2,Temp SPD Up Lvl 2,Skill Up Lvl 2,(Gemstones),(Ore),,,"Old Blocked Mining Tunnel, Stone Coliseum, Rolling Winds Cavern, Forgotten Village, Ster Highlands, Mt. Velus, Runestone Nest, Holy Slumbering Tree","Gold Puni, Shiningshroom",
+Mountain Pearl,,,,22,0,2,0,2,Awakened Quality Up +30,Faint Value Up Lvl 2,Temp EXP Up Lvl 2,Enhance Items Lvl 2,(Gemstones),,,,"Arls National Mine, Ster Highlands",,
+Wispstone,,,,24,2,0,4,0,Awakened: Ice & Light. +2,Temp SPD Debuff Lvl 3,Temp EXP Up Lvl 3,Avoid KO Lvl 3,(Gemstones),(Mystery),,,"Neumont Forest, Night's Domain","Deep Phantom, Twilight Phantom, Blood Elemental, Echo Elemental, Machina of God, Magi Mirage, Silent Killer, Fertility Spirit",
+Azure Wing,,,,40,0,3,5,0,Awakened (Elixirs),Awakened (Elixirs),Awakened (Elixirs),Awakened (Elixirs),(Gemstones),(Mystery),,,"Orthogalaxen, Holy Slumbering Tree","Garuda, White Hunter, Schwarz Vogel",
+Eiche,,,,10,0,2,0,1,Awakened Quality Up +10,Temp DEF Debuff Lvl 1,Awakened Quality Up +10,DEF Up Lvl 1,(Lumber),,,,"Fellsgalaxen, Empty Neighborhood, Eternal Spring, Nearby Forest, Guiding Light Forest, Foggy Forest, Forgotten Village, Neumont Forest, Izuko Beach, Fellsgalaxen: Another",,
+Green Bamboo,,,,13,0,2,2,0,Awakened: Ice & Light. +1,Awakened Quality Up +10,Temp ATK Up Lvl 2,Awakened Quality Up +10,(Lumber),(Plants),,,"Eternal Spring, Guiding Light Forest, Neumont Forest, Izuko Beach",,
+Globe Sphere,,,,8,1,0,0,2,Awakened: Earth +1,Temp Critical Debuff Lvl 2,Temp SPD Up Lvl 1,Ignores Luck M,(Lumber),,,,"Hart Outpost, Modis Ruins, Large Conifer Forest",,
+Creation Tree's Twig,,,,34,0,0,4,3,Awakened (Medicinal),Awakened (Medicinal),Awakened (Medicinal),Awakened (Medicinal),(Lumber),(Plants),,,"Orthogalaxen, Holy Slumbering Tree",Piercing Unicorn,
+Balloon Fruit,,,,12,1,0,2,0,Awakened: Fire +2,Fire DMG+ Lvl 1,Temp ATK Up Lvl 2,ATK Up Lvl 2,(Vapors),(Plants),,,"Trombe Plateau, Golden Plains, Neumont Forest, Stein Hill, Dusty Nail Canyon, Rolling Hill",,
+Undying Wind,,,,25,2,0,3,0,Awakened Quality Up +30,Inflict Deadly Poison Lvl 3,HP Recovery M,Add Ailments Resistance M,(Vapors),(Mystery),,,"Fellsgalaxen, Quelei Forest, Izuko Beach, Fire's Domain, Rolling Hill, Fellsgalaxen: Another","Machete Wing, Twilight Phantom, Echo Elemental",
+Red Sand,,,,3,0,0,0,1,Awakened: Earth +1,Awakened: Earth +1,Awakened: Earth +1,Awakened: Earth +1,(Clay),,,,"Morning Dew Forest, Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Old Kingdom Checkpoint, Trombe Plateau, Old Empire Border: Merulia Gate, Stalhang Castle, Arls National Mine, Old Blocked Mining Tunnel, Stone Coliseum, Rolling Winds Cavern, Forgotten Village, Scorched Wasteland, Handel Farm, Mt. Velus, Runestone Nest, Stein Hill, Dusty Nail Canyon, Fire's Domain, Holy Slumbering Tree",,
+Natural Fertilizer,,,,10,0,0,2,2,Awakened: Earth +2,Awakened: Earth +2,Awakened: Earth +2,Awakened: Earth +2,(Clay),(Fuel),(Medicinal),,"Eternal Spring, Stalhang Castle, Handel Farm",,
+Original Soil,,,,27,0,3,0,5,Awakened: Earth +3,Inflict Deadly Poison Lvl 3,Cures Curse,DEF Up Lvl 3,(Clay),(Elixirs),,,"Fellsgalaxen, Forgotten Village, Holy Slumbering Tree, Fellsgalaxen: Another",,
+Crystal Piece,,,,4,0,1,1,1,Awakened TP Increase +5,Awakened TP Increase +5,Awakened TP Increase +5,Awakened TP Increase +5,(Mystery),,,,"Fellsgalaxen, Old Blocked Mining Tunnel, Stone Coliseum, Modis Ruins, Rolling Winds Cavern, Quelei Forest, Ster Highlands, Scorched Wasteland, Mt. Velus, Runestone Nest, Fire's Domain, Fellsgalaxen: Another","Aphostol, Audra",
+Pendelook,,,,12,0,2,3,0,Awakened: Lightning +1,Inflict Blindness Lvl 2,Temp ATK Up Lvl 1,Avoid KO Lvl 1,(Mystery),(Gemstones),,,"Orthogalaxen, Old Blocked Mining Tunnel, Stone Coliseum, Rolling Winds Cavern, Ancient Monastery, Ster Highlands, Mt. Velus, Runestone Nest","Ghost, Scare Phantom, Deep Phantom, Twilight Phantom, Jagd Wolf",
+Black Runestone,,,,28,3,3,0,0,Awakened Quality Up +30,Inflict Deadly Poison Lvl 2,Cures Seal,DEF Up Lvl 3,(Mystery),(Ore),(Poisons),,"Ster Highlands, Runestone Nest","Puni?, Shadow Bat, Deep Phantom, Black Demon",
+Blessed Stone,,,,18,0,3,2,0,Awakened: Ice +2,Inflict Deadly Poison Lvl 3,Cleanses Impurity M,Add Ailments Resistance M,(Mystery),(Ore),,,"Old Blocked Mining Tunnel, Stone Coliseum, Ster Highlands, Mt. Velus, Night's Domain","Striped Isle Fish, Fertility Spirit",
+Elemental Fragment,,,,13,2,2,2,2,Awakened Quality Up +30,Temp ATK Debuff Lvl 3,Cleanses Impurity M,Add Ailments Resistance M,(Mystery),(Elixirs),,,Fire's Domain,"Blood Elemental, Ice Pixie, Echo Elemental, Fertility Spirit",
+Rainbow Fragment,,,,25,3,3,3,3,Awakened Quality Up +40,Temp DEF Debuff Lvl 4,Temp EXP Up Lvl 4,ATK Up Lvl 4,(Mystery),(Poisons),,,"Orthogalaxen, Runestone Nest","Ultra Puni, Eternal Darkness Demon, Blood Elemental, Old Dragon Emperor",
+World Spirit,,,,38,0,4,3,0,Awakened (Animal Products),Awakened (Animal Products),Awakened (Animal Products),Awakened (Animal Products),(Mystery),(Vapors),,,"Orthogalaxen, Mt. Velus, Rolling Hill","Twilight Phantom, Eternal Darkness Demon, Marshall Puni, Celestial Emperor Adralda",
+Hidden Spell Page,,,,10,0,2,1,0,Awakened Quality Up +20,Fire DMG+ Lvl 1,Cures Burns,Awakened Quality Up +20,(Magic Tool),(Fuel),,,"Old Kingdom Checkpoint, Old Empire Border: Merulia Gate, Orthogalaxen, Ancient Monastery",Scare Phantom,
+Destroyed Grimoire,,,,23,2,0,0,2,Awakened TP Increase +7,Awakened Quality Up +30,Awakened TP Increase +7,Awakened Quality Up +30,(Magic Tool),(Fuel),,,"Ancient Monastery, Dusty Nail Canyon",,
+Small Sardine,,,,3,0,1,0,1,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,(Seafood),,,,"Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Old Kingdom Checkpoint, Old Empire Border: Merulia Gate, Guiding Light Forest, Golden Plains, Quelei Forest, Handel Farm, Stein Hill, Dusty Nail Canyon, Large Conifer Forest",Isle Fish,
+Butterfly Fish,,,,6,0,2,1,0,Awakened Quality Up +10,Awakened Quality Up +10,Cures Blindness,Temp Stamina Buff S,(Seafood),,,,"Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Old Kingdom Checkpoint, Old Empire Border: Merulia Gate, Guiding Light Forest, Golden Plains, Quelei Forest, Handel Farm, Izuko Beach, Stein Hill, Large Conifer Forest",,
+Swirly Shell,,,,17,0,1,0,2,Awakened: Ice +2,Faint Value Up Lvl 2,HP Recovery S,Temp Stamina Buff M,(Seafood),(Ore),,,"Orthogalaxen, Golden Plains, Handel Farm, Night's Domain, Large Conifer Forest",Giant Isle Fish,
+Bomb Fish,,,,14,2,0,2,0,Awakened: Fire +2,Fire DMG+ Lvl 2,Cures Blindness,ATK Up Lvl 2,(Seafood),(Gunpowder),,,"Guiding Light Forest, Quelei Forest, Handel Farm, Izuko Beach, Stein Hill, Dusty Nail Canyon",Yellowsein,
+Spike Tuna,,,,32,0,3,2,0,Awakened: Ice & Light. +1,Temp SPD Debuff Lvl 3,Temp DEF Up Lvl 2,Evasion Up Lvl 2,(Seafood),,,,Izuko Beach,Striped Isle Fish,
+Living Fossil,,,,24,4,0,2,2,Awakened (Water),Awakened (Water),Awakened (Water),Awakened (Water),(Seafood),,,,"Stein Hill, Dusty Nail Canyon","Old Dragon Emperor, Dragon Spirit of Oblivion, Huge Isle Fish",
+Guardian,,,,33,0,5,4,1,Awakened (Meat),Awakened (Meat),Awakened (Meat),Awakened (Meat),(Seafood),,,,"Dusty Nail Canyon, Large Conifer Forest","Old Dragon Emperor, Dragon Spirit of Oblivion",
+Killer Bee,,,,5,1,0,1,0,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,(Bugs),,,,"Morning Dew Forest, Settler's Road, Trombe Plateau, Nearby Forest, Golden Plains, Foggy Forest, Quelei Forest, Handel Farm",,
+Honeypot Ant,,,,7,0,0,0,2,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,(Bugs),(Spices),,,"Morning Dew Forest, Settler's Road, Trombe Plateau, Nearby Forest, Golden Plains, Foggy Forest, Handel Farm",,
+Bitter Worm,,,,10,1,0,1,1,Awakened TP Increase +5,Awakened TP Increase +5,Temp ACC Up Lvl 1,ACC Up Lvl 1,(Bugs),(Medicinal),,,"Empty Neighborhood, Eternal Spring, Trombe Plateau, Nearby Forest, Golden Plains, Foggy Forest, Handel Farm",,
+Star Ladybug,,,,14,0,2,1,0,Awakened: Ice & Light. +1,Temp Critical Debuff Lvl 2,HP Recovery S,Evasion Up Lvl 2,(Bugs),,,,"Trombe Plateau, Nearby Forest, Golden Plains, Foggy Forest, Quelei Forest, Neumont Forest, Handel Farm, Izuko Beach",,
+Poison Dragonfly,,,,22,2,0,3,0,Awakened: Fire & Light. +1,Inflict Poison Lvl 4,Cleanses Impurity S,Add Ailments Resistance S,(Bugs),(Poisons),,,"Foggy Forest, Neumont Forest",,
+Lunar Locust,,,,27,0,4,0,3,Awakened Quality Up +30,Ice DMG+ Lvl 2,Temp SPD Up Lvl 3,Max MP Up Lvl 2,(Bugs),,,,"Quelei Forest, Neumont Forest, Izuko Beach",,
+Gold Scarab,,,,33,3,0,4,2,Awakened Quality Up +40,Inflict Deadly Poison Lvl 4,Temp DEF Up Lvl 4,Max HP Up Lvl 4,(Bugs),(Gemstones),,,"Foggy Forest, Neumont Forest",,
+Bat Wing,,,,5,1,0,2,0,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,(Animal Products),,,,"Old Kingdom Checkpoint, Old Empire Border: Merulia Gate, Stalhang Castle, Stone Coliseum, Rolling Winds Cavern","Fang Flyer, Taker, Frozen Chiroptera, Shadow Bat, Pulse Wind, Silent Killer, Machete Wing",
+Beast Fur,,,,9,2,0,0,0,Awakened TP Increase +3,Temp ATK Debuff Lvl 1,Temp Critical Power Up Lvl 1,Ignores Luck S,(Animal Products),(Threads),,,"Stalhang Castle, Stone Coliseum, Foggy Forest, Scorched Wasteland","Alumi Rabbit, Crystal Horn, Furball Rabbit, Snow Heart, Shadow Arch, Magi Mirage, Wolf, Jagd Wolf, Elder Fang, Audra, Ginger Bear, Blue Hands, Yellowsein, Wailing Ursidae",
+Swift Lizard Tail,,,,11,0,0,2,2,Awakened: Fire +1,Temp SPD Debuff Lvl 1,Temp Critical Rate Up Lvl 1,SPD Up Lvl 1,(Animal Products),,,,"Stalhang Castle, Stone Coliseum",,
+Forgotten Bone,,,,9,1,0,0,2,Awakened Quality Up +10,Inflict Curse Lvl 1,Temp Evasion Up Lvl 1,Evasion Up Lvl 1,(Animal Products),(Medicinal),,,"Stalhang Castle, Stone Coliseum, Foggy Forest, Ster Highlands, Scorched Wasteland, Night's Domain","Crystal Horn, Wolf",
+Isle Fish Filet,,,,12,0,3,0,0,Awakened (Seafood),Awakened (Seafood),Awakened (Seafood),Awakened (Seafood),(Animal Products),(Threads),,,Quelei Forest,"Isle Fish, Giant Isle Fish, Striped Isle Fish, Huge Isle Fish",
+Archfiend Claw,,,,25,4,0,2,0,Awakened: Fire & Light. +1,Temp Critical Debuff Lvl 3,HP Recovery M,Skill Up Lvl 3,(Animal Products),(Poisons),,,Scorched Wasteland,"Piercing Unicorn, Violet Fang, Machete Wing, Yellowsein, Wailing Ursidae, Wind Stone, Schwarz Vogel, Shadow Arch, Elder Fang, Silent Killer, Blue Hands",
+Sacred Bird Wing,,,,41,3,0,3,0,Awakened (Mystery),Awakened (Mystery),Awakened (Mystery),Awakened (Mystery),(Animal Products),(Elixirs),,,,"Garuda, White Hunter, Wind Stone, Schwarz Vogel",
+Mudhead,,,,9,0,1,0,2,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,(Mushrooms),(Medicinal),,,"Nearby Forest, Arls National Mine, Guiding Light Forest, Old Blocked Mining Tunnel, Modis Ruins, Foggy Forest, Mt. Velus, Large Conifer Forest",,
+Eicheloa,,,,12,0,1,0,3,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,(Mushrooms),(Vapors),,,"Nearby Forest, Arls National Mine, Guiding Light Forest, Old Blocked Mining Tunnel, Modis Ruins, Foggy Forest, Mt. Velus, Large Conifer Forest, Rolling Hill","Roamingshroom, Runningshroom, Ladyshroom, Shiningshroom, Toxishroom, Mellowshroom",
+Ghost House,,,,26,3,0,3,0,Awakened Quality Up +30,Inflict Sleep Lvl 3,Temp EXP Up Lvl 2,ACC Up Lvl 3,(Mushrooms),(Poisons),,,"Modis Ruins, Foggy Forest, Neumont Forest, Mt. Velus, Night's Domain","Ladyshroom, Shiningshroom, Toxishroom, Mellowshroom, Runningshroom",
+Royal Crown,,,,30,0,3,0,4,Awakened (Vegetables),Awakened (Vegetables),Awakened (Vegetables),Awakened (Vegetables),(Mushrooms),(Gemstones),,,"Large Conifer Forest, Rolling Hill","Mellowshroom, Toxishroom",
+Beast Meat,,,,8,0,2,0,2,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,(Meat),(Animal Products),,,,"Alumi Rabbit, Crystal Horn, Wolf, Jagd Wolf, Audra, Vulture, Fang Flyer, Taker, Shadow Bat",
+Fresh Meat,,,,14,0,3,3,0,Awakened TP Increase +5,Temp ATK Debuff Lvl 2,Temp DEF Up Lvl 2,Evasion Up Lvl 2,(Meat),(Animal Products),,,,"Furball Rabbit, Snow Heart, Shadow Arch, Magi Mirage, Piercing Unicorn, Jagd Wolf, Elder Fang, Garuda, White Hunter, Taker, Frozen Chiroptera, Pulse Wind",
+Wheat,,,,5,0,2,0,1,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,(Plants),(Vegetables),,,"Summer Breeze Road, Old Empire Border: Merulia Gate, Stalhang Castle, Golden Plains, Ancient Monastery, Handel Farm, Large Conifer Forest",,
+Beehive,,,,3,1,0,0,1,Awakened: Fire +1,Awakened: Fire +1,Awakened: Fire +1,Awakened: Fire +1,(Vegetables),(Gunpowder),,,"Morning Dew Forest, Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Trombe Plateau, Nearby Forest, Guiding Light Forest, Golden Plains, Quelei Forest, Neumont Forest, Izuko Beach, Holy Slumbering Tree, Rolling Hill",Ginger Bear,
+Hard Potato,,,,3,2,1,0,0,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,(Plants),(Vegetables),,,"Empty Neighborhood, Old Empire Border: Merulia Gate, Nearby Forest, Neumont Forest, Handel Farm, Holy Slumbering Tree",,
+Carrot,,,,3,0,0,1,2,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,Awakened TP Increase +3,(Plants),(Vegetables),,,"Empty Neighborhood, Old Empire Border: Merulia Gate, Nearby Forest, Neumont Forest, Handel Farm, Holy Slumbering Tree",Alumi Rabbit,
+Forest Cabbage,,,,8,0,2,0,2,Awakened TP Increase +5,Awakened TP Increase +5,Awakened TP Increase +5,Awakened TP Increase +5,(Plants),(Vegetables),,,"Nearby Forest, Neumont Forest, Holy Slumbering Tree",,
+Rock Salt,,,,4,2,0,0,1,Awakened: Earth +1,Inflict Poison Lvl 1,Damage Reducer Lvl 1,Evasion Up Lvl 1,(Spices),(Ore),,,"Arls National Mine, Ster Highlands",,
+Chariot Milk,,,,8,2,0,2,0,Awakened Quality Up +30,Awakened TP Increase +7,Awakened Quality Up +30,Awakened TP Increase +7,(Spices),(Water),,,"Rolling Winds Cavern, Handel Farm",,
+Nostalgic Spice,,,,8,2,0,0,2,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,Awakened Quality Up +10,(Spices),,,,Handel Farm,,
+Magic Grass,,,,5,0,2,0,0,Awakened Quality Up +10,Awakened Quality Up +10,HP Recovery XS,Temp Stamina Buff S,(Medicinal),(Plants),,,"Summer Breeze Road, Empty Neighborhood, Eternal Spring, Settler's Road, Old Kingdom Checkpoint, Trombe Plateau, Old Empire Border: Merulia Gate, Guiding Light Forest, Golden Plains, Modis Ruins, Foggy Forest, Quelei Forest, Forgotten Village, Ster Highlands, Scorched Wasteland, Neumont Forest, Handel Farm, Izuko Beach, Stein Hill, Night's Domain, Dusty Nail Canyon, Large Conifer Forest, Holy Slumbering Tree, Rolling Hill",Green Puni,
+Serenity Flower,,,,24,0,3,0,1,Awakened TP Increase +3,Temp ATK Debuff Lvl 2,HP Recovery S,Add Ailments Resistance S,(Medicinal),(Elixirs),,,"Quelei Forest, Ster Highlands, Handel Farm, Izuko Beach, Stein Hill, Large Conifer Forest, Holy Slumbering Tree",,
+Dizzy Cap Spore,,,,14,2,0,0,2,Awakened (Mushrooms),Awakened (Mushrooms),Awakened (Mushrooms),Awakened (Mushrooms),(Medicinal),(Poisons),(Spices),,"Nearby Forest, Arls National Mine, Guiding Light Forest, Old Blocked Mining Tunnel, Modis Ruins, Foggy Forest, Neumont Forest, Mt. Velus, Night's Domain, Large Conifer Forest, Rolling Hill",Ladyshroom,
+Sage Herb,,,,30,0,4,1,3,Awakened (Plants),Awakened (Plants),Awakened (Plants),Awakened (Plants),(Medicinal),(Poisons),(Elixirs),,"Fellsgalaxen, Izuko Beach, Holy Slumbering Tree, Fellsgalaxen: Another",Magi Mirage,
+Large Scale,,,,31,3,0,3,1,Awakened (Ore),Awakened (Ore),Awakened (Ore),Awakened (Ore),(Medicinal),(Elixirs),(Mystery),,"Orthogalaxen, Scorched Wasteland, Mt. Velus, Rolling Hill","Old Dragon Emperor, Dragon Spirit of Oblivion, Draconius",
+Dunkelheit,,,,40,3,5,3,5,Awakened: Ice & Earth +3,Awakened: Ice & Earth +3,Awakened: Ice & Earth +3,Awakened: Ice & Earth +3,(Medicinal),(Poisons),(Elixirs),(Plants),"Eternal Spring, Orthogalaxen",Ancient Draco,
+Mandrake Elixir,,,,23,2,0,0,2,Awakened Quality Up +10,Inflict Sleep Lvl 2,Temp ACC Up Lvl 2,Weaken Item Lvl 2,(Poisons),(Plants),,,"Orthogalaxen, Quelei Forest, Forgotten Village, Night's Domain, Large Conifer Forest",,
+Wicked Bone,,,,14,2,0,0,3,Awakened: Fire +1,Inflict Poison Lvl 2,Cures Slowness,ACC Up Lvl 2,(Poisons),(Animal Products),,,"Stone Coliseum, Night's Domain","Aphostol, Black Demon, Thoth, Eternal Darkness Demon",
+Wicked Fang,,,,18,3,0,2,0,Awakened TP Increase +5,Inflict Poison Lvl 3,Temp Critical Power Up Lvl 2,Max MP Up Lvl 2,(Poisons),(Animal Products),,,Night's Domain,"Elder Fang, Violet Fang, Shadow Bat, Pulse Wind, Silent Killer, Machete Wing, Shadow Arch, Frozen Chiroptera",
+Boa Venom Gland,,,,23,0,3,0,5,Awakened (Poisons),Inflict Poison Lvl 4,Add MP Recovery Lvl 3,Max MP Up Lvl 3,(Poisons),(Animal Products),,,"Foggy Forest, Ancient Monastery",Elder Fang,
+Night Lady,,,,28,0,3,0,4,Awakened (Cloth),Awakened (Cloth),Awakened (Cloth),Awakened (Cloth),(Poisons),(Plants),(Threads),,"Fellsgalaxen, Foggy Forest, Night's Domain, Fellsgalaxen: Another",Thoth,
+Ghost Orb,,,,34,4,0,2,0,Awakened TP Increase +7,Inflict Deadly Poison Lvl 3,Temp ATK Up Lvl 3,Avoid KO Lvl 3,(Poisons),(Mystery),,,Night's Domain,"Thoth, Eternal Darkness Demon, Violet Fang, Machete Wing, Dragon Spirit of Oblivion",
+Blue Puniball,,,,8,0,2,0,0,Awakened: Ice +1,Awakened: Ice +1,Awakened: Ice +1,Awakened: Ice +1,(Puniballs),,,,,"Blue Puni, Black Puni, Puni?",
+Green Puniball,,,,8,0,0,2,0,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,(Puniballs),,,,,"Green Puni, Black Puni, Puni?",
+Red Puniball,,,,8,2,0,0,0,Awakened: Fire +1,Awakened: Fire +1,Awakened: Fire +1,Awakened: Fire +1,(Puniballs),,,,,"Red Puni, Black Puni, Puni?",
+Puni Fluid,,,,5,0,1,1,0,Awakened: Earth +1,Awakened: Earth +1,Awakened: Earth +1,Awakened: Earth +1,(Puniballs),(Water),,,,"Blue Puni, Green Puni, Red Puni, Gold Puni, Puni Black, Ultra Puni",
+Gold Puniball,,,,21,3,0,3,0,Awakened (Gunpowder),Awakened (Gunpowder),Awakened (Gunpowder),Awakened (Gunpowder),(Puniballs),(Gemstones),,,,"Gold Puni, Ultra Puni, Marshall Puni",
+Rainbow Puniball,,,,32,3,3,3,3,Awakened (Gemstones),Awakened (Gemstones),Awakened (Gemstones),Awakened (Gemstones),(Puniballs),(Mystery),,,Orthogalaxen,"Ultra Puni, Marshall Puni",
+Huge Puniball,,,,34,0,4,0,4,Awakened (Puniballs),Awakened (Puniballs),Awakened (Puniballs),Awakened (Puniballs),(Puniballs),(Elixirs),,,"Fellsgalaxen, Fellsgalaxen: Another",Marshall Puni,
+Dragon Meat,,,,28,4,0,0,3,Awakened Quality Up +30,Inflict Burns Lvl 4,HP Recovery M,Max HP Up Lvl 4,(Dragon),(Meat),,,,"Lesser Draco, Draconia",
+Dragon Horn,,,,32,0,0,4,2,Awakened (Lumber),Awakened (Lumber),Awakened (Lumber),Awakened (Lumber),(Dragon),(Medicinal),(Elixirs),,Ster Highlands,"Lesser Draco, Draconia, Draconius, Ancient Draco, Piercing Unicorn",
+Dragon Scale,,,,26,0,4,1,0,Awakened (Ore),Temp ATK Debuff Lvl 4,Damage Reducer Lvl 3,DEF Up Lvl 4,(Dragon),(Mystery),(Elixirs),,Ster Highlands,"Lesser Draco, Draconia, Draconius",
+Dragon Piece,,,,31,4,0,0,4,Awakened (Dragon),Awakened (Dragon),Awakened (Dragon),Awakened (Dragon),(Dragon),(Mystery),(Gemstones),,,"Draconius, Ancient Draco, Sky Ruler Edra, Celestial Emperor Adralda",
+Blazing Ice Element,,,,16,0,0,0,0,Attribute Exchange: Fire/Ice,,,,(Boost),,,,"Modis Ruins, Scorched Wasteland, Runestone Nest, Fire's Domain",,
+Blazing Thunder Element,,,,16,0,0,0,0,Attribute Exchange: Fire/Lightning,,,,(Boost),,,,"Modis Ruins, Ster Highlands, Runestone Nest, Fire's Domain",,
+Blazing Earth Element,,,,16,0,0,0,0,Attribute Exchange: Fire/Earth,,,,(Boost),,,,"Modis Ruins, Scorched Wasteland, Fire's Domain",,
+Freezing Thunder Element,,,,16,0,0,0,0,Attribute Exchange: Ice/Lightning,,,,(Boost),,,,"Modis Ruins, Quelei Forest, Runestone Nest, Fire's Domain",,
+Freezing Earth Element,,,,16,0,0,0,0,Attribute Exchange: Ice/Earth,,,,(Boost),,,,"Modis Ruins, Quelei Forest, Runestone Nest, Fire's Domain",,
+Crackling Earth Element,,,,16,0,0,0,0,Attribute Exchange: Lightning/Earth,,,,(Boost),,,,"Modis Ruins, Ster Highlands, Runestone Nest, Fire's Domain",,
+Twinkle Flower,,,,20,0,0,0,0,Attribute Reversed: Fire,,,,(Boost),,,,"Rolling Winds Cavern, Runestone Nest",,
+Moonbeam Stone,,,,33,0,0,0,0,Attribute Doubled: Lightning,,,,(Boost),,,,Izuko Beach,,
+Mysterious Disk,,,,24,0,0,0,0,Attribute Reversed: Lightning,,,,(Boost),,,,"Forgotten Village, Dusty Nail Canyon",,
+Sacred Water,,,,20,0,0,0,0,Attribute Doubled: Ice,,,,(Boost),,,,Ancient Monastery,,
+Star Flower,,,,25,0,0,0,0,Attribute Doubled: Earth,,,,(Boost),,,,"Ster Highlands, Holy Slumbering Tree",,
+Missing Jewel,,,,29,0,0,0,0,Attribute Reversed: Ice,,,,(Boost),,,,"Mt. Velus, Stein Hill",,
+Parallel Mushroom,,,,27,0,0,0,0,Attribute Reversed: Earth,,,,(Boost),,,,"Neumont Forest, Night's Domain",,
+Dark Firefly,,,,33,0,0,0,0,Radical Boost,,,,(Boost),,,,Night's Domain,,
+Liquid Metal,,,,27,0,0,0,0,Attribute Doubled: Fire,,,,(Boost),,,,"Ster Highlands, Night's Domain",,
+Dragon's Eye,,,,40,0,0,0,0,Level Up,,,,(Boost),,,,,"Ancient Draco, Sky Ruler Edra, Celestial Emperor Adralda, Lesser Draco, Draconia, Draconius, Old Dragon Emperor, Dragon Spirit of Oblivion",
+Tonic,,,,16,0,2,0,2,Awakened: Ice & Earth +1,Earth DMG+ Lvl 2,Cures Poison,Ignores Luck M,(Medicines),,,,,,[Alchemyriddle] For More Efficient Gathering [Chapter of Advice]
+Warp Gate,,,,18,1,1,4,0,Awakened: Lightning +3,Inflict Blindness Lvl 3,Temp Evasion Up Lvl 4,Avoid KO Lvl 3,(Magic Tool),,,,,,Clear Alchemyriddle Chapter of Destiny
+Mining Bomb,,,,8,3,0,1,0,Awakened: Fire & Light. +1,Inflict Poison Lvl 2,Temp Evasion Up Lvl 2,ATK Up Lvl 2,(Gathering Tools),(Bombs),,,,,[Alchemyriddle] Regarding Bombs (Supplementary) [Chapter of Impetus]
+Super Mining Bomb,,,,28,5,0,2,1,Awakened: Fire & Light. +1,Inflict Deadly Poison Lvl 2,Temp Evasion Up Lvl 3,ATK Up Lvl 3,(Gathering Tools),(Bombs),,,,,[Alchemyriddle] Mining Explosives Redux [Chapter of Bonds]
+Fairy Sack,,,,8,1,0,2,0,Awakened: Ice & Light. +1,Temp Critical Debuff Lvl 2,Cures Blindness,ACC Up Lvl 2,(Gathering Tools),(Cloth),,,,,[Alchemyriddle] The Road to Mastering Gathering (1) [Chapter of Impetus]
+Sack of the Wind God,,,,28,2,0,3,0,Awakened: Ice & Light. +2,Temp Critical Debuff Lvl 3,Max MP Up Lvl 4,ACC Up Lvl 3,(Gathering Tools),(Cloth),,,,,[Alchemyriddle] A Master Gatherer Appears! [Chapter of Bonds]
+Traveler Shoes,,,,25,0,0,3,0,Awakened: Light. & Earth +1,Temp SPD Debuff Lvl 4,Temp SPD Up Lvl 4,SPD Up Lvl 4,(Magic Tool),(Cloth),,,,,[Alchemyriddle] Shoes Treasured by Travelers [Chapter of Reunion]
+Fate Talisman,,,,30,2,0,0,1,Awakened: Fire & Ice +1,Inflict Curse Lvl 3,Cures Seal,Add Ailments Resistance M,(Magic Tool),(Fuel),,,,,[Alchemyriddle] The Secret to Good Fortune [Chapter of Bonds]
+Harvest Gloves,,,,26,2,0,0,3,Awakened: Earth +3,Inflict Poison Lvl 3,Awakened: Earth +3,DEF Up Lvl 3,(Gathering Tools),(Cloth),,,,,[Alchemyriddle] The Secret to Good Fortune [Chapter of Bonds]
+Handmade Basket,,,,14,0,1,0,2,Awakened Quality Up +40,Faint Value Up Lvl 3,Temp Critical Rate Up Lvl 3,Temp Stamina Buff L,(Magic Tool),(Threads),,,,,[Alchemyriddle] So You Want to Gather More? [Chapter of Destiny]
+Fishing Rod,,,,5,0,2,0,0,Awakened: Ice +1,Temp SPD Debuff Lvl 1,Temp Critical Rate Up Lvl 1,ATK Up Lvl 1,(Gathering Tools),(Lumber),,,,,[Alchemyriddle] Waterside Companion (Basic) [Chapter of Encounters]
+Professional Fishing Rod,,,,15,0,3,1,0,Awakened: Ice +2,Temp SPD Debuff Lvl 2,Temp Critical Rate Up Lvl 2,ATK Up Lvl 2,(Gathering Tools),(Lumber),,,,,[Alchemyriddle] Professional Fishing Rod [Chapter of Destiny]
+Super Helix Rod,,,,31,0,4,2,0,Awakened: Ice +3,Temp SPD Debuff Lvl 4,Temp Critical Rate Up Lvl 4,ATK Up Lvl 4,(Gathering Tools),(Lumber),,,,,[Alchemyriddle] Perfect for Fishing and Mining [Chapter of Answers]
+Bug Catcher Net,,,,7,2,2,0,0,Awakened TP Increase +3,Faint Value Up Lvl 2,Cures Sleep,SPD Up Lvl 2,(Gathering Tools),(Threads),,,,,[Alchemyriddle] The Road to Mastering Gathering (1) [Chapter of Impetus]
+Light Bug Catcher Net,,,,27,3,0,3,0,Awakened TP Increase +7,Faint Value Up Lvl 3,Cleanses Impurity S,SPD Up Lvl 3,(Gathering Tools),(Threads),,,,,[Alchemyriddle] A Master Gatherer Appears! [Chapter of Bonds]
+Pickaxe,,,,10,2,0,0,1,Awakened: Earth +2,Inflict Sleep Lvl 2,Temp Critical Rate Up Lvl 2,DEF Up Lvl 2,(Gathering Tools),(Metals),,,,,[Alchemyriddle] Basic Mining Methodology [Chapter of Succession]
+Shaky Pickaxe,,,,32,3,0,2,0,Awakened: Light. & Earth +2,Inflict Sleep Lvl 4,Temp ATK Up Lvl 3,Max HP Up Lvl 4,(Gathering Tools),(Metals),,,,,[Alchemyriddle] Perfect for Fishing and Mining [Chapter of Answers]
+Secret Bag,,,,35,1,3,2,0,Awakened (Cloth),Temp DEF Debuff Lvl 2,Cleanses Impurity M,Add Ailments Resistance L,(Magic Tool),(Cloth),,,,,[Alchemyriddle] Moving Bag [Chapter of Truth]
+Artisan's Key,,,,12,0,0,2,0,Awakened: Earth +2,Temp Critical Debuff Lvl 2,Temp SPD Up Lvl 2,ACC Up Lvl 2,(Magic Tool),(Metals),,,,,[Alchemyriddle] Lord of the Locks: Part 1 [Chapter of Succession]
+Researcher's Key,,,,32,0,0,3,0,Awakened Quality Up +40,Temp SPD Debuff Lvl 2,Temp DEF Up Lvl 2,DEF Up Lvl 3,(Magic Tool),(Metals),,,,,[Alchemyriddle] Lord of the Locks: Final Chapter [Chapter of Answers]
+Supplement Red,,,,4,2,0,0,0,Awakened: Fire +1,Awakened: Fire +1,Awakened: Fire +1,Awakened: Fire +1,(Supplements),,,,,,Event STR_LIBRARY_BUILD_026
+Supplement Blue,,,,5,0,2,0,0,Awakened: Ice +1,Awakened: Ice +1,Awakened: Ice +1,Awakened: Ice +1,(Supplements),,,,,,Book 'Super Simple Alchemy'
+Supplement Purple,,,,5,0,0,2,0,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,Awakened: Lightning +1,(Supplements),,,,,,Book 'Super Simple Alchemy'
+Supplement Yellow,,,,5,0,0,0,2,Awakened: Earth +1,Awakened: Earth +1,Awakened: Earth +1,Awakened: Earth +1,(Supplements),,,,,,Book 'Super Simple Alchemy'
+Superb Supplement White,,,,23,0,3,3,0,Awakened Quality Up +30,Awakened Quality Up +30,Awakened Quality Up +30,Awakened Quality Up +30,(Supplements),,,,,Machina of God,[Alchemyriddle] Black and White Supplements [Chapter of Reunion]
+Superb Supplement Black,,,,23,3,0,0,3,Awakened TP Increase +7,Awakened TP Increase +7,Awakened TP Increase +7,Awakened TP Increase +7,(Supplements),,,,,,[Alchemyriddle] Black and White Supplements [Chapter of Reunion]
+Rainbow Supplement,,,,35,4,4,4,4,Awakened (Supplements),Awakened (Supplements),Awakened (Supplements),Awakened (Supplements),(Supplements),,,,Orthogalaxen,,Clear Alchemyriddle Chapter of Answers
+Pollutant,,,,1,0,0,0,3,Awakened: Earth +2,Awakened: Earth +2,Awakened: Earth +2,Awakened: Earth +2,(Poisons),,,,"Forgotten Village, Dusty Nail Canyon",,
+Broken Item,,,,1,0,0,3,0,Awakened: Lightning +2,Awakened: Lightning +2,Awakened: Lightning +2,Awakened: Lightning +2,(Magic Tool),,,,"Ancient Monastery, Forgotten Village, Dusty Nail Canyon",,
+Ashes of Failure,,,,1,3,0,0,0,Awakened: Fire +2,Awakened: Fire +2,Awakened: Fire +2,Awakened: Fire +2,(Medicinal),,,,"Ancient Monastery, Forgotten Village, Dusty Nail Canyon",,
+Stinky Trash,,,,1,0,3,0,0,Awakened: Ice +2,Awakened: Ice +2,Awakened: Ice +2,Awakened: Ice +2,(Spices),,,,Forgotten Village,,
+Ingot,,,,8,1,0,0,0,Awakened: Fire +1,Awakened Quality Up +10,Awakened: Fire +1,Awakened Quality Up +10,(Weapon Materials),(Metals),,,Orthogalaxen,,Book 'Ingredients for Beginners'
+Tinc,,,,12,2,0,0,1,Awakened: Fire & Earth +1,Awakened Quality Up +20,Awakened: Fire & Earth +1,Awakened Quality Up +20,(Weapon Materials),(Metals),,,,Rock Punk,Book 'Delightful Craft'
+Ster Metal,,,,18,3,0,0,1,Awakened: Fire +2,Awakened Quality Up +30,Awakened: Fire +2,Awakened Quality Up +30,(Weapon Materials),(Metals),,,,Rock Punk,Book 'Secrets of Master Blacksmith'
+Sunlite,,,,30,4,0,0,2,Awakened: Fire & Earth +2,Awakened Quality Up +40,Awakened: Fire & Earth +2,Awakened Quality Up +40,(Weapon Materials),(Metals),,,,Ancient Draco,Book 'The Art of Burning Soul'
+Olgenrium,,,,38,5,0,0,2,Awakened (Metals),Awakened (Metals),Awakened (Metals),Awakened (Metals),(Weapon Materials),(Metals),,,Orthogalaxen,"Huge Isle Fish, Machina of God",[Alchemyriddle] First Class Metal and Cloth [Chapter of Truth]
+Cloth,,,,8,0,0,1,0,Awakened Quality Up +10,Awakened: Lightning +1,Awakened Quality Up +10,Awakened: Lightning +1,(Armor Materials),(Cloth),,,Orthogalaxen,,Book 'Ingredients for Beginners'
+Muffcot,,,,12,0,1,2,0,Awakened Quality Up +20,Awakened: Ice & Light. +1,Awakened Quality Up +20,Awakened: Ice & Light. +1,(Armor Materials),(Cloth),,,,,Book 'Delightful Craft'
+Nylonfeather,,,,18,0,1,3,0,Awakened Quality Up +30,Awakened: Lightning +2,Awakened Quality Up +30,Awakened: Lightning +2,(Armor Materials),(Cloth),,,,,Book 'Secrets of Master Blacksmith'
+Scale Cloth,,,,30,0,2,4,0,Awakened Quality Up +40,Awakened: Ice & Light. +2,Awakened Quality Up +40,Awakened: Ice & Light. +2,(Armor Materials),(Cloth),,,,,Book 'The Art of Burning Soul'
+Himmel Linen,,,,38,0,2,5,0,Awakened (Cloth),Awakened (Cloth),Awakened (Cloth),Awakened (Cloth),(Armor Materials),(Cloth),,,Orthogalaxen,Schwarz Vogel,[Alchemyriddle] First Class Metal and Cloth [Chapter of Truth]
+Flour,,,,5,2,0,0,0,Awakened: Fire +1,Faint Value Up Lvl 1,Temp Critical Power Up Lvl 1,Enhance Items Lvl 1,(Spices),,,,Handel Farm,,Book 'My First Recipes'
+Honey,,,,6,0,2,0,2,Awakened: Earth +2,Temp DEF Debuff Lvl 1,Temp EXP Up Lvl 1,Skill Up Lvl 1,(Spices),,,,,,Book 'My First Recipes'
+Alchemy Yeast,,,,11,2,0,2,0,Awakened: Fire & Light. +1,Inflict Curse Lvl 1,Cures Poison,Evasion Up Lvl 1,(Spices),,,,,Mellowshroom,[Alchemyriddle] Mushroom Magic [Chapter of Succession]
+Fish Sauce,,,,7,1,2,0,1,Awakened (Spices),Awakened (Spices),Awakened (Spices),Awakened (Spices),(Spices),(Seafood),,,,,Book 'My First Recipes'
+Mysterious Spice,,,,24,3,0,1,1,Awakened: Light. & Earth +1,Faint Value Up Lvl 3,Temp Critical Rate Up Lvl 2,Weaken Item Lvl 2,(Spices),(Gunpowder),,,,,Book 'You Can Do This'
+Distilled Water,,,,20,0,4,0,0,Awakened (Water),Awakened Quality Up +30,Awakened TP Increase +7,Awakened Quality Up +30,(Water),,,,,,Book 'You Can Do This'
+Spirit Tears,,,,34,0,3,4,0,Awakened (Water),Awakened (Water),Awakened (Water),Awakened (Water),(Water),(Mystery),,,,,[Alchemyriddle] A Fairy's Tears [Chapter of Answers]
+Polish Powder,,,,2,0,0,1,1,Awakened TP Increase +3,Temp DEF Debuff Lvl 1,Cures Sleep,ATK Up Lvl 1,(Clay),,,,,,Book 'Gem Polishing'
+Delicious Fishing Bait,,,,5,0,1,0,2,Awakened Quality Up +10,Inflict Blindness Lvl 1,Cures Blindness,SPD Up Lvl 1,(Vegetables),(Clay),,,,,[Alchemyriddle] Waterside Companion (Basic) [Chapter of Encounters]
+Komet,,,,26,1,0,1,3,Awakened: Earth +2,Faint Value Up Lvl 3,Temp DEF Up Lvl 3,SPD Up Lvl 3,(Gemstones),,,,,Eternal Darkness Demon,Book 'Gem Mysteries'
+Arland Crystal,,,,28,0,2,0,5,Awakened (Ore),Awakened (Ore),Awakened (Ore),Awakened (Ore),(Gemstones),,,,,"White Hunter, Sky Ruler Edra",[Alchemyriddle] Uniquely Designed Gear (1) [Chapter of Bonds]
+Zettel,,,,10,0,3,0,2,Awakened: Light. & Earth +1,Ice DMG+ Lvl 1,Temp Critical Rate Up Lvl 2,ATK Up Lvl 2,(Fuel),,,,Ancient Monastery,,Book 'Alchemy of Materials'
+Pure Oil,,,,11,3,0,0,1,Awakened: Fire +1,Fire DMG+ Lvl 1,Cures Burns,Add Ailments Resistance S,(Fuel),,,,,,Book 'Delightful Craft'
+Alchemy Coal,,,,14,3,0,0,3,Awakened: Fire +2,Fire DMG+ Lvl 2,Temp ATK Up Lvl 3,Skill Up Lvl 3,(Gunpowder),,,,,,[Alchemyriddle] Growth of an Alchemist [Chapter of Destiny]
+Tar Liquid,,,,31,4,0,3,0,Awakened (Gunpowder),Awakened (Gunpowder),Awakened (Gunpowder),Awakened (Gunpowder),(Gunpowder),,,,,,Book 'The Art of Burning Soul'
+Tanning Liquid,,,,16,3,2,0,0,Awakened: Ice & Earth +1,Inflict Sleep Lvl 2,Cures Blindness,Add Ailments Resistance XS,(Poisons),,,,,,Book 'Leather Production'
+Medicine Base,,,,13,2,0,3,0,Awakened: Earth +2,Earth DMG+ Lvl 1,HP Recovery S,Skill Up Lvl 2,(Medicinal),(Poisons),,,,,Book 'Alchemy of Materials'
+Pure Poison,,,,16,0,4,0,2,Awakened: Ice +2,Inflict Deadly Poison Lvl 3,Cleanses Impurity L,Max MP Up Lvl 3,(Poisons),,,,,Violet Fang,[Alchemyriddle] 100% Pure Poison [Chapter of Advice]
+Hay,,,,12,2,0,1,3,Awakened: Lightning +1,Inflict Sleep Lvl 2,Add MP Recovery Lvl 2,Weaken Item Lvl 2,(Threads),,,,,,Book 'Alchemy of Materials'
+Living Rope,,,,22,1,0,4,2,Awakened: Lightning +3,Temp Critical Debuff Lvl 4,Temp SPD Up Lvl 3,ACC Up Lvl 3,(Threads),,,,,,[Alchemyriddle] The Mysterious Moving Rope [Chapter of Reunion]
+Sylph Breath,,,,25,3,0,4,0,Awakened (Vapors),Awakened (Vapors),Awakened (Vapors),Awakened (Vapors),(Vapors),,,,,"Blood Elemental, Celestial Emperor Adralda",[Alchemyriddle] Spirit's Breath [Chapter of Reunion]
+Tanned Leather,,,,20,4,0,0,4,Awakened: Fire & Light. +1,Faint Value Up Lvl 3,Temp DEF Up Lvl 3,Temp Stamina Buff M,(Animal Products),,,,,,Book 'Leather Production'
+Jar of Four Spirits,,,,35,3,3,3,3,Awakened Quality Up +40,Temp ATK Debuff Lvl 5,Temp Critical Rate Up Lvl 5,Avoid KO Lvl 5,(Mystery),,,,Orthogalaxen,Schwarz Vogel,[Alchemyriddle] Bottling the Strength of the Spirits [Chapter of Decisions]
+Crystal Ball,,,,27,0,2,0,3,Awakened TP Increase +10,Ice DMG+ Lvl 2,Temp Evasion Up Lvl 3,Weaken Item Lvl 3,(Mystery),,,,,Twilight Phantom,Book 'Gem Mysteries'
+Magic Paint,,,,19,3,0,2,0,Awakened Quality Up +30,Temp SPD Debuff Lvl 3,Temp Critical Rate Up Lvl 2,ACC Up Lvl 2,(Mystery),(Magic Tool),,,,,[Alchemyriddle] Growth of an Alchemist (2) [Chapter of Advice]
+Rota Fortunae,,,,29,0,0,2,4,Awakened Quality Up +40,Inflict Curse Lvl 3,HP Recovery L,DEF Up Lvl 4,(Metals),,,,,,[Alchemyriddle] Uniquely Designed Gear (2) [Chapter of Bonds]
+Styrom Board,,,,31,3,0,0,3,Awakened (Lumber),Awakened (Lumber),Awakened (Lumber),Awakened (Lumber),(Lumber),,,,,,[Alchemyriddle] Combining Timber and Bamboo [Chapter of Answers]
+Philosopher's Stone,,,,35,0,0,0,0,Awakened Quality Up +50,Awakened Quality Up +50,Awakened Quality Up +50,Awakened Quality Up +50,(Metals),(Elixirs),(Gemstones),,,"GX3-FS, GX3-FS2, Machina of God",[Alchemyriddle] Alchemic Wisdom [Chapter of Answers]
+Alchemy Activator,,,,12,0,0,0,0,Elemental Activator,,,,(Boost),,,,,,[Alchemyriddle] Enhancing Synthesis (Basic) [Chapter of Destiny]
+Sulfite,,,,16,0,0,0,0,Attribute +: Fire,,,,(Boost),,,,,,[Alchemyriddle] Enhancing Synthesis (Fire/Ice) [Chapter of Advice]
+Super Cooling Agent,,,,16,0,0,0,0,Attribute +: Ice,,,,(Boost),,,,,,[Alchemyriddle] Enhancing Synthesis (Fire/Ice) [Chapter of Advice]
+Hyper Particle,,,,17,0,0,0,0,Attribute +: Lightning,,,,(Boost),,,,,,[Alchemyriddle] Enhancing Synthesis (Lightning/Earth) [Chapter of Advice]
+Sticky Resin,,,,17,0,0,0,0,Attribute +: Earth,,,,(Boost),,,,,,[Alchemyriddle] Enhancing Synthesis (Lightning/Earth) [Chapter of Advice]
+Apprentice Alchemist's Staff,,,,6,1,0,0,1,Awakened Quality Up +10,Temp ATK Debuff Lvl 1,HP Recovery XS,Weaken Item Lvl 1,(Alchemy Staffs),,,,,,** Event/Quest **
+Fortune's Light,,,,10,1,0,0,2,Awakened Quality Up +20,Temp Critical Debuff Lvl 1,Add MP Recovery Lvl 2,Weaken Item Lvl 2,(Alchemy Staffs),,,,,,** Event/Quest **
+Elemental Breath,,,,22,2,2,2,2,Awakened: Fire +2,Awakened: Ice +2,Awakened: Lightning +2,Awakened: Earth +2,(Alchemy Staffs),,,,,,** Event/Quest **
+Heart of Wisdom,,,,30,0,4,4,0,Awakened TP Increase +10,Awakened Quality Up +30,Awakened TP Increase +10,Awakened Quality Up +30,(Alchemy Staffs),,,,,,** Event/Quest **
+Aerven Staff of Light,,,,41,3,0,0,5,Awakened Quality Up +50,Awakened: Fire & Ice +3,Damage Reducer Lvl 4,ATK Up Lvl 4,(Alchemy Staffs),,,,,,** Event/Quest **
+Nobel Buster,,,,6,2,0,0,0,Awakened Quality Up +10,Inflict Blindness Lvl 1,Temp ACC Up Lvl 1,ACC Up Lvl 1,(Cannons),,,,,,** Event/Quest **
+Tempest Gear,,,,10,1,0,3,0,Awakened Quality Up +20,Inflict Slowness Lvl 1,Temp Critical Rate Up Lvl 2,ACC Up Lvl 2,(Cannons),,,,,,** Event/Quest **
+Magma Launcher,,,,21,4,0,0,0,Awakened: Fire +3,Fire DMG+ Lvl 2,Cures Burns,ACC Up Lvl 2,(Cannons),,,,,,** Event/Quest **
+Dragoon Lore,,,,31,4,0,2,0,Awakened: Fire & Light. +2,Earth DMG+ Lvl 4,Add MP Recovery Lvl 4,ATK Up Lvl 4,(Cannons),,,,,,** Event/Quest **
+Dragon Gun Gargantua,,,,38,5,0,3,1,Awakened: Fire & Earth +3,Inflict Burns Lvl 5,Temp ATK Up Lvl 3,Evasion Up Lvl 4,(Cannons),,,,,,** Event/Quest **
+Strength Tarot,,,,6,0,1,1,0,Awakened Quality Up +10,Temp Critical Debuff Lvl 1,Temp ATK Up Lvl 1,ATK Up Lvl 1,(Charms),,,,,,** Event/Quest **
+Wheel of Fortune Tarot,,,,18,0,2,0,1,Awakened: Ice +2,Inflict Deadly Poison Lvl 1,HP Recovery S,Temp Stamina Buff M,(Charms),,,,,,** Event/Quest **
+Judgement Tarot,,,,24,0,3,2,0,Awakened: Ice & Earth +1,Ice DMG+ Lvl 2,Damage Reducer Lvl 3,Weaken Item Lvl 3,(Charms),,,,,,** Event/Quest **
+Death Tarot,,,,27,2,4,0,0,Awakened: Light. & Earth +1,Inflict Curse Lvl 5,Temp ACC Up Lvl 3,DEF Up Lvl 3,(Charms),,,,,,** Event/Quest **
+The World Tarot,,,,39,1,5,1,2,Awakened TP Increase +15,Inflict Deadly Poison Lvl 5,Cleanses Impurity M,Skill Up Lvl 4,(Charms),,,,,,** Event/Quest **
+Black Steel,,,,6,0,0,1,1,Awakened Quality Up +10,Temp DEF Debuff Lvl 1,Temp SPD Up Lvl 1,SPD Up Lvl 1,(Swords),,,,,,** Event/Quest **
+Divinity's Edge,,,,10,1,0,2,0,Awakened: Lightning +2,Inflict Slowness Lvl 1,Damage Reducer Lvl 2,SPD Up Lvl 2,(Swords),,,,,,** Event/Quest **
+Blinding Radiance,,,,23,0,2,3,0,Awakened: Ice & Light. +1,Lightning DMG+ Lvl 2,Temp Critical Power Up Lvl 2,ACC Up Lvl 2,(Swords),,,,,,** Event/Quest **
+Direct Illusion,,,,28,0,1,4,2,Awakened: Fire & Ice +2,Temp SPD Debuff Lvl 3,Temp SPD Up Lvl 3,Add Ailments Resistance M,(Swords),,,,,,** Event/Quest **
+Ghostly Long Sword,,,,45,1,2,5,0,Awakened: Fire & Ice +3,Temp SPD Debuff Lvl 5,Damage Reducer Lvl 5,Enhance Items Lvl 5,(Swords),,,,,,** Event/Quest **
+Winged Chakram,,,,9,0,0,2,0,Awakened Quality Up +10,Inflict Blindness Lvl 1,Temp DEF Up Lvl 1,Evasion Up Lvl 1,(Battle Rings),,,,,,** Event/Quest **
+Wheel of Isyos,,,,13,1,0,2,0,Awakened: Lightning +2,Lightning DMG+ Lvl 1,Cures Slowness,Evasion Up Lvl 2,(Battle Rings),,,,,,** Event/Quest **
+Hailsfyre,,,,26,0,3,2,0,Awakened TP Increase +7,Inflict Slowness Lvl 3,Cures Slowness,ACC Up Lvl 3,(Battle Rings),,,,,,** Event/Quest **
+Clavaal's Halo,,,,30,2,0,4,1,Awakened: Lightning +3,Lightning DMG+ Lvl 3,Temp SPD Up Lvl 3,ACC Up Lvl 4,(Battle Rings),,,,,,** Event/Quest **
+Moonbeam Veil,,,,40,0,1,5,2,Awakened: Ice +3,Temp DEF Debuff Lvl 4,Temp EXP Up Lvl 4,ATK Up Lvl 4,(Battle Rings),,,,,,** Event/Quest **
+Twin Anchor,,,,6,0,1,0,1,Awakened Quality Up +10,Temp DEF Debuff Lvl 1,Temp Critical Power Up Lvl 1,DEF Up Lvl 1,(Anchors),,,,,,** Event/Quest **
+Fessellmeer,,,,16,0,2,0,1,Awakened: Ice +2,Ice DMG+ Lvl 1,Temp ACC Up Lvl 2,DEF Up Lvl 2,(Anchors),,,,,,** Event/Quest **
+Grand Impact,,,,28,0,2,0,3,Awakened: Earth +3,Earth DMG+ Lvl 2,Temp DEF Up Lvl 3,DEF Up Lvl 3,(Anchors),,,,,,** Event/Quest **
+Scarlet Anchor,,,,39,2,4,1,0,Awakened: Fire +2,Fire DMG+ Lvl 3,HP Recovery M,Max MP Up Lvl 3,(Anchors),,,,,,** Event/Quest **
+Dream Anchor Indigonia,,,,46,1,5,0,2,Awakened Quality Up +50,Faint Value Up Lvl 5,Temp DEF Up Lvl 5,Skill Up Lvl 5,(Anchors),,,,,,** Event/Quest **
+Alchemy Cane,,,,6,1,1,1,1,Awakened Quality Up +10,Earth DMG+ Lvl 1,HP Recovery S,Enhance Items Lvl 2,(Decorative Staffs),,,,,,** Event/Quest **
+Sunburst Staff,,,,17,3,0,0,1,Awakened: Fire +2,Fire DMG+ Lvl 2,Add MP Recovery Lvl 3,Max MP Up Lvl 3,(Decorative Staffs),,,,,,** Event/Quest **
+Ancient Memory,,,,27,3,0,2,1,Awakened Quality Up +40,Temp SPD Debuff Lvl 4,Add MP Recovery Lvl 3,Enhance Items Lvl 3,(Decorative Staffs),,,,,,** Event/Quest **
+Flawless Principle,,,,35,4,1,2,1,Awakened: Ice & Light. +3,Ice DMG+ Lvl 4,Add MP Recovery Lvl 4,Max MP Up Lvl 4,(Decorative Staffs),,,,,,** Event/Quest **
+Star Soul Staff,,,,46,5,1,1,2,Awakened TP Increase +15,Earth DMG+ Lvl 5,Temp ATK Up Lvl 5,Evasion Up Lvl 5,(Decorative Staffs),,,,,,** Event/Quest **
+Captain's Long Sword,,,,12,0,0,1,1,Awakened: Lightning +1,Inflict Deadly Poison Lvl 1,Cures Seal,Add Ailments Resistance S,(Long Swords),,,,,,** Event/Quest **
+Runeblade,,,,22,0,1,1,2,Awakened: Fire & Light. +1,Ice DMG+ Lvl 2,Temp ACC Up Lvl 3,Weaken Item Lvl 2,(Long Swords),,,,,,** Event/Quest **
+Twin Memoir,,,,28,1,0,1,3,Awakened Quality Up +30,Faint Value Up Lvl 3,Temp ATK Up Lvl 4,Temp Stamina Buff L,(Long Swords),,,,,,** Event/Quest **
+Blitzstrom,,,,33,0,1,2,4,Awakened: Light. & Earth +2,Temp ATK Debuff Lvl 4,Add MP Recovery Lvl 3,Enhance Items Lvl 4,(Long Swords),,,,,,** Event/Quest **
+Valkyrie's Oath,,,,42,2,1,0,5,Awakened: Light. & Earth +3,Temp DEF Debuff Lvl 5,Temp ACC Up Lvl 4,DEF Up Lvl 5,(Long Swords),,,,,,** Event/Quest **
+Alchemy Textbook,,,,7,0,2,0,0,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,ITEM_CATEGORY_ALCHEMY_BOOK,,,,,,
+Minstrel Book,,,,14,0,2,0,2,Awakened TP Increase +10,Temp ATK Debuff Lvl 3,HP Recovery M,Enhance Items Lvl 2,ITEM_CATEGORY_ALCHEMY_BOOK,,,,,,
+Arch Anatomis,,,,21,2,0,2,0,Awakened Quality Up +40,Temp DEF Debuff Lvl 4,Removes Ailments,Max MP Up Lvl 3,ITEM_CATEGORY_ALCHEMY_BOOK,,,,,,
+Stellar Score,,,,32,3,0,0,3,Awakened: Ice & Earth +3,Inflict Sleep Lvl 5,Add MP Recovery Lvl 4,Avoid KO Lvl 4,ITEM_CATEGORY_ALCHEMY_BOOK,,,,,,
+Mythical Tome Atracalta,,,,45,1,4,0,3,Awakened (Magic Tool),Ice DMG+ Lvl 5,Cleanses Impurity L,Enhance Items Lvl 5,ITEM_CATEGORY_ALCHEMY_BOOK,,,,,,
+Alchemy Girl's Sword,,,,8,2,0,0,0,Awakened TP Increase +7,Awakened TP Increase +7,Awakened TP Increase +7,Awakened TP Increase +7,ITEM_CATEGORY_RAPIER,,,,,,
+Cosmos Code,,,,15,0,1,0,3,Awakened Quality Up +30,Temp Critical Debuff Lvl 3,Temp ACC Up Lvl 3,Weaken Item Lvl 2,ITEM_CATEGORY_RAPIER,,,,,,
+Princess Saver,,,,24,2,0,3,0,Awakened: Fire & Light. +2,Temp SPD Debuff Lvl 4,Cures Seal,Skill Up Lvl 3,ITEM_CATEGORY_RAPIER,,,,,,
+Lunatomic Edge,,,,33,0,3,0,3,Awakened TP Increase +15,Faint Value Up Lvl 4,Temp Critical Rate Up Lvl 4,Add Ailments Resistance L,ITEM_CATEGORY_RAPIER,,,,,,
+Holy Sword Weiselende,,,,43,1,2,4,0,Awakened (Elixirs),Lightning DMG+ Lvl 5,Temp Critical Power Up Lvl 5,Ailments Resistance Lvl 5,ITEM_CATEGORY_RAPIER,,,,,,
+Traveler's Attire,,,,5,0,0,0,1,Awakened Quality Up +10,Temp DEF Debuff Lvl 1,Temp DEF Up Lvl 1,Temp Stamina Buff S,(Light Armor),,,,,,Old Kingdom Checkpoint
+Adventurer's Clothing,,,,10,0,0,0,2,Awakened TP Increase +3,Temp ATK Debuff Lvl 1,Damage Reducer Lvl 1,Skill Up Lvl 1,(Light Armor),,,,,,** Event/Quest **
+Nightshade,,,,15,0,2,0,1,Awakened: Ice & Earth +1,Inflict Blindness Lvl 2,Temp Evasion Up Lvl 5,ATK Up Lvl 2,(Light Armor),,,,,,** Event/Quest **
+Spirit Robe,,,,23,1,2,1,2,Awakened TP Increase +7,Temp Critical Debuff Lvl 3,Cures Slowness,Add Ailments Resistance M,(Light Armor),,,,,,** Event/Quest **
+Sun Cloak,,,,33,2,0,1,1,Awakened Quality Up +20,Inflict Blindness Lvl 4,Temp Evasion Up Lvl 4,Ignores Luck L,(Light Armor),,,,,,** Event/Quest **
+Dragoon Coat,,,,33,3,2,0,2,Awakened: Fire & Earth +2,Lightning DMG+ Lvl 3,Temp DEF Up Lvl 3,Skill Up Lvl 3,(Light Armor),,,,,,** Event/Quest **
+Valkyrie Mail,,,,46,0,4,4,0,Awakened (Mystery),Earth DMG+ Lvl 4,Temp EXP Up Lvl 5,Max HP Up Lvl 5,(Light Armor),,,,,,** Event/Quest **
+Alchemy Coat,,,,38,4,0,0,4,Awakened: Fire & Light. +2,Temp SPD Debuff Lvl 5,Temp EXP Up Lvl 5,SPD Up Lvl 5,(Light Armor),,,,,,** Event/Quest **
+Beast Armor,,,,12,2,0,0,1,Awakened TP Increase +5,Fire DMG+ Lvl 1,Temp SPD Up Lvl 2,Temp Stamina Buff M,(Heavy Armor),,,,,,** Event/Quest **
+Stim Leather Mail,,,,22,0,3,0,2,Awakened: Ice & Earth +1,Temp DEF Debuff Lvl 3,Temp DEF Up Lvl 3,DEF Up Lvl 3,(Heavy Armor),,,,,,** Event/Quest **
+Dragon Plate Armor,,,,31,5,2,3,1,Awakened (Gunpowder),Fire DMG+ Lvl 4,Temp ATK Up Lvl 5,ATK Up Lvl 5,(Heavy Armor),,,,,,** Event/Quest **
+Divine Auric Plate Armor,,,,50,0,2,5,3,Awakened (Metals),Lightning DMG+ Lvl 5,Add MP Recovery Lvl 5,Enhance Items Lvl 5,(Heavy Armor),,,,,,** Event/Quest **
+Gnardi Ring,,,,13,2,2,2,2,Awakened TP Increase +7,Faint Value Up Lvl 3,Cures Blindness,Temp Stamina Buff L,(Accessories),,,,,,[Alchemyriddle] Introduction to Accessory Creation [Chapter of Succession]
+Runestone,,,,19,0,2,0,2,Awakened Quality Up +30,Inflict Curse Lvl 2,Damage Reducer Lvl 3,Max MP Up Lvl 3,(Accessories),,,,Handel Farm,,Book 'Adventurer's Accessories'
+Mercurius's Eye,,,,17,0,2,2,0,Awakened Quality Up +30,Temp DEF Debuff Lvl 3,Removes Ailments,ACC Up Lvl 5,(Accessories),,,,,,Book 'Adventurer's Accessories'
+Spirit Necklace,,,,34,2,3,3,2,Awakened: Ice & Earth +2,Inflict Curse Lvl 4,Temp Critical Power Up Lvl 4,Skill Up Lvl 4,(Accessories),,,,,,Book 'The Secrets of Jewelry Making'
+Battle Scarf,,,,18,3,0,0,1,Awakened: Fire +3,Fire DMG+ Lvl 2,Temp ATK Up Lvl 3,ATK Up Lvl 3,(Accessories),,,,,,"[Alchemyriddle] Symbol of Justice, Fluttering in the Wind [Chapter of Advice]"
+Angel Charm,,,,14,0,2,2,0,Awakened: Ice & Light. +2,Inflict Sleep Lvl 3,Temp Critical Power Up Lvl 3,Add Ailments Resistance M,(Accessories),,,,Golden Plains,,[Alchemyriddle] Angel's Providence [Chapter of Destiny]
+Brave Sigil,,,,18,2,0,0,2,Awakened Quality Up +30,Faint Value Up Lvl 3,Temp EXP Up Lvl 3,ATK Up Lvl 3,(Accessories),,,,,,Book 'Adventurer's Accessories'
+Mythical Ring,,,,33,2,1,2,1,Awakened Quality Up +40,Temp DEF Debuff Lvl 5,Add MP Recovery Lvl 4,ACC Up Lvl 3,(Accessories),,,,,,Book 'The Secrets of Jewelry Making'
+God Speed Boots,,,,44,2,0,4,0,Awakened Quality Up +50,Temp SPD Debuff Lvl 5,Temp SPD Up Lvl 5,Faint Value Up Lvl 5,(Accessories),,,,,,Clear Alchemyriddle Chapter of Blank Pages
+Fire Spirit Ring,,,,37,4,0,0,0,Awakened: Fire & Light. +2,Fire DMG+ Lvl 4,Temp ATK Up Lvl 4,ATK Up Lvl 4,(Accessories),,,,,,Book 'Processing the Elements'
+Phantom Ice Ring,,,,37,0,4,0,0,Awakened: Ice & Earth +2,Ice DMG+ Lvl 4,Temp DEF Up Lvl 4,DEF Up Lvl 4,(Accessories),,,,,,Book 'Processing the Elements'
+King of Thunder Ring,,,,37,0,0,4,0,Awakened: Ice & Light. +2,Lightning DMG+ Lvl 4,Temp SPD Up Lvl 4,SPD Up Lvl 4,(Accessories),,,,,,Book 'Processing the Elements'
+Gaia Earth Ring,,,,37,0,0,0,4,Awakened: Fire & Earth +2,Earth DMG+ Lvl 4,Cleanses Impurity L,Max HP Up Lvl 4,(Accessories),,,,,,Book 'Processing the Elements'
+Locket of Friendship,,,,29,0,2,0,2,Awakened TP Increase +7,Ice DMG+ Lvl 4,Awakened Quality Up +40,Avoid KO Lvl 2,(Accessories),,,,,,[Alchemyriddle] True Sign of Friendship [Chapter of Bonds]
+Philosopher's Necklace,,,,34,0,3,3,0,Awakened (Elixirs),Temp ATK Debuff Lvl 5,Temp DEF Up Lvl 5,Ailments Resistance Lvl 5,(Accessories),,,,,,[Alchemyriddle] Necklace of Wisdom [Chapter of Answers]
+Black Mist Symbol,,,,29,3,0,1,2,Awakened TP Increase +10,Faint Value Up Lvl 4,Damage Reducer Lvl 3,ATK Up Lvl 3,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Black/White) [Chapter of Bonds]
+Green Glow Symbol,,,,16,0,0,4,0,Awakened: Lightning +3,Lightning DMG+ Lvl 3,Temp EXP Up Lvl 3,SPD Up Lvl 3,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Green/Red) [Chapter of Advice]
+Red Ray Symbol,,,,16,4,0,0,0,Awakened: Fire +3,Fire DMG+ Lvl 3,Removes Ailments,ATK Up Lvl 3,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Green/Red) [Chapter of Advice]
+Blue Beam Symbol,,,,21,0,4,0,0,Awakened: Ice +3,Ice DMG+ Lvl 3,Damage Reducer Lvl 3,DEF Up Lvl 3,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Blue/Ice) [Chapter of Reunion]
+White Haze Symbol,,,,30,1,3,1,1,Awakened Quality Up +40,Inflict Sleep Lvl 3,Temp ACC Up Lvl 4,Evasion Up Lvl 3,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Black/White) [Chapter of Bonds]
+Glacier Symbol,,,,21,0,3,0,2,Awakened: Ice +3,Inflict Slowness Lvl 5,Temp DEF Up Lvl 4,DEF Up Lvl 4,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Blue/Ice) [Chapter of Reunion]
+Herculean Symbol,,,,31,3,0,0,3,Awakened: Fire & Light. +3,Fire DMG+ Lvl 5,Temp ATK Up Lvl 5,ATK Up Lvl 5,(Symbols),,,,,,Event STR_LIBRARY_BUILD_009
+Flash Symbol,,,,42,0,2,4,0,Awakened: Lightning +3,Lightning DMG+ Lvl 4,Temp ACC Up Lvl 4,Avoid KO Lvl 4,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Purple) [Chapter of Blank Pages]
+Music Note Symbol,,,,37,0,2,0,3,Awakened TP Increase +10,Temp DEF Debuff Lvl 4,HP Recovery L,DEF Up Lvl 3,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Sound) [Chapter of Truth]
+Falling Star Symbol,,,,39,3,0,3,0,Awakened Quality Up +40,Earth DMG+ Lvl 4,Removes Ailments,Evasion Up Lvl 4,(Symbols),,,,,,[Alchemyriddle] Enshrouded in Light (Rainbow) [Chapter of Blank Pages]
+Flower Symbol,,,,10,2,0,0,2,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,Awakened Quality Up +20,(Symbols),,,,,,** Event/Quest **
+Fire Spirit Crystal Symbol,,,,10,3,0,0,0,Awakened: Fire +2,Awakened: Fire +2,Awakened: Fire +2,Awakened: Fire +2,(Symbols),,,,,,** Event/Quest **
+Crossment Symbol,,,,10,2,2,0,0,Awakened: Fire & Ice +2,Awakened: Fire & Ice +2,Awakened: Fire & Ice +2,Awakened: Fire & Ice +2,(Symbols),,,,,,** Event/Quest **
+Feather Symbol,,,,10,0,0,3,0,Awakened: Lightning +2,Awakened: Lightning +2,Awakened: Lightning +2,Awakened: Lightning +2,(Symbols),,,,,,** Event/Quest **
+Abyss Symbol,,,,10,0,2,0,2,Awakened: Fire & Earth +1,Awakened: Fire & Earth +1,Awakened: Ice & Light. +1,Awakened: Ice & Light. +1,(Symbols),,,,,,** Event/Quest **
+Torrent Symbol,,,,10,0,3,0,0,Awakened: Ice +2,Awakened: Ice +2,Awakened: Ice +2,Awakened: Ice +2,(Symbols),,,,,,** Event/Quest **
+Heart Symbol,,,,10,2,0,2,0,Awakened TP Increase +7,Awakened TP Increase +7,Awakened TP Increase +7,Awakened TP Increase +7,(Symbols),,,,,,** Event/Quest **
+Golden Lion Symbol,,,,10,0,0,0,3,Awakened: Earth +2,Awakened: Earth +2,Awakened: Earth +2,Awakened: Earth +2,(Symbols),,,,,,** Event/Quest **
+Magmadurian,,,,29,4,0,1,1,Awakened: Fire +2,Inflict Blindness Lvl 3,Awakened Quality Up +30,Avoid KO Lvl 3,(Plants),(Vegetables),,,Mt. Velus,,
+Juicy Peach,,,,26,0,3,0,2,Awakened: Fire & Ice +2,Inflict Slowness Lvl 3,Add MP Recovery Lvl 3,Skill Up Lvl 3,(Plants),(Water),,,Eternal Spring,,
+THAT Egg,,,,28,2,0,0,3,Awakened: Ice +2,Temp SPD Debuff Lvl 3,Awakened Quality Up +30,SPD Up Lvl 3,(Fuel),(Elixirs),,,Stalhang Castle,,
+Sour Apple King,,,,25,0,4,3,0,Awakened Quality Up +30,Temp SPD Debuff Lvl 3,Cleanses Impurity M,Avoid KO Lvl 3,(Plants),(Vegetables),,,Neumont Forest,,
+Puni Drop,,,,10,2,2,0,0,Awakened: Fire & Ice +1,Inflict Sleep Lvl 2,Add MP Recovery Lvl 2,Max MP Up Lvl 2,(Magic Tool),,,,,,[Alchemyriddle] Conversing with Puni [Chapter of Impetus]
+Eraezyko Charm,,,,23,0,2,3,2,Awakened TP Increase +7,Temp Critical Debuff Lvl 3,Temp Evasion Up Lvl 3,Evasion Up Lvl 3,(Fuel),(Mystery),,,,,[Alchemyriddle] On Exorcism Strategies [Chapter of Reunion]
+Sands of Time,,,,39,2,0,2,3,Awakened: Ice & Earth +2,Inflict Slowness Lvl 4,Temp SPD Up Lvl 4,Ignores Luck L,(Clay),(Mystery),,,,,[Alchemyriddle] To Keep Hope Alive [Chapter of Decisions]
+Ice Cascade Bomb,,,,33,0,4,1,0,Awakened (Bombs),Awakened (Bombs),Awakened (Bombs),Awakened (Bombs),(Bombs),(Magic Tool),,,,,Event STR_LIBRARY_BUILD_019
+Philosopher's Pie,,,,35,5,5,5,5,Awakened (Puniballs),Awakened (Puniballs),Awakened (Puniballs),Awakened (Puniballs),(Food),(Fuel),(Dragon),(Puniballs),,,Event STR_LIBRARY_BUILD_017
+Heavenly Parasol,,,,36,0,4,0,2,Awakened: Ice & Light. +2,Ice DMG+ Lvl 4,Add MP Recovery Lvl 4,DEF Up Lvl 4,(Magic Tool),(Water),,,,,[Alchemyriddle] Heat-Blocking Umbrella [Chapter of Truth]
+Night Vision Goggles,,,,36,1,0,2,0,Awakened Quality Up +30,Inflict Slowness Lvl 3,Cleanses Impurity M,Enhance Items Lvl 4,(Magic Tool),,,,,,[Alchemyriddle] Black Eyes that Light Up the Night [Chapter of Truth]
+True Dragon Hourglass,,,,40,0,4,0,4,Awakened TP Increase +10,Inflict Sleep Lvl 3,Temp ACC Up Lvl 3,Add Ailments Resistance M,(Magic Tool),(Mystery),,,,,[Alchemyriddle] Parallel Universes [Chapter of Blank Pages]
+Time Brooch,,,,40,0,3,3,0,Awakened: Fire & Light. +2,Temp Critical Debuff Lvl 3,Temp ACC Up Lvl 3,Add Ailments Resistance L,(Magic Tool),,,,,,[Alchemyriddle] Parallel Universes [Chapter of Blank Pages]
+Exorcism Incense,,,,12,2,3,0,0,Awakened: Fire +2,Inflict Sleep Lvl 2,HP Recovery M,Max MP Up Lvl 3,(Magic Tool),(Vapors),,,,,Event STR_LIBRARY_BUILD_010
+Special Goddess Statue,,,,36,0,3,1,0,Awakened (Gemstones),Awakened (Gemstones),Awakened (Gemstones),Awakened (Gemstones),(Metals),,,,,,Event STR_LIBRARY_BUILD_011
+Plain Pie,,,,6,1,0,3,0,Awakened: Fire +1,Inflict Poison Lvl 1,Cures Burns,Temp Stamina Buff S,(Food),,,,,,Event STR_LIBRARY_BUILD_005
+Frixell Pie,,,,29,3,1,1,1,Awakened (Food),Awakened (Food),Awakened (Food),Awakened (Food),(Food),(Elixirs),,,,,Event STR_LIBRARY_BUILD_006
+Rustic Gloves,,,,20,1,0,3,1,Awakened: Lightning +3,Ice DMG+ Lvl 3,Temp DEF Up Lvl 4,Faint Value Up Lvl 4,(Metals),,,,,,Event STR_LIBRARY_BUILD_012
+Fool's Stone,,,,33,0,4,0,4,Awakened (Mystery),Awakened (Mystery),Awakened (Mystery),Awakened (Mystery),(Ore),(Gunpowder),(Medicinal),,,,Event STR_LIBRARY_BUILD_007
+Appetite Away Pill,,,,13,0,1,2,2,Awakened: Earth +2,Temp ATK Debuff Lvl 3,Temp ATK Up Lvl 3,Weaken Item Lvl 4,(Medicines),(Medicinal),,,,,Event STR_LIBRARY_BUILD_013
+Appetite Boost Pill,,,,18,2,1,2,0,Awakened TP Increase +5,Faint Value Up Lvl 3,Temp Critical Rate Up Lvl 2,ATK Up Lvl 2,(Medicines),(Medicinal),,,,,Event STR_LIBRARY_BUILD_014
+Person Finder,,,,24,0,3,0,0,Awakened: Fire & Light. +1,Lightning DMG+ Lvl 2,Temp SPD Up Lvl 2,Ignores Luck M,(Metals),,,,,,Event STR_LIBRARY_BUILD_015
+Fatal Buster,,,,24,2,0,0,3,Awakened: Fire +3,Temp ATK Debuff Lvl 3,Cleanses Impurity M,ACC Up Lvl 3,(Metals),,,,,,Event STR_LIBRARY_BUILD_016
+Guardian Curry,,,,36,0,4,4,0,Awakened (Seafood),Awakened (Seafood),Awakened (Seafood),Awakened (Seafood),(Food),(Seafood),,,,,Event STR_LIBRARY_BUILD_021
+Dunkel Curry,,,,36,1,4,0,4,Awakened (Plants),Awakened (Plants),Awakened (Plants),Awakened (Plants),(Food),(Elixirs),,,,,Event STR_LIBRARY_BUILD_022
+Philosopher's Curry,,,,36,4,4,4,4,Awakened (Food),Awakened (Food),Awakened (Food),Awakened (Food),(Meat),(Vegetables),(Spices),(Mushrooms),,,Event STR_LIBRARY_BUILD_023
+Fish's Whiskers,,,,6,0,2,2,0,Awakened TP Increase +3,Faint Value Up Lvl 1,HP Recovery XS,Enhance Items Lvl 1,(Threads),(Animal Products),,,Eternal Spring,"Giant Isle Fish, Striped Isle Fish, Huge Isle Fish",
+Windslice Tail Feather,,,,30,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Windslice Body Feather,,,,33,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Windslice Wing Feather,,,,36,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Guardian Slice,,,,28,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Burning Ore,,,,22,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Slice of Night,,,,24,0,0,0,0,,,,,,,,,,,[Alchemyriddle] A Knight's Necessity [Chapter of Encounters]
+Bunt Resin,,,,6,2,1,0,2,Awakened TP Increase +3,Inflict Slowness Lvl 1,Add MP Recovery Lvl 1,ATK Up Lvl 1,(Clay),,,,,,[Alchemyriddle] Uniquely Designed Gear (3) [Chapter of Bonds]
+Machina Gear Mechanism,,,,31,0,0,0,0,,,,,(Important),,,,,,Event STR_LIBRARY_BUILD_018
+Guardian Liquor,,,,32,0,0,0,0,,,,,(Important),,,,,,[Alchemyriddle] Key to a Door to the Past [Chapter of Truth]
+Personal Key,,,,37,0,0,0,0,,,,,(Magic Tool),(Metals),,,,,Event STR_LIBRARY_BUILD_003
+Authorized Key,,,,38,0,0,0,0,,,,,(Important),,,,,,[Alchemyriddle] To Keep Hope Alive [Chapter of Decisions]
+Memory Core,,,,39,0,0,0,0,,,,,(Important),,,,,,[Alchemyriddle] Changing the Past [Chapter of Blank Pages]
+Restore Core,,,,42,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Alchemyriddle,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Letter,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Demon Crystal Core,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Coffee,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Liquor Candy,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Missive,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Pretty Shell,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Amazing Adventurer Notes,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Locket,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Benon's Diary,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Charm,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Pure Truffle,,,,0,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Lottery Ticket,,,,0,0,0,0,0,,,,,(Important),,,,,,[Alchemyriddle] Ecology of the Sea Guardian [Chapter of Answers]
+Pseudo-sonne,,,,12,0,2,3,0,Awakened TP Increase +7,Awakened TP Increase +7,Awakened Quality Up +20,Awakened Quality Up +20,(Food),(Medicinal),,,,,** Event/Quest **
+Steering Lever,,,,32,0,3,1,0,Awakened: Ice & Light. +2,Awakened: Ice & Light. +2,Awakened: Ice & Light. +2,Awakened: Ice & Light. +2,(Magic Tool),,,,,,** Event/Quest **
+Super Simple Alchemy,,,,0,0,0,0,0,,,,,,,,,,,** Event/Quest **
+Gem Polishing,,,,0,0,0,0,0,,,,,,,,,,,** Event/Quest **
+Ingredients for Beginners,,,,0,0,0,0,0,,,,,,,,,,,** Event/Quest **
+Delightful Craft,,,,0,0,0,0,0,,,,,,,,,,,** Event/Quest **
+Secrets of Master Blacksmith,,,,0,0,0,0,0,,,,,,,,,,,"Smithy, Chapter 8"
+The Art of Burning Soul,,,,0,0,0,0,0,,,,,,,,,,,** Event/Quest **
+My First Recipes,,,,0,0,0,0,0,,,,,,,,,,,"Sunrise Cafe, Chapter 6"
+You Can Do This,,,,0,0,0,0,0,,,,,,,,,,,** Event/Quest **
+Alchemy of Materials,,,,5,0,0,0,0,,,,,(Important),,,,,,"The Silver Chisel, Chapter 7"
+Leather Production,,,,2,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Gem Mysteries,,,,8,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Adventurer's Accessories,,,,12,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Haute Fashion,,,,18,0,0,0,0,,,,,(Important),,,,,,Chest - Ancient Monastery
+The Secrets of Jewelry Making,,,,32,0,0,0,0,,,,,(Important),,,,,,Chest - Fire Domain
+Processing the Elements,,,,6,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Rorona's Pie Recipe,,,,22,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Frixell Family Recipes,,,,12,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Merulua Fusion Recipe,,,,18,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Wild's Wild Recipe,,,,31,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Hagel's Diary,,,,18,0,0,0,0,,,,,(Important),,,,,,Ficus Events
+How to Make Exorcism Incense,,,,17,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+How to Make the Special Goddess Statue,,,,34,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+How to Make a Heavy Weight,,,,37,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+How to Repress an Appetite,,,,6,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+How to Boost an Appetite,,,,29,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+How to Make Charmed Items,,,,33,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+How to Make a Special Pickaxe,,,,31,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Rorona's Dear Recipe,,,,31,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Totori's Dear Recipe,,,,12,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Meruru's Dear Recipe,,,,36,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Operation Manual,,,,20,0,0,0,0,,,,,(Important),,,,,,** Event/Quest **
+Spirit Garb Mark - Crimson,,,,13,0,0,0,0,,,,,(Important),,,,,,
+Spirit Garb Mark - Azure,,,,18,0,0,0,0,,,,,(Important),,,,,,
