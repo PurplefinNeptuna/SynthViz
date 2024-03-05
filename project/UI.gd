@@ -1,6 +1,6 @@
 # This file is part of SyntViz.
 #
-# SyntViz - Visualize Syntax
+# SyntViz
 # Copyright (c) 2024 Ilham AJ (purplefin)
 #
 # SyntViz is free software: you can redistribute it and/or modify
