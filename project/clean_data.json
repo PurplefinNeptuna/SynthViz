@@ -293,7 +293,7 @@
 	"Alchemy Coat": {
 		"Effects": [
 			{
-				"Effect 1": "Mastery (Medicine): -10",
+				"Effect 1": "Mastery (Medicines): -10",
 				"Effect 2": "Mastery (Food): -5",
 				"Effect 3": "None: 0",
 				"Effect 4": "Mastery (Bombs): 5",
@@ -343,7 +343,7 @@
 			{
 				"Effect 1": "Stinky Trash: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Puniball): 15",
+				"Effect 3": "Add (Puniballs): 15",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -510,7 +510,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Metal): 14",
+				"Effect 3": "Add (Metals): 14",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -3021,7 +3021,7 @@
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_015",
+				"Name": "Bunt Resin",
 				"Qty": "1"
 			},
 			{
@@ -3915,7 +3915,7 @@
 			{
 				"Effect 1": "Stinky Trash: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Gemstone): 6",
+				"Effect 3": "Add (Gemstones): 6",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -3971,7 +3971,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_005": {
+	"Puni Drop": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
@@ -4004,12 +4004,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_006": {
+	"Eraezyko Charm": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Elixir): 14",
+				"Effect 3": "Add (Elixirs): 14",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4042,7 +4042,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_007": {
+	"Sands of Time": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
@@ -4080,12 +4080,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_008": {
+	"Ice Cascade Bomb": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Elixir): 12",
+				"Effect 3": "Add (Elixirs): 12",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4118,12 +4118,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_010": {
+	"Heavenly Parasol": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Supplement): 15",
+				"Effect 3": "Add (Supplements): 15",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4151,7 +4151,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_011": {
+	"Night Vision Goggles": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
@@ -4189,7 +4189,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_012": {
+	"True Dragon Hourglass": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
@@ -4206,7 +4206,7 @@
 		"Mats": [
 			{
 				"Awake": "NO",
-				"Name": "ITEM_KEY_ITEM_007",
+				"Name": "Sands of Time",
 				"Qty": "1"
 			},
 			{
@@ -4227,12 +4227,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_013": {
+	"Time Brooch": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Metal): 13",
+				"Effect 3": "Add (Metals): 13",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4244,7 +4244,7 @@
 		"Mats": [
 			{
 				"Awake": "NO",
-				"Name": "ITEM_KEY_ITEM_007",
+				"Name": "Sands of Time",
 				"Qty": "1"
 			},
 			{
@@ -4265,7 +4265,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_015": {
+	"Special Goddess Statue": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
@@ -4303,12 +4303,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_016": {
+	"Plain Pie": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Vegetable): 9",
+				"Effect 3": "Add (Vegetables): 9",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4336,12 +4336,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_017": {
+	"Frixell Pie": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Mushroom): 10",
+				"Effect 3": "Add (Mushrooms): 10",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4374,7 +4374,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_018": {
+	"Rustic Gloves": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
@@ -4412,13 +4412,13 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_019": {
+	"Fool's Stone": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
 				"Effect 3": "Add (Clay): 16",
-				"Effect 4": "Add (Metal): 17",
+				"Effect 4": "Add (Metals): 17",
 				"Effect 5": "",
 				"Effect 6": "",
 				"L Elem": "Earth",
@@ -4450,12 +4450,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_KEY_ITEM_020": {
+	"Appetite Away Pill": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Spice): 15",
+				"Effect 3": "Add (Spices): 15",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4515,17 +4515,17 @@
 		"Mats": [
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_004",
+				"Name": "Guardian Curry",
 				"Qty": "1"
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_005",
+				"Name": "Dunkel Curry",
 				"Qty": "1"
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_006",
+				"Name": "Philosopher's Curry",
 				"Qty": "1"
 			},
 			{
@@ -4712,7 +4712,7 @@
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_KEY_ITEM_019",
+				"Name": "Fool's Stone",
 				"Qty": "1"
 			},
 			{
@@ -4728,12 +4728,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_001": {
+	"Appetite Boost Pill": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Elixir): 13",
+				"Effect 3": "Add (Elixirs): 13",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4766,7 +4766,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_002": {
+	"Person Finder": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
@@ -4804,12 +4804,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_003": {
+	"Fatal Buster": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Bomb): 17",
+				"Effect 3": "Add (Bombs): 17",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4842,12 +4842,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_004": {
+	"Guardian Curry": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Spice): 14",
+				"Effect 3": "Add (Spices): 14",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4880,12 +4880,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_005": {
+	"Dunkel Curry": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Plant): 12",
+				"Effect 3": "Add (Plants): 12",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4918,12 +4918,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_006": {
+	"Philosopher's Curry": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Supplement): 13",
+				"Effect 3": "Add (Supplements): 13",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -4956,7 +4956,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_015": {
+	"Bunt Resin": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
@@ -4994,7 +4994,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_019": {
+	"Authorized Key": {
 		"Effects": [
 			{
 				"Effect 1": "",
@@ -5016,18 +5016,18 @@
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_013",
+				"Name": "Burning Ore",
 				"Qty": "1"
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_014",
+				"Name": "Slice of Night",
 				"Qty": "1"
 			}
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_020": {
+	"Memory Core": {
 		"Effects": [
 			{
 				"Effect 1": "",
@@ -5044,12 +5044,12 @@
 		"Mats": [
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_009",
+				"Name": "Windslice Body Feather",
 				"Qty": "1"
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_KEY_ITEM_007",
+				"Name": "Sands of Time",
 				"Qty": "1"
 			},
 			{
@@ -5065,7 +5065,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_021": {
+	"Restore Core": {
 		"Effects": [
 			{
 				"Effect 1": "",
@@ -5082,12 +5082,12 @@
 		"Mats": [
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_010",
+				"Name": "Windslice Wing Feather",
 				"Qty": "1"
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_KEY_ITEM_007",
+				"Name": "Sands of Time",
 				"Qty": "1"
 			},
 			{
@@ -5103,12 +5103,12 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_KEY_ITEM_036": {
+	"Steering Lever": {
 		"Effects": [
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Metal): 12",
+				"Effect 3": "Add (Metals): 12",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -5141,7 +5141,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_001": {
+	"Alchemy Textbook": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5189,7 +5189,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_002": {
+	"Minstrel Book": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5237,7 +5237,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_003": {
+	"Arch Anatomis": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5285,7 +5285,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_004": {
+	"Stellar Score": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5333,7 +5333,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_005": {
+	"Mythical Tome Atracalta": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5381,7 +5381,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_006": {
+	"Alchemy Girl's Sword": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5424,7 +5424,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_007": {
+	"Cosmos Code": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5472,7 +5472,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_008": {
+	"Princess Saver": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5520,7 +5520,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_009": {
+	"Lunatomic Edge": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5568,7 +5568,7 @@
 		],
 		"Uses": "1"
 	},
-	"ITEM_RESERVE_WEAPON_010": {
+	"Holy Sword Weiselende": {
 		"Effects": [
 			{
 				"Effect 1": "None: 0",
@@ -5702,7 +5702,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Vapor): 10",
+				"Effect 3": "Add (Vapors): 10",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -5826,7 +5826,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Elixir): 14",
+				"Effect 3": "Add (Elixirs): 14",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -5950,7 +5950,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Bug): 12",
+				"Effect 3": "Add (Bugs): 12",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -7427,7 +7427,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Gemstone): 13",
+				"Effect 3": "Add (Gemstones): 13",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -7541,7 +7541,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Mushroom): 13",
+				"Effect 3": "Add (Mushrooms): 13",
 				"Effect 4": "Add (Seafood): 15",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -7660,7 +7660,7 @@
 			{
 				"Effect 1": "Ashes of Failure: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Supplement): 5",
+				"Effect 3": "Add (Supplements): 5",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -7726,7 +7726,7 @@
 			{
 				"Effect 1": "Stinky Trash: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Poison): 12",
+				"Effect 3": "Add (Poisons): 12",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -7797,7 +7797,7 @@
 			{
 				"Effect 1": "Pollutant: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Vapor): 10",
+				"Effect 3": "Add (Vapors): 10",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -7997,7 +7997,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Gemstone): 9",
+				"Effect 3": "Add (Gemstones): 9",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -8685,7 +8685,7 @@
 			{
 				"Effect 1": "Pollutant: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Gemstone): 13",
+				"Effect 3": "Add (Gemstones): 13",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -8948,7 +8948,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Plant): 12",
+				"Effect 3": "Add (Plants): 12",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -9320,7 +9320,7 @@
 			{
 				"Effect 1": "Pollutant: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Poison): 15",
+				"Effect 3": "Add (Poisons): 15",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -9508,7 +9508,7 @@
 			{
 				"Effect 1": "Broken Item: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Bug): 13",
+				"Effect 3": "Add (Bugs): 13",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -9584,7 +9584,7 @@
 			{
 				"Effect 1": "Pollutant: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Elixir): 15",
+				"Effect 3": "Add (Elixirs): 15",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",
@@ -9622,7 +9622,7 @@
 			{
 				"Effect 1": "Pollutant: -2",
 				"Effect 2": "None: 0",
-				"Effect 3": "Add (Poison): 12",
+				"Effect 3": "Add (Poisons): 12",
 				"Effect 4": "",
 				"Effect 5": "",
 				"Effect 6": "",

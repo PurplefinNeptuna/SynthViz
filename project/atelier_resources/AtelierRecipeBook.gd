@@ -35,7 +35,11 @@ func _init(
 			recipe_required.append(required["Name"])
 
 		add_material(
-			recipe, "Synth", recipe_data["Categories"], recipe_data["AddCategory"], recipe_required
+			recipe,
+			"Synth",
+			recipe_data["Categories"] if "Categories" in recipe_data else [],
+			recipe_data["AddCategory"] if "AddCategory" in recipe_data else [],
+			recipe_required
 		)
 
 	# Add all items

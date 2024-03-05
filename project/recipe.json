@@ -293,7 +293,7 @@
 	"Alchemy Coat": {
 		"Effects": [
 			{
-				"Effect 1": "Mastery (Medicine): -10",
+				"Effect 1": "Mastery (Medicines): -10",
 				"Effect 2": "Mastery (Food): -5",
 				"Effect 3": "None: 0",
 				"Effect 4": "Mastery (Bombs): 5",
@@ -3021,7 +3021,7 @@
 			},
 			{
 				"Awake": "NO",
-				"Name": "ITEM_RESERVE_KEY_ITEM_015",
+				"Name": "Bunt Resin",
 				"Qty": "1"
 			},
 			{

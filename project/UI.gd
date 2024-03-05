@@ -18,7 +18,7 @@
 
 extends Control
 
-@onready var recipeJson := FileAccess.open("res://recipe.json", FileAccess.READ).get_as_text()
+@onready var recipeJson := FileAccess.open("res://clean_data.json", FileAccess.READ).get_as_text()
 @onready var itemJson := FileAccess.open("res://items.json", FileAccess.READ).get_as_text()
 var recipes: Dictionary = {}
 var allMaterials: Dictionary = {}
@@ -63,7 +63,11 @@ func readJson() -> void:
 
 	for cat_key in categories.keys():
 		categories[cat_key].sort_custom(
-			func(a, b): return items[a]["Level"].to_int() < items[b]["Level"].to_int()
+		func(a, b):
+			if items.has(a) and items.has(b):
+				return items[a]["Level"].to_int() < items[b]["Level"].to_int()
+			else:
+				return a < b
 		)
 
 	# Read recipe and repair keys
@@ -76,9 +80,9 @@ func readJson() -> void:
 		recipes = json.data as Dictionary
 
 	for recipeKey: String in recipes.keys():
-		var recipeData := recipes.get(recipeKey) as Dictionary
-		var itemData := items.get(recipeKey) as Dictionary
-		if itemData != null:
+		if recipes.has(recipeKey) and items.has(recipeKey):
+			var recipeData := recipes.get(recipeKey) as Dictionary
+			var itemData := items.get(recipeKey) as Dictionary
 			recipeData["Level"] = itemData["Level"]
 			recipeData["Categories"] = itemData["Categories"]
 
@@ -110,7 +114,11 @@ func isCraftable(item: String) -> bool:
 func failCollection() -> void:
 	var orderedRecipeKeys := recipes.keys()
 	orderedRecipeKeys.sort_custom(
-		func(a, b): return items[a]["Level"].to_int() < items[b]["Level"].to_int()
+		func(a, b):
+			if items.has(a) and items.has(b):
+				return items[a]["Level"].to_int() < items[b]["Level"].to_int()
+			else:
+				return a < b
 	)
 
 	for recipeKey: String in orderedRecipeKeys:
@@ -137,11 +145,15 @@ func failCollection() -> void:
 
 func plusCategoryFinder() -> void:
 	var regex := RegEx.new()
-	regex.compile("(?<=\\()\\w*(?=\\))")
+	regex.compile("(?<=\\()[\\w\\s\\d]*(?=\\))")
 
 	var orderedRecipeKeys := recipes.keys()
 	orderedRecipeKeys.sort_custom(
-		func(a, b): return items[a]["Level"].to_int() < items[b]["Level"].to_int()
+		func(a, b):
+			if items.has(a) and items.has(b):
+				return items[a]["Level"].to_int() < items[b]["Level"].to_int()
+			else:
+				return a < b
 	)
 
 	for recipeKey: String in orderedRecipeKeys:
@@ -216,7 +228,7 @@ func _ready():
 
 func onTargetSelected(id: int):
 	var target := targetItem.get_item_text(id)
-	if recipes.has(target):
+	if recipes.has(target) and items.has(target):
 		var level := items[target]["Level"] as String
 		lvSlider.min_value = level.to_int()
 
@@ -254,8 +266,8 @@ func onStartSearchPressed():
 	if paths.size() == 0:
 		resultText.text = "No recipe found!"
 		return
-	else:
-		resultText.text = "Found: %d" % paths.size()
+
+	resultText.text = "Found: %d" % paths.size()
 
 	for path: int in paths.size():
 		var pathbox := resultbox_copy.duplicate()
